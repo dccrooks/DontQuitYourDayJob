@@ -1,0 +1,256 @@
+2018-09-06,Atlanta,Philadelphia,12,18,NaN,130,NaN,-150,NaN,-115,NaN,-105
+2018-09-09,Pittsburgh,Cleveland,21,21,NaN,-245,NaN,203,NaN,-185,NaN,160
+2018-09-09,San Francisco,Minnesota,16,24,NaN,215,NaN,-260,NaN,230,NaN,-280
+2018-09-09,Cincinnati,Indianapolis,34,23,NaN,135,NaN,-155,NaN,-105,NaN,-115
+2018-09-09,Buffalo,Baltimore,3,47,NaN,237,NaN,-290,NaN,292,NaN,-365
+2018-09-09,Jacksonville,N.Y. Giants,20,15,NaN,-165,NaN,144,NaN,-146,NaN,126
+2018-09-09,Tampa Bay,New Orleans,48,40,NaN,351,NaN,-450,NaN,406,NaN,-535
+2018-09-09,Houston,New England,20,27,NaN,218,NaN,-265,NaN,218,NaN,-265
+2018-09-09,Tennessee,Miami,20,27,NaN,-119,NaN,-101,NaN,102,NaN,-122
+2018-09-09,Kansas City,L.A. Chargers,38,28,NaN,151,NaN,-175,NaN,163,NaN,-190
+2018-09-09,Seattle,Denver,24,27,NaN,135,NaN,-155,NaN,159,NaN,-186
+2018-09-09,Dallas,Carolina,8,16,NaN,130,NaN,-150,NaN,140,NaN,-160
+2018-09-09,Washington,Arizona,24,6,NaN,107,NaN,-127,NaN,113,NaN,-133
+2018-09-09,Chicago,Green Bay,23,24,NaN,292,NaN,-365,NaN,245,NaN,-300
+2018-09-10,N.Y. Jets,Detroit,48,17,NaN,226,NaN,-275,NaN,281,NaN,-350
+2018-09-10,L.A. Rams,Las Vegas,33,13,NaN,-185,NaN,160,NaN,-280,NaN,230
+2018-09-13,Baltimore,Cincinnati,23,34,NaN,-119,NaN,-101,NaN,-105,NaN,-115
+2018-09-16,Indianapolis,Washington,21,9,NaN,203,NaN,-245,NaN,215,NaN,-260
+2018-09-16,Carolina,Atlanta,24,31,NaN,192,NaN,-230,NaN,207,NaN,-250
+2018-09-16,Minnesota,Green Bay,29,29,NaN,105,NaN,-125,NaN,-120,NaN,100
+2018-09-16,L.A. Chargers,Buffalo,31,20,NaN,-335,NaN,271,NaN,-345,NaN,278
+2018-09-16,Houston,Tennessee,17,20,NaN,-130,NaN,110,NaN,-190,NaN,163
+2018-09-16,Kansas City,Pittsburgh,42,37,NaN,192,NaN,-230,NaN,170,NaN,-200
+2018-09-16,Miami,N.Y. Jets,20,12,NaN,125,NaN,-145,NaN,148,NaN,-170
+2018-09-16,Philadelphia,Tampa Bay,21,27,NaN,-175,NaN,151,NaN,-146,NaN,126
+2018-09-16,Cleveland,New Orleans,18,21,NaN,303,NaN,-380,NaN,384,NaN,-500
+2018-09-16,Arizona,L.A. Rams,0,34,NaN,711,NaN,-1100,NaN,614,NaN,-900
+2018-09-16,Detroit,San Francisco,27,30,NaN,199,NaN,-240,NaN,220,NaN,-267
+2018-09-16,Las Vegas,Denver,19,20,NaN,199,NaN,-240,NaN,231,NaN,-282
+2018-09-16,New England,Jacksonville,20,31,NaN,-140,NaN,120,NaN,-126,NaN,106
+2018-09-16,N.Y. Giants,Dallas,13,20,NaN,148,NaN,-170,NaN,125,NaN,-145
+2018-09-17,Seattle,Chicago,17,24,NaN,151,NaN,-175,NaN,207,NaN,-250
+2018-09-20,N.Y. Jets,Cleveland,17,21,NaN,148,NaN,-170,NaN,154,NaN,-179
+2018-09-23,Indianapolis,Philadelphia,16,20,NaN,215,NaN,-260,NaN,247,NaN,-302
+2018-09-23,Cincinnati,Carolina,21,31,NaN,130,NaN,-150,NaN,130,NaN,-150
+2018-09-23,Tennessee,Jacksonville,9,6,NaN,367,NaN,-475,NaN,390,NaN,-510
+2018-09-23,New Orleans,Atlanta,43,37,NaN,144,NaN,-165,NaN,111,NaN,-131
+2018-09-23,Denver,Baltimore,14,27,NaN,192,NaN,-230,NaN,199,NaN,-240
+2018-09-23,N.Y. Giants,Houston,27,22,NaN,218,NaN,-265,NaN,230,NaN,-280
+2018-09-23,Las Vegas,Miami,20,28,NaN,148,NaN,-170,NaN,127,NaN,-147
+2018-09-23,Green Bay,Washington,17,31,NaN,-145,NaN,125,NaN,-145,NaN,125
+2018-09-23,Buffalo,Minnesota,27,6,NaN,837,NaN,-1400,NaN,948,NaN,-1703
+2018-09-23,San Francisco,Kansas City,27,38,NaN,237,NaN,-290,NaN,230,NaN,-280
+2018-09-23,L.A. Chargers,L.A. Rams,23,35,NaN,256,NaN,-315,NaN,263,NaN,-325
+2018-09-23,Chicago,Arizona,16,14,NaN,-275,NaN,226,NaN,-247,NaN,205
+2018-09-23,Dallas,Seattle,13,24,NaN,103,NaN,-123,NaN,115,NaN,-135
+2018-09-23,New England,Detroit,10,26,NaN,-270,NaN,222,NaN,-313,NaN,254
+2018-09-24,Pittsburgh,Tampa Bay,30,27,NaN,-123,NaN,103,NaN,105,NaN,-125
+2018-09-27,Minnesota,L.A. Rams,31,38,NaN,230,NaN,-280,NaN,297,NaN,-373
+2018-09-30,Miami,New England,7,38,NaN,241,NaN,-295,NaN,256,NaN,-315
+2018-09-30,Houston,Indianapolis,37,34,NaN,103,NaN,-123,NaN,-124,NaN,104
+2018-09-30,Cincinnati,Atlanta,37,36,NaN,192,NaN,-230,NaN,160,NaN,-185
+2018-09-30,Buffalo,Green Bay,0,22,NaN,330,NaN,-420,NaN,296,NaN,-370
+2018-09-30,Detroit,Dallas,24,26,NaN,140,NaN,-160,NaN,120,NaN,-140
+2018-09-30,N.Y. Jets,Jacksonville,12,31,NaN,296,NaN,-370,NaN,278,NaN,-345
+2018-09-30,Tampa Bay,Chicago,10,48,NaN,140,NaN,-160,NaN,120,NaN,-140
+2018-09-30,Philadelphia,Tennessee,23,26,NaN,-205,NaN,172,NaN,-143,NaN,123
+2018-09-30,Seattle,Arizona,20,17,NaN,-170,NaN,148,NaN,-195,NaN,166
+2018-09-30,Cleveland,Las Vegas,42,45,NaN,125,NaN,-145,NaN,120,NaN,-140
+2018-09-30,San Francisco,L.A. Chargers,27,29,NaN,364,NaN,-470,NaN,367,NaN,-475
+2018-09-30,New Orleans,N.Y. Giants,33,18,NaN,-185,NaN,160,NaN,-173,NaN,152
+2018-09-30,Baltimore,Pittsburgh,26,14,NaN,151,NaN,-175,NaN,144,NaN,-165
+2018-10-01,Kansas City,Denver,27,23,NaN,-220,NaN,184,NaN,-183,NaN,157
+2018-10-04,Indianapolis,New England,24,38,NaN,377,NaN,-490,NaN,492,NaN,-675
+2018-10-07,Baltimore,Cleveland,9,12,NaN,-153,NaN,133,NaN,-180,NaN,155
+2018-10-07,Jacksonville,Kansas City,14,30,NaN,144,NaN,-165,NaN,130,NaN,-150
+2018-10-07,Tennessee,Buffalo,12,13,NaN,-180,NaN,155,NaN,-300,NaN,245
+2018-10-07,N.Y. Giants,Carolina,31,33,NaN,252,NaN,-310,NaN,226,NaN,-275
+2018-10-07,Denver,N.Y. Jets,16,34,NaN,120,NaN,-140,NaN,-115,NaN,-105
+2018-10-07,Atlanta,Pittsburgh,17,41,NaN,135,NaN,-155,NaN,160,NaN,-185
+2018-10-07,Green Bay,Detroit,23,31,NaN,-125,NaN,105,NaN,115,NaN,-135
+2018-10-07,Miami,Cincinnati,17,27,NaN,215,NaN,-260,NaN,222,NaN,-270
+2018-10-07,Las Vegas,L.A. Chargers,10,26,NaN,211,NaN,-255,NaN,203,NaN,-245
+2018-10-07,Arizona,San Francisco,28,18,NaN,180,NaN,-215,NaN,140,NaN,-160
+2018-10-07,Minnesota,Philadelphia,23,21,NaN,148,NaN,-170,NaN,164,NaN,-192
+2018-10-07,L.A. Rams,Seattle,33,31,NaN,-350,NaN,281,NaN,-350,NaN,281
+2018-10-07,Dallas,Houston,16,19,NaN,155,NaN,-180,NaN,160,NaN,-185
+2018-10-08,Washington,New Orleans,19,43,NaN,223,NaN,-271,NaN,222,NaN,-270
+2018-10-11,Philadelphia,N.Y. Giants,34,13,NaN,-150,NaN,130,NaN,-137,NaN,117
+2018-10-14,Arizona,Minnesota,17,27,NaN,384,NaN,-500,NaN,367,NaN,-475
+2018-10-14,L.A. Chargers,Cleveland,38,14,NaN,-115,NaN,-105,NaN,-105,NaN,-115
+2018-10-14,Chicago,Miami,28,31,NaN,-170,NaN,148,NaN,-332,NaN,268
+2018-10-14,Carolina,Washington,17,23,NaN,-101,NaN,-119,NaN,-119,NaN,100
+2018-10-14,Indianapolis,N.Y. Jets,34,42,NaN,125,NaN,-145,NaN,121,NaN,-140
+2018-10-14,Pittsburgh,Cincinnati,28,21,NaN,125,NaN,-145,NaN,108,NaN,-127
+2018-10-14,Tampa Bay,Atlanta,29,34,NaN,148,NaN,-170,NaN,141,NaN,-161
+2018-10-14,Seattle,Las Vegas,27,3,NaN,-150,NaN,130,NaN,-155,NaN,135
+2018-10-14,Buffalo,Houston,13,20,NaN,324,NaN,-410,NaN,384,NaN,-500
+2018-10-14,L.A. Rams,Denver,23,20,NaN,-325,NaN,263,NaN,-337,NaN,272
+2018-10-14,Jacksonville,Dallas,7,40,NaN,-155,NaN,135,NaN,-182,NaN,157
+2018-10-14,Baltimore,Tennessee,21,0,NaN,-155,NaN,135,NaN,-140,NaN,120
+2018-10-14,Kansas City,New England,40,43,NaN,160,NaN,-185,NaN,174,NaN,-208
+2018-10-15,San Francisco,Green Bay,30,33,NaN,330,NaN,-420,NaN,377,NaN,-490
+2018-10-18,Denver,Arizona,45,10,NaN,-130,NaN,110,NaN,-115,NaN,-105
+2018-10-21,Tennessee,L.A. Chargers,19,20,NaN,230,NaN,-280,NaN,263,NaN,-325
+2018-10-21,New England,Chicago,38,31,NaN,-165,NaN,144,NaN,-130,NaN,110
+2018-10-21,Cleveland,Tampa Bay,23,26,NaN,144,NaN,-165,NaN,163,NaN,-190
+2018-10-21,Detroit,Miami,32,21,NaN,-150,NaN,130,NaN,-186,NaN,160
+2018-10-21,Carolina,Philadelphia,21,17,NaN,184,NaN,-220,NaN,207,NaN,-250
+2018-10-21,Buffalo,Indianapolis,5,37,NaN,274,NaN,-340,NaN,245,NaN,-300
+2018-10-21,Minnesota,N.Y. Jets,37,17,NaN,-175,NaN,151,NaN,-190,NaN,163
+2018-10-21,Houston,Jacksonville,20,7,NaN,192,NaN,-230,NaN,163,NaN,-190
+2018-10-21,New Orleans,Baltimore,24,23,NaN,120,NaN,-140,NaN,127,NaN,-147
+2018-10-21,Dallas,Washington,17,20,NaN,105,NaN,-125,NaN,-125,NaN,105
+2018-10-21,L.A. Rams,San Francisco,39,10,NaN,-450,NaN,351,NaN,-470,NaN,364
+2018-10-21,Cincinnati,Kansas City,10,45,NaN,207,NaN,-250,NaN,246,NaN,-301
+2018-10-22,N.Y. Giants,Atlanta,20,23,NaN,211,NaN,-255,NaN,199,NaN,-240
+2018-10-25,Miami,Houston,23,42,NaN,267,NaN,-330,NaN,317,NaN,-400
+2018-10-28,Philadelphia,Jacksonville,24,18,NaN,-180,NaN,155,NaN,-200,NaN,170
+2018-10-28,Cleveland,Pittsburgh,18,33,NaN,306,NaN,-385,NaN,351,NaN,-450
+2018-10-28,Denver,Kansas City,23,30,NaN,440,NaN,-590,NaN,338,NaN,-431
+2018-10-28,N.Y. Jets,Chicago,10,24,NaN,252,NaN,-310,NaN,334,NaN,-425
+2018-10-28,Washington,N.Y. Giants,20,13,NaN,-120,NaN,100,NaN,-120,NaN,100
+2018-10-28,Seattle,Detroit,28,14,NaN,130,NaN,-150,NaN,148,NaN,-170
+2018-10-28,Tampa Bay,Cincinnati,34,37,NaN,199,NaN,-240,NaN,160,NaN,-185
+2018-10-28,Baltimore,Carolina,21,36,NaN,-130,NaN,110,NaN,-145,NaN,125
+2018-10-28,Indianapolis,Las Vegas,42,28,NaN,-130,NaN,110,NaN,-188,NaN,161
+2018-10-28,San Francisco,Arizona,15,18,NaN,-120,NaN,100,NaN,-155,NaN,135
+2018-10-28,Green Bay,L.A. Rams,27,29,NaN,351,NaN,-450,NaN,296,NaN,-370
+2018-10-28,New Orleans,Minnesota,30,20,NaN,105,NaN,-125,NaN,-140,NaN,120
+2018-10-29,New England,Buffalo,25,6,NaN,-1700,NaN,947,NaN,-1239,NaN,772
+2018-11-01,Las Vegas,San Francisco,3,34,NaN,148,NaN,-170,NaN,-125,NaN,105
+2018-11-04,Detroit,Minnesota,9,24,NaN,188,NaN,-225,NaN,203,NaN,-245
+2018-11-04,Kansas City,Cleveland,37,21,NaN,-400,NaN,317,NaN,-425,NaN,334
+2018-11-04,Pittsburgh,Baltimore,23,16,NaN,140,NaN,-160,NaN,110,NaN,-130
+2018-11-04,Tampa Bay,Carolina,28,42,NaN,281,NaN,-350,NaN,256,NaN,-315
+2018-11-04,N.Y. Jets,Miami,6,13,NaN,130,NaN,-150,NaN,128,NaN,-149
+2018-11-04,Atlanta,Washington,38,14,NaN,105,NaN,-125,NaN,105,NaN,-125
+2018-11-04,Chicago,Buffalo,41,9,NaN,-450,NaN,351,NaN,-491,NaN,378
+2018-11-04,Houston,Denver,19,17,NaN,125,NaN,-145,NaN,105,NaN,-125
+2018-11-04,L.A. Chargers,Seattle,25,17,NaN,105,NaN,-125,NaN,-109,NaN,-110
+2018-11-04,L.A. Rams,New Orleans,35,45,NaN,100,NaN,-120,NaN,-135,NaN,115
+2018-11-04,Green Bay,New England,17,31,NaN,199,NaN,-240,NaN,180,NaN,-215
+2018-11-05,Tennessee,Dallas,28,14,NaN,263,NaN,-325,NaN,199,NaN,-240
+2018-11-08,Carolina,Pittsburgh,21,52,NaN,172,NaN,-205,NaN,174,NaN,-208
+2018-11-11,Buffalo,N.Y. Jets,41,10,NaN,281,NaN,-350,NaN,260,NaN,-320
+2018-11-11,Atlanta,Cleveland,16,28,NaN,-210,NaN,176,NaN,-275,NaN,226
+2018-11-11,New Orleans,Cincinnati,51,14,NaN,-210,NaN,176,NaN,-275,NaN,226
+2018-11-11,Washington,Tampa Bay,16,3,NaN,125,NaN,-145,NaN,169,NaN,-199
+2018-11-11,New England,Tennessee,10,34,NaN,-285,NaN,234,NaN,-299,NaN,244
+2018-11-11,Jacksonville,Indianapolis,26,29,NaN,125,NaN,-145,NaN,144,NaN,-165
+2018-11-11,Detroit,Chicago,22,34,NaN,245,NaN,-300,NaN,289,NaN,-360
+2018-11-11,Arizona,Kansas City,14,26,NaN,1041,NaN,-2000,NaN,980,NaN,-1800
+2018-11-11,L.A. Chargers,Las Vegas,20,6,NaN,-500,NaN,384,NaN,-550,NaN,416
+2018-11-11,Miami,Green Bay,12,31,NaN,400,NaN,-525,NaN,477,NaN,-650
+2018-11-11,Seattle,L.A. Rams,31,36,NaN,400,NaN,-525,NaN,398,NaN,-523
+2018-11-11,Dallas,Philadelphia,27,20,NaN,237,NaN,-290,NaN,306,NaN,-385
+2018-11-12,N.Y. Giants,San Francisco,27,23,NaN,125,NaN,-145,NaN,155,NaN,-180
+2018-11-15,Green Bay,Seattle,24,27,NaN,120,NaN,-140,NaN,142,NaN,-162
+2018-11-18,Carolina,Detroit,19,20,NaN,-200,NaN,170,NaN,-215,NaN,180
+2018-11-18,Dallas,Atlanta,22,19,NaN,150,NaN,-173,NaN,163,NaN,-190
+2018-11-18,Cincinnati,Baltimore,21,24,NaN,184,NaN,-220,NaN,237,NaN,-290
+2018-11-18,Tennessee,Indianapolis,10,38,NaN,105,NaN,-125,NaN,105,NaN,-125
+2018-11-18,Houston,Washington,23,21,NaN,-155,NaN,135,NaN,-171,NaN,148
+2018-11-18,Tampa Bay,N.Y. Giants,35,38,NaN,-101,NaN,-119,NaN,151,NaN,-175
+2018-11-18,Pittsburgh,Jacksonville,20,16,NaN,-255,NaN,211,NaN,-215,NaN,180
+2018-11-18,Denver,L.A. Chargers,23,22,NaN,281,NaN,-350,NaN,274,NaN,-340
+2018-11-18,Las Vegas,Arizona,23,21,NaN,176,NaN,-210,NaN,180,NaN,-215
+2018-11-18,Philadelphia,New Orleans,7,48,NaN,334,NaN,-425,NaN,267,NaN,-330
+2018-11-18,Minnesota,Chicago,20,25,NaN,130,NaN,-150,NaN,125,NaN,-145
+2018-11-19,Kansas City,L.A. Rams,51,54,NaN,148,NaN,-170,NaN,157,NaN,-180
+2018-11-22,Chicago,Detroit,23,16,NaN,-195,NaN,166,NaN,-165,NaN,144
+2018-11-22,Washington,Dallas,23,31,NaN,292,NaN,-365,NaN,281,NaN,-350
+2018-11-22,Atlanta,New Orleans,17,31,NaN,534,NaN,-750,NaN,515,NaN,-716
+2018-11-25,Jacksonville,Buffalo,21,24,NaN,-185,NaN,160,NaN,-160,NaN,140
+2018-11-25,Las Vegas,Baltimore,17,34,NaN,506,NaN,-700,NaN,534,NaN,-750
+2018-11-25,San Francisco,Tampa Bay,9,27,NaN,163,NaN,-190,NaN,105,NaN,-125
+2018-11-25,N.Y. Giants,Philadelphia,22,25,NaN,222,NaN,-270,NaN,192,NaN,-230
+2018-11-25,Cleveland,Cincinnati,35,20,NaN,144,NaN,-165,NaN,-105,NaN,-115
+2018-11-25,New England,N.Y. Jets,27,13,NaN,-475,NaN,367,NaN,-700,NaN,506
+2018-11-25,Seattle,Carolina,30,27,NaN,148,NaN,-170,NaN,146,NaN,-168
+2018-11-25,Arizona,L.A. Chargers,10,45,NaN,477,NaN,-650,NaN,664,NaN,-1000
+2018-11-25,Miami,Indianapolis,24,27,NaN,384,NaN,-500,NaN,351,NaN,-450
+2018-11-25,Pittsburgh,Denver,17,24,NaN,-170,NaN,148,NaN,-164,NaN,142
+2018-11-25,Green Bay,Minnesota,17,24,NaN,166,NaN,-195,NaN,170,NaN,-200
+2018-11-26,Tennessee,Houston,17,34,NaN,215,NaN,-260,NaN,170,NaN,-200
+2018-11-29,New Orleans,Dallas,10,13,NaN,-370,NaN,296,NaN,-355,NaN,285
+2018-12-02,Carolina,Tampa Bay,17,24,NaN,-180,NaN,155,NaN,-180,NaN,155
+2018-12-02,Baltimore,Atlanta,26,16,NaN,-135,NaN,115,NaN,125,NaN,-145
+2018-12-02,Cleveland,Houston,13,29,NaN,215,NaN,-260,NaN,199,NaN,-240
+2018-12-02,Buffalo,Miami,17,21,NaN,184,NaN,-220,NaN,166,NaN,-195
+2018-12-02,Chicago,N.Y. Giants,27,30,NaN,-185,NaN,160,NaN,-190,NaN,163
+2018-12-02,Denver,Cincinnati,24,10,NaN,-215,NaN,180,NaN,-190,NaN,163
+2018-12-02,L.A. Rams,Detroit,30,16,NaN,-475,NaN,367,NaN,-550,NaN,416
+2018-12-02,Arizona,Green Bay,20,17,NaN,829,NaN,-1379,NaN,639,NaN,-950
+2018-12-02,Indianapolis,Jacksonville,0,12,NaN,-190,NaN,163,NaN,-210,NaN,176
+2018-12-02,Kansas City,Las Vegas,40,33,NaN,-1428,NaN,848,NaN,-900,NaN,614
+2018-12-02,N.Y. Jets,Tennessee,22,26,NaN,306,NaN,-385,NaN,351,NaN,-450
+2018-12-02,Minnesota,New England,10,24,NaN,195,NaN,-235,NaN,218,NaN,-265
+2018-12-02,San Francisco,Seattle,16,43,NaN,358,NaN,-460,NaN,351,NaN,-450
+2018-12-02,L.A. Chargers,Pittsburgh,33,30,NaN,144,NaN,-165,NaN,167,NaN,-196
+2018-12-03,Washington,Philadelphia,13,28,NaN,230,NaN,-280,NaN,226,NaN,-275
+2018-12-06,Jacksonville,Tennessee,9,30,NaN,180,NaN,-215,NaN,222,NaN,-270
+2018-12-09,Baltimore,Kansas City,24,27,NaN,245,NaN,-300,NaN,252,NaN,-310
+2018-12-09,Indianapolis,Houston,24,21,NaN,207,NaN,-250,NaN,180,NaN,-215
+2018-12-09,Carolina,Cleveland,20,26,NaN,-125,NaN,105,NaN,-122,NaN,102
+2018-12-09,Atlanta,Green Bay,20,34,NaN,199,NaN,-240,NaN,172,NaN,-205
+2018-12-09,New Orleans,Tampa Bay,28,14,NaN,-385,NaN,306,NaN,-492,NaN,379
+2018-12-09,N.Y. Jets,Buffalo,27,23,NaN,163,NaN,-190,NaN,184,NaN,-220
+2018-12-09,New England,Miami,33,34,NaN,-400,NaN,317,NaN,-450,NaN,351
+2018-12-09,N.Y. Giants,Washington,40,16,NaN,-190,NaN,163,NaN,-170,NaN,148
+2018-12-09,Denver,San Francisco,13,20,NaN,-290,NaN,237,NaN,-155,NaN,135
+2018-12-09,Cincinnati,L.A. Chargers,21,26,NaN,912,NaN,-1600,NaN,876,NaN,-1500
+2018-12-09,Detroit,Arizona,17,3,NaN,-140,NaN,120,NaN,-140,NaN,120
+2018-12-09,Philadelphia,Dallas,23,29,NaN,166,NaN,-195,NaN,156,NaN,-180
+2018-12-09,Pittsburgh,Las Vegas,21,24,NaN,-900,NaN,614,NaN,-470,NaN,364
+2018-12-09,L.A. Rams,Chicago,6,15,NaN,-160,NaN,140,NaN,-145,NaN,125
+2018-12-10,Minnesota,Seattle,7,21,NaN,163,NaN,-190,NaN,155,NaN,-180
+2018-12-13,L.A. Chargers,Kansas City,29,28,NaN,151,NaN,-175,NaN,180,NaN,-215
+2018-12-15,Houston,N.Y. Jets,29,22,NaN,-300,NaN,245,NaN,-335,NaN,271
+2018-12-15,Cleveland,Denver,17,16,NaN,140,NaN,-160,NaN,115,NaN,-135
+2018-12-16,Miami,Minnesota,17,41,NaN,260,NaN,-320,NaN,306,NaN,-385
+2018-12-16,Las Vegas,Cincinnati,16,30,NaN,130,NaN,-150,NaN,140,NaN,-161
+2018-12-16,Tampa Bay,Baltimore,12,20,NaN,299,NaN,-375,NaN,317,NaN,-400
+2018-12-16,Dallas,Indianapolis,0,23,NaN,130,NaN,-150,NaN,151,NaN,-175
+2018-12-16,Detroit,Buffalo,13,14,NaN,120,NaN,-140,NaN,126,NaN,-145
+2018-12-16,Green Bay,Chicago,17,24,NaN,199,NaN,-240,NaN,222,NaN,-270
+2018-12-16,Tennessee,N.Y. Giants,17,0,NaN,126,NaN,-146,NaN,-140,NaN,120
+2018-12-16,Washington,Jacksonville,16,13,NaN,263,NaN,-325,NaN,263,NaN,-325
+2018-12-16,Arizona,Atlanta,14,40,NaN,324,NaN,-410,NaN,334,NaN,-425
+2018-12-16,Seattle,San Francisco,23,26,NaN,-240,NaN,199,NaN,-230,NaN,192
+2018-12-16,New England,Pittsburgh,10,17,NaN,-123,NaN,103,NaN,-140,NaN,120
+2018-12-16,Philadelphia,L.A. Rams,30,23,NaN,341,NaN,-435,NaN,588,NaN,-850
+2018-12-17,New Orleans,Carolina,12,9,NaN,-250,NaN,207,NaN,-280,NaN,230
+2018-12-22,Washington,Tennessee,16,25,NaN,367,NaN,-475,NaN,462,NaN,-625
+2018-12-22,Baltimore,L.A. Chargers,22,10,NaN,192,NaN,-230,NaN,184,NaN,-220
+2018-12-23,Tampa Bay,Dallas,20,27,NaN,263,NaN,-325,NaN,263,NaN,-325
+2018-12-23,Buffalo,New England,12,24,NaN,534,NaN,-750,NaN,575,NaN,-825
+2018-12-23,Atlanta,Carolina,24,10,NaN,-195,NaN,166,NaN,-140,NaN,120
+2018-12-23,Jacksonville,Miami,17,7,NaN,184,NaN,-220,NaN,144,NaN,-165
+2018-12-23,N.Y. Giants,Indianapolis,27,28,NaN,351,NaN,-450,NaN,367,NaN,-475
+2018-12-23,Houston,Philadelphia,30,32,NaN,-101,NaN,-119,NaN,110,NaN,-130
+2018-12-23,Minnesota,Detroit,27,9,NaN,-245,NaN,203,NaN,-280,NaN,230
+2018-12-23,Green Bay,N.Y. Jets,44,38,NaN,-155,NaN,135,NaN,-155,NaN,135
+2018-12-23,Cincinnati,Cleveland,18,26,NaN,263,NaN,-325,NaN,351,NaN,-450
+2018-12-23,L.A. Rams,Arizona,31,9,NaN,-850,NaN,588,NaN,-784,NaN,553
+2018-12-23,Chicago,San Francisco,14,9,NaN,-210,NaN,176,NaN,-200,NaN,170
+2018-12-23,Pittsburgh,New Orleans,28,31,NaN,199,NaN,-240,NaN,245,NaN,-300
+2018-12-23,Kansas City,Seattle,31,38,NaN,-140,NaN,120,NaN,-120,NaN,100
+2018-12-24,Denver,Las Vegas,14,27,NaN,-150,NaN,130,NaN,-131,NaN,111
+2018-12-30,Dallas,N.Y. Giants,36,35,NaN,237,NaN,-290,NaN,281,NaN,-350
+2018-12-30,Carolina,New Orleans,33,14,NaN,263,NaN,-325,NaN,287,NaN,-358
+2018-12-30,N.Y. Jets,New England,3,38,NaN,534,NaN,-750,NaN,575,NaN,-825
+2018-12-30,Detroit,Green Bay,31,0,NaN,317,NaN,-400,NaN,281,NaN,-350
+2018-12-30,Jacksonville,Houston,3,20,NaN,281,NaN,-350,NaN,303,NaN,-380
+2018-12-30,Atlanta,Tampa Bay,34,32,NaN,105,NaN,-125,NaN,-151,NaN,131
+2018-12-30,Miami,Buffalo,17,42,NaN,155,NaN,-180,NaN,200,NaN,-241
+2018-12-30,Las Vegas,Kansas City,3,35,NaN,588,NaN,-850,NaN,639,NaN,-950
+2018-12-30,Philadelphia,Washington,24,0,NaN,-300,NaN,245,NaN,-254,NaN,210
+2018-12-30,Cleveland,Baltimore,24,26,NaN,203,NaN,-245,NaN,271,NaN,-335
+2018-12-30,Cincinnati,Pittsburgh,13,16,NaN,614,NaN,-900,NaN,520,NaN,-725
+2018-12-30,Chicago,Minnesota,24,10,NaN,215,NaN,-260,NaN,193,NaN,-232
+2018-12-30,L.A. Chargers,Denver,23,9,NaN,-300,NaN,245,NaN,-320,NaN,260
+2018-12-30,Arizona,Seattle,24,27,NaN,534,NaN,-750,NaN,588,NaN,-850
+2018-12-30,San Francisco,L.A. Rams,32,48,NaN,351,NaN,-450,NaN,334,NaN,-426
+2018-12-30,Indianapolis,Tennessee,33,17,NaN,-200,NaN,170,NaN,-220,NaN,184

@@ -1,0 +1,127 @@
+body {
+    --nav-width: 360px;
+    --radius: 6px;
+    --font-family: Didact Gothic;
+    --text: #EEEEEE;
+    --primary: #F58400;
+    --secondary: #666666;
+    --dark: #121212;
+    --mid: #181818;
+    --light: #242424;
+    --lighter: #363636;
+    --red: #C0504D;
+
+    margin: 0;
+    background-color: var(--mid);
+    color: var(--text);
+    font-family: var(--font-family);
+    font-weight: bold;
+}
+
+#background {
+    position: fixed;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    filter: grayscale(100%);
+    opacity: 0.03;
+}
+
+#intro {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    margin: 0;
+    text-align: center;
+}
+
+#caption {
+    display: inline-block;
+    text-align: justify;
+    font-size: 1.9vw;
+    font-weight: normal;
+    text-shadow: 2px 2px 4px var(--lighter);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 20vh;
+    text-align: center;
+    text-shadow: 2px 2px 4px var(--lighter);
+}
+
+#next {
+    font-size: 10vh;
+    text-decoration: none;
+}
+
+#next:hover {
+    color: var(--red);
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    position: fixed;
+    left: calc(-1 * var(--nav-width));
+    width: var(--nav-width);
+    height: 100vh;
+    border-right: 1px solid var(--light);
+    background-color: rgb(18, 18, 18, 0.5);
+    text-align: center;
+    transition: 1s;
+}
+
+main {
+    height: 100vh;
+    margin-left: calc(var(--nav-width) + 1px);
+}
+
+#simulate {
+    width: 70%;
+    border-radius: var(--radius);
+    font-size: 1.5em;
+}
+
+.label {
+    display: inline-block;
+    width: calc(70% - 2px);
+    margin-right: 2px;
+    border-top: 1px solid var(--light);
+    border-radius: var(--radius) var(--radius) 0 0;
+    color: var(--primary);
+    font-size: 0.8em;
+    line-height: 2em;
+}
+
+#logo {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#next, #caption span:not(.red) {
+    color: var(--secondary);
+}
+
+.red {
+    color: var(--red);
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    position: sticky;
+    top: 0;
+    background-color: var(--red);
+}
+
+.highlight {
+    background-color: rgb(54, 54, 54, 0.5);
+}

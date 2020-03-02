@@ -1,0 +1,885 @@
+2019-02-09,Boston,Oklahoma City,112,111,NaN,-105,NaN,-115,NaN,-125,NaN,105
+2019-02-09,New York,Atlanta,135,140,NaN,130,NaN,-150,NaN,180,NaN,-215
+2019-02-09,Chicago,Philadelphia,111,118,NaN,506,NaN,-700,NaN,493,NaN,-678
+2019-02-09,Memphis,Washington,106,99,NaN,-120,NaN,100,NaN,-152,NaN,132
+2019-02-09,Utah,Houston,114,113,NaN,151,NaN,-175,NaN,124,NaN,-144
+2019-02-09,L.A. Clippers,Cleveland,133,92,NaN,-235,NaN,195,NaN,-255,NaN,211
+2019-02-09,Miami,Portland,109,115,NaN,160,NaN,-185,NaN,170,NaN,-200
+2019-10-22,New Orleans,Toronto,122,130,NaN,218,NaN,-264,NaN,234,NaN,-285
+2019-10-22,L.A. Lakers,L.A. Clippers,102,112,NaN,-105,NaN,-115,NaN,-167,NaN,146
+2019-10-23,Detroit,Indiana,119,110,NaN,207,NaN,-250,NaN,237,NaN,-290
+2019-10-23,Cleveland,Orlando,85,94,NaN,271,NaN,-335,NaN,384,NaN,-500
+2019-10-23,Chicago,Charlotte,125,126,NaN,-135,NaN,115,NaN,-160,NaN,140
+2019-10-23,Boston,Philadelphia,93,107,NaN,172,NaN,-205,NaN,199,NaN,-240
+2019-10-23,Memphis,Miami,101,120,NaN,263,NaN,-325,NaN,224,NaN,-272
+2019-10-23,Minnesota,Brooklyn,127,126,NaN,155,NaN,-180,NaN,130,NaN,-150
+2019-10-23,New York,San Antonio,111,120,NaN,483,NaN,-660,NaN,435,NaN,-580
+2019-10-23,Washington,Dallas,100,108,NaN,351,NaN,-450,NaN,334,NaN,-425
+2019-10-23,Oklahoma City,Utah,95,100,NaN,358,NaN,-460,NaN,337,NaN,-430
+2019-10-23,Sacramento,Phoenix,95,124,NaN,-123,NaN,103,NaN,100,NaN,-120
+2019-10-23,Denver,Portland,108,100,NaN,-105,NaN,-115,NaN,-121,NaN,101
+2019-10-24,Atlanta,Detroit,117,100,NaN,-110,NaN,-110,NaN,100,NaN,-120
+2019-10-24,Milwaukee,Houston,117,111,NaN,110,NaN,-130,NaN,100,NaN,-120
+2019-10-24,L.A. Clippers,Golden State,141,122,NaN,-120,NaN,100,NaN,-120,NaN,100
+2019-10-25,Toronto,Boston,106,112,NaN,120,NaN,-140,NaN,120,NaN,-140
+2019-10-25,Minnesota,Charlotte,121,99,NaN,-200,NaN,170,NaN,-200,NaN,170
+2019-10-25,New York,Brooklyn,109,113,NaN,351,NaN,-450,NaN,271,NaN,-335
+2019-10-25,Washington,Oklahoma City,97,85,NaN,245,NaN,-300,NaN,317,NaN,-400
+2019-10-25,Dallas,New Orleans,123,116,NaN,110,NaN,-130,NaN,111,NaN,-131
+2019-10-25,Chicago,Memphis,110,102,NaN,100,NaN,-120,NaN,-122,NaN,102
+2019-10-25,Phoenix,Denver,107,108,NaN,614,NaN,-900,NaN,639,NaN,-950
+2019-10-25,Portland,Sacramento,122,112,NaN,-110,NaN,-110,NaN,-115,NaN,-105
+2019-10-25,Utah,L.A. Lakers,86,95,NaN,135,NaN,-155,NaN,140,NaN,-160
+2019-10-26,Miami,Milwaukee,131,126,NaN,447,NaN,-600,NaN,562,NaN,-800
+2019-10-26,Philadelphia,Detroit,117,111,NaN,-200,NaN,170,NaN,-180,NaN,155
+2019-10-26,Boston,New York,118,95,NaN,-210,NaN,176,NaN,-200,NaN,170
+2019-10-26,Orlando,Atlanta,99,103,NaN,-120,NaN,100,NaN,-145,NaN,125
+2019-10-26,Indiana,Cleveland,99,110,NaN,-190,NaN,163,NaN,-185,NaN,160
+2019-10-26,Toronto,Chicago,108,84,NaN,-145,NaN,125,NaN,-150,NaN,130
+2019-10-26,New Orleans,Houston,123,126,NaN,520,NaN,-725,NaN,711,NaN,-1100
+2019-10-26,Washington,San Antonio,122,124,NaN,711,NaN,-1100,NaN,664,NaN,-1000
+2019-10-26,Sacramento,Utah,81,113,NaN,400,NaN,-525,NaN,358,NaN,-460
+2019-10-26,L.A. Clippers,Phoenix,122,130,NaN,-400,NaN,317,NaN,-580,NaN,435
+2019-10-27,Golden State,Oklahoma City,92,120,NaN,-120,NaN,100,NaN,-105,NaN,-115
+2019-10-27,Brooklyn,Memphis,133,134,NaN,-175,NaN,151,NaN,-175,NaN,151
+2019-10-27,Miami,Minnesota,109,116,NaN,199,NaN,-240,NaN,237,NaN,-290
+2019-10-27,Portland,Dallas,121,119,NaN,100,NaN,-120,NaN,130,NaN,-150
+2019-10-27,Charlotte,L.A. Lakers,101,120,NaN,837,NaN,-1400,NaN,880,NaN,-1512
+2019-10-28,Indiana,Detroit,94,96,NaN,-115,NaN,-105,NaN,-135,NaN,115
+2019-10-28,Chicago,New York,98,105,NaN,-110,NaN,-110,NaN,-125,NaN,105
+2019-10-28,Philadelphia,Atlanta,105,103,NaN,-200,NaN,170,NaN,-285,NaN,234
+2019-10-28,Orlando,Toronto,95,104,NaN,163,NaN,-190,NaN,172,NaN,-205
+2019-10-28,Golden State,New Orleans,134,123,NaN,160,NaN,-185,NaN,108,NaN,-128
+2019-10-28,Cleveland,Milwaukee,112,129,NaN,1041,NaN,-2000,NaN,1243,NaN,-2800
+2019-10-28,Oklahoma City,Houston,112,116,NaN,462,NaN,-625,NaN,428,NaN,-570
+2019-10-28,Portland,San Antonio,110,113,NaN,155,NaN,-180,NaN,215,NaN,-260
+2019-10-28,Utah,Phoenix,96,95,NaN,-200,NaN,170,NaN,-190,NaN,163
+2019-10-28,Denver,Sacramento,101,94,NaN,-215,NaN,180,NaN,-202,NaN,171
+2019-10-28,Charlotte,L.A. Clippers,96,111,NaN,1284,NaN,-3000,NaN,1198,NaN,-2600
+2019-10-29,Atlanta,Miami,97,112,NaN,281,NaN,-350,NaN,330,NaN,-420
+2019-10-29,Dallas,Denver,109,106,NaN,199,NaN,-240,NaN,185,NaN,-222
+2019-10-29,Memphis,L.A. Lakers,91,120,NaN,664,NaN,-1000,NaN,588,NaN,-850
+2019-10-30,New York,Orlando,83,95,NaN,317,NaN,-400,NaN,400,NaN,-525
+2019-10-30,Minnesota,Philadelphia,95,117,NaN,237,NaN,-290,NaN,237,NaN,-290
+2019-10-30,Chicago,Cleveland,111,117,NaN,-115,NaN,-105,NaN,-130,NaN,110
+2019-10-30,Detroit,Toronto,113,125,NaN,281,NaN,-350,NaN,364,NaN,-470
+2019-10-30,Indiana,Brooklyn,118,108,NaN,140,NaN,-160,NaN,120,NaN,-140
+2019-10-30,Milwaukee,Boston,105,116,NaN,-125,NaN,105,NaN,-158,NaN,138
+2019-10-30,Houston,Washington,159,158,NaN,-340,NaN,274,NaN,-349,NaN,281
+2019-10-30,Portland,Oklahoma City,102,99,NaN,-115,NaN,-105,NaN,-125,NaN,105
+2019-10-30,Charlotte,Sacramento,118,111,NaN,237,NaN,-290,NaN,289,NaN,-360
+2019-10-30,L.A. Clippers,Utah,96,110,NaN,100,NaN,-120,NaN,256,NaN,-315
+2019-10-30,Phoenix,Golden State,121,110,NaN,172,NaN,-205,NaN,192,NaN,-230
+2019-10-31,Miami,Atlanta,106,97,NaN,-245,NaN,203,NaN,-290,NaN,237
+2019-10-31,Denver,New Orleans,107,122,NaN,-170,NaN,148,NaN,-165,NaN,144
+2019-10-31,San Antonio,L.A. Clippers,97,103,NaN,184,NaN,-220,NaN,166,NaN,-195
+2019-11-01,Houston,Brooklyn,116,123,NaN,-155,NaN,135,NaN,-180,NaN,155
+2019-11-01,Milwaukee,Orlando,123,91,NaN,-200,NaN,170,NaN,-173,NaN,150
+2019-11-01,Cleveland,Indiana,95,102,NaN,263,NaN,-325,NaN,252,NaN,-310
+2019-11-01,New York,Boston,102,104,NaN,506,NaN,-700,NaN,371,NaN,-480
+2019-11-01,Detroit,Chicago,106,112,NaN,140,NaN,-160,NaN,155,NaN,-180
+2019-11-01,L.A. Lakers,Dallas,119,110,NaN,-125,NaN,105,NaN,-110,NaN,-110
+2019-11-01,Utah,Sacramento,101,102,NaN,-215,NaN,180,NaN,-183,NaN,158
+2019-11-01,San Antonio,Golden State,127,110,NaN,-215,NaN,180,NaN,-285,NaN,234
+2019-11-02,New Orleans,Oklahoma City,104,115,NaN,130,NaN,-150,NaN,111,NaN,-132
+2019-11-02,Brooklyn,Detroit,109,113,NaN,-120,NaN,100,NaN,-178,NaN,153
+2019-11-02,Denver,Orlando,91,87,NaN,-175,NaN,151,NaN,-175,NaN,151
+2019-11-02,Phoenix,Memphis,114,105,NaN,-125,NaN,105,NaN,-140,NaN,120
+2019-11-02,Minnesota,Washington,131,109,NaN,-105,NaN,-115,NaN,130,NaN,-150
+2019-11-02,Toronto,Milwaukee,105,115,NaN,160,NaN,-185,NaN,218,NaN,-265
+2019-11-02,Charlotte,Golden State,93,87,NaN,-110,NaN,-110,NaN,-230,NaN,192
+2019-11-02,Philadelphia,Portland,129,128,NaN,120,NaN,-140,NaN,-103,NaN,-117
+2019-11-03,Chicago,Indiana,95,108,NaN,120,NaN,-140,NaN,108,NaN,-127
+2019-11-03,Houston,Miami,100,129,NaN,-139,NaN,119,NaN,-150,NaN,130
+2019-11-03,Sacramento,New York,113,92,NaN,-110,NaN,-110,NaN,-120,NaN,100
+2019-11-03,L.A. Lakers,San Antonio,103,96,NaN,-110,NaN,-110,NaN,-117,NaN,-103
+2019-11-03,Dallas,Cleveland,131,111,NaN,-200,NaN,170,NaN,-235,NaN,195
+2019-11-03,Utah,L.A. Clippers,94,105,NaN,160,NaN,-185,NaN,170,NaN,-200
+2019-11-04,Detroit,Washington,99,115,NaN,120,NaN,-140,NaN,148,NaN,-170
+2019-11-04,New Orleans,Brooklyn,125,135,NaN,140,NaN,-160,NaN,135,NaN,-155
+2019-11-04,Milwaukee,Minnesota,134,106,NaN,-240,NaN,199,NaN,-330,NaN,267
+2019-11-04,Houston,Memphis,107,100,NaN,-240,NaN,199,NaN,-231,NaN,192
+2019-11-04,Philadelphia,Phoenix,109,114,NaN,-115,NaN,-105,NaN,100,NaN,-120
+2019-11-04,Portland,Golden State,118,127,NaN,-640,NaN,471,NaN,-1000,NaN,664
+2019-11-05,Boston,Cleveland,119,113,NaN,-220,NaN,184,NaN,-255,NaN,211
+2019-11-05,Indiana,Charlotte,120,122,NaN,-135,NaN,115,NaN,-140,NaN,120
+2019-11-05,San Antonio,Atlanta,100,108,NaN,-175,NaN,151,NaN,-230,NaN,192
+2019-11-05,Orlando,Oklahoma City,94,102,NaN,140,NaN,-160,NaN,125,NaN,-145
+2019-11-05,L.A. Lakers,Chicago,118,112,NaN,-260,NaN,215,NaN,-310,NaN,252
+2019-11-05,Miami,Denver,89,109,NaN,166,NaN,-195,NaN,163,NaN,-190
+2019-11-06,New York,Detroit,102,122,NaN,160,NaN,-185,NaN,141,NaN,-161
+2019-11-06,Washington,Indiana,106,121,NaN,148,NaN,-170,NaN,120,NaN,-140
+2019-11-06,Sacramento,Toronto,120,124,NaN,306,NaN,-385,NaN,317,NaN,-400
+2019-11-06,Golden State,Houston,112,129,NaN,1041,NaN,-2000,NaN,1284,NaN,-3000
+2019-11-06,Chicago,Atlanta,113,93,NaN,110,NaN,-130,NaN,-110,NaN,-110
+2019-11-06,Minnesota,Memphis,121,137,NaN,-205,NaN,172,NaN,-170,NaN,150
+2019-11-06,Orlando,Dallas,106,107,NaN,263,NaN,-325,NaN,252,NaN,-310
+2019-11-06,Philadelphia,Utah,104,106,NaN,110,NaN,-130,NaN,130,NaN,-150
+2019-11-06,Milwaukee,L.A. Clippers,129,124,NaN,100,NaN,-120,NaN,-245,NaN,203
+2019-11-07,Boston,Charlotte,108,87,NaN,-235,NaN,195,NaN,-320,NaN,259
+2019-11-07,Oklahoma City,San Antonio,112,121,NaN,160,NaN,-185,NaN,166,NaN,-195
+2019-11-07,Miami,Phoenix,124,108,NaN,105,NaN,-125,NaN,102,NaN,-122
+2019-11-07,Portland,L.A. Clippers,101,107,NaN,195,NaN,-235,NaN,207,NaN,-250
+2019-11-08,Detroit,Indiana,106,112,NaN,263,NaN,-325,NaN,203,NaN,-245
+2019-11-08,Cleveland,Washington,113,100,NaN,160,NaN,-185,NaN,176,NaN,-210
+2019-11-08,Memphis,Orlando,86,118,NaN,215,NaN,-260,NaN,261,NaN,-322
+2019-11-08,Sacramento,Atlanta,121,109,NaN,-110,NaN,-110,NaN,-150,NaN,130
+2019-11-08,Golden State,Minnesota,119,125,NaN,562,NaN,-800,NaN,566,NaN,-808
+2019-11-08,Toronto,New Orleans,122,104,NaN,-135,NaN,115,NaN,-130,NaN,110
+2019-11-08,New York,Dallas,106,102,NaN,562,NaN,-800,NaN,489,NaN,-670
+2019-11-08,Milwaukee,Utah,100,103,NaN,-115,NaN,-105,NaN,-135,NaN,115
+2019-11-08,Philadelphia,Denver,97,100,NaN,198,NaN,-237,NaN,176,NaN,-210
+2019-11-08,Brooklyn,Portland,119,115,NaN,130,NaN,-150,NaN,144,NaN,-165
+2019-11-08,Miami,L.A. Lakers,80,95,NaN,317,NaN,-400,NaN,296,NaN,-370
+2019-11-09,Boston,San Antonio,135,115,NaN,100,NaN,-120,NaN,110,NaN,-130
+2019-11-09,New Orleans,Charlotte,115,110,NaN,-120,NaN,100,NaN,-130,NaN,110
+2019-11-09,Golden State,Oklahoma City,108,114,NaN,614,NaN,-900,NaN,588,NaN,-850
+2019-11-09,Dallas,Memphis,138,122,NaN,-150,NaN,130,NaN,-230,NaN,192
+2019-11-09,Houston,Chicago,117,94,NaN,-260,NaN,215,NaN,-300,NaN,245
+2019-11-10,Denver,Minnesota,100,98,NaN,-120,NaN,100,NaN,-180,NaN,155
+2019-11-10,Indiana,Orlando,109,102,NaN,135,NaN,-155,NaN,176,NaN,-210
+2019-11-10,Charlotte,Philadelphia,106,114,NaN,755,NaN,-1200,NaN,755,NaN,-1200
+2019-11-10,Milwaukee,Oklahoma City,121,119,NaN,-280,NaN,230,NaN,-382,NaN,304
+2019-11-10,Cleveland,New York,108,87,NaN,110,NaN,-130,NaN,115,NaN,-135
+2019-11-10,Brooklyn,Phoenix,112,138,NaN,110,NaN,-130,NaN,120,NaN,-140
+2019-11-10,Atlanta,Portland,113,124,NaN,317,NaN,-400,NaN,351,NaN,-450
+2019-11-10,Toronto,L.A. Lakers,113,104,NaN,351,NaN,-450,NaN,410,NaN,-540
+2019-11-11,Minnesota,Detroit,120,114,NaN,130,NaN,-150,NaN,160,NaN,-185
+2019-11-11,Dallas,Boston,106,116,NaN,140,NaN,-160,NaN,146,NaN,-168
+2019-11-11,Memphis,San Antonio,113,109,NaN,534,NaN,-750,NaN,498,NaN,-686
+2019-11-11,Houston,New Orleans,122,116,NaN,-170,NaN,148,NaN,-240,NaN,199
+2019-11-11,Utah,Golden State,122,108,NaN,-600,NaN,447,NaN,-350,NaN,281
+2019-11-11,Toronto,L.A. Clippers,88,98,NaN,477,NaN,-650,NaN,351,NaN,-450
+2019-11-12,Cleveland,Philadelphia,97,98,NaN,477,NaN,-650,NaN,477,NaN,-650
+2019-11-12,Oklahoma City,Indiana,85,111,NaN,130,NaN,-150,NaN,100,NaN,-120
+2019-11-12,Detroit,Miami,108,117,NaN,237,NaN,-290,NaN,337,NaN,-430
+2019-11-12,New York,Chicago,102,120,NaN,184,NaN,-220,NaN,230,NaN,-275
+2019-11-12,L.A. Lakers,Phoenix,123,115,NaN,-135,NaN,115,NaN,-160,NaN,140
+2019-11-12,Atlanta,Denver,125,121,NaN,506,NaN,-700,NaN,465,NaN,-630
+2019-11-12,Brooklyn,Utah,114,119,NaN,215,NaN,-260,NaN,226,NaN,-275
+2019-11-12,Portland,Sacramento,99,107,NaN,110,NaN,-130,NaN,-120,NaN,100
+2019-11-13,Philadelphia,Orlando,97,112,NaN,-105,NaN,-115,NaN,120,NaN,-140
+2019-11-13,Memphis,Charlotte,119,117,NaN,100,NaN,-120,NaN,126,NaN,-146
+2019-11-13,L.A. Clippers,Houston,93,102,NaN,115,NaN,-135,NaN,120,NaN,-140
+2019-11-13,Washington,Boston,133,140,NaN,337,NaN,-430,NaN,271,NaN,-335
+2019-11-13,San Antonio,Minnesota,114,129,NaN,100,NaN,-120,NaN,100,NaN,-120
+2019-11-13,Toronto,Portland,114,106,NaN,130,NaN,-150,NaN,135,NaN,-155
+2019-11-13,Golden State,L.A. Lakers,94,120,NaN,351,NaN,-450,NaN,356,NaN,-458
+2019-11-14,Miami,Cleveland,108,97,NaN,-180,NaN,155,NaN,-200,NaN,170
+2019-11-14,Chicago,Milwaukee,115,124,NaN,639,NaN,-950,NaN,631,NaN,-934
+2019-11-14,Dallas,New York,103,106,NaN,-290,NaN,237,NaN,-329,NaN,266
+2019-11-14,L.A. Clippers,New Orleans,127,132,NaN,-151,NaN,130,NaN,-165,NaN,144
+2019-11-14,Atlanta,Phoenix,112,128,NaN,230,NaN,-280,NaN,289,NaN,-360
+2019-11-14,Brooklyn,Denver,93,101,NaN,303,NaN,-380,NaN,303,NaN,-380
+2019-11-15,Detroit,Charlotte,106,109,NaN,-145,NaN,125,NaN,-160,NaN,140
+2019-11-15,San Antonio,Orlando,109,111,NaN,140,NaN,-160,NaN,118,NaN,-138
+2019-11-15,Washington,Minnesota,137,116,NaN,237,NaN,-290,NaN,199,NaN,-240
+2019-11-15,Indiana,Houston,102,111,NaN,173,NaN,-206,NaN,207,NaN,-250
+2019-11-15,Philadelphia,Oklahoma City,119,127,NaN,-155,NaN,135,NaN,-175,NaN,151
+2019-11-15,Utah,Memphis,106,107,NaN,-290,NaN,237,NaN,-345,NaN,278
+2019-11-15,Boston,Golden State,105,100,NaN,-340,NaN,274,NaN,-300,NaN,245
+2019-11-15,Sacramento,L.A. Lakers,97,99,NaN,447,NaN,-600,NaN,447,NaN,-600
+2019-11-16,Brooklyn,Chicago,117,111,NaN,-105,NaN,-115,NaN,148,NaN,-170
+2019-11-16,Milwaukee,Indiana,102,83,NaN,-200,NaN,170,NaN,-360,NaN,289
+2019-11-16,Charlotte,New York,103,102,NaN,151,NaN,-175,NaN,176,NaN,-210
+2019-11-16,Houston,Minnesota,125,105,NaN,100,NaN,-120,NaN,112,NaN,-132
+2019-11-16,New Orleans,Miami,94,109,NaN,236,NaN,-288,NaN,274,NaN,-340
+2019-11-16,Toronto,Dallas,102,110,NaN,135,NaN,-155,NaN,166,NaN,-195
+2019-11-16,Portland,San Antonio,121,116,NaN,110,NaN,-130,NaN,100,NaN,-120
+2019-11-16,Atlanta,L.A. Clippers,101,150,NaN,664,NaN,-1000,NaN,344,NaN,-440
+2019-11-17,Philadelphia,Cleveland,114,95,NaN,-290,NaN,237,NaN,-335,NaN,271
+2019-11-17,Boston,Sacramento,99,100,NaN,-135,NaN,115,NaN,-150,NaN,130
+2019-11-17,Denver,Memphis,131,114,NaN,-290,NaN,237,NaN,-263,NaN,216
+2019-11-17,Washington,Orlando,121,125,NaN,215,NaN,-260,NaN,192,NaN,-230
+2019-11-17,Golden State,New Orleans,100,108,NaN,160,NaN,-185,NaN,136,NaN,-156
+2019-11-17,Atlanta,L.A. Lakers,101,122,NaN,711,NaN,-1100,NaN,947,NaN,-1700
+2019-11-18,Cleveland,New York,105,123,NaN,120,NaN,-140,NaN,192,NaN,-230
+2019-11-18,Indiana,Brooklyn,115,86,NaN,148,NaN,-170,NaN,120,NaN,-140
+2019-11-18,Charlotte,Toronto,96,132,NaN,351,NaN,-450,NaN,296,NaN,-370
+2019-11-18,Milwaukee,Chicago,115,101,NaN,-285,NaN,234,NaN,-380,NaN,303
+2019-11-18,Portland,Houston,108,132,NaN,207,NaN,-250,NaN,267,NaN,-330
+2019-11-18,San Antonio,Dallas,110,117,NaN,160,NaN,-185,NaN,170,NaN,-200
+2019-11-18,Minnesota,Utah,112,102,NaN,410,NaN,-540,NaN,344,NaN,-440
+2019-11-18,Boston,Phoenix,99,85,NaN,140,NaN,-160,NaN,110,NaN,-130
+2019-11-18,Oklahoma City,L.A. Clippers,88,90,NaN,384,NaN,-500,NaN,285,NaN,-355
+2019-11-19,Portland,New Orleans,104,115,NaN,-135,NaN,115,NaN,134,NaN,-154
+2019-11-19,Golden State,Memphis,114,95,NaN,199,NaN,-240,NaN,230,NaN,-280
+2019-11-19,Phoenix,Sacramento,116,120,NaN,100,NaN,-120,NaN,130,NaN,-150
+2019-11-19,Oklahoma City,L.A. Lakers,107,112,NaN,506,NaN,-700,NaN,520,NaN,-725
+2019-11-20,New York,Philadelphia,104,109,NaN,614,NaN,-900,NaN,614,NaN,-900
+2019-11-20,San Antonio,Washington,132,138,NaN,-125,NaN,105,NaN,-140,NaN,120
+2019-11-20,Cleveland,Miami,100,124,NaN,416,NaN,-550,NaN,369,NaN,-477
+2019-11-20,Milwaukee,Atlanta,135,127,NaN,-500,NaN,384,NaN,-670,NaN,489
+2019-11-20,Golden State,Dallas,94,142,NaN,797,NaN,-1300,NaN,797,NaN,-1300
+2019-11-20,Charlotte,Brooklyn,91,101,NaN,160,NaN,-185,NaN,163,NaN,-190
+2019-11-20,Orlando,Toronto,97,113,NaN,151,NaN,-175,NaN,131,NaN,-151
+2019-11-20,Detroit,Chicago,89,109,NaN,100,NaN,-120,NaN,-110,NaN,-110
+2019-11-20,Utah,Minnesota,103,95,NaN,-155,NaN,135,NaN,-160,NaN,140
+2019-11-20,Houston,Denver,95,105,NaN,110,NaN,-130,NaN,100,NaN,-120
+2019-11-20,Boston,L.A. Clippers,104,107,NaN,199,NaN,-240,NaN,245,NaN,-300
+2019-11-21,Portland,Milwaukee,129,137,NaN,614,NaN,-900,NaN,797,NaN,-1300
+2019-11-21,New Orleans,Phoenix,124,121,NaN,151,NaN,-174,NaN,135,NaN,-155
+2019-11-22,Atlanta,Detroit,103,128,NaN,199,NaN,-240,NaN,222,NaN,-270
+2019-11-22,Charlotte,Washington,118,125,NaN,192,NaN,-230,NaN,199,NaN,-240
+2019-11-22,Sacramento,Brooklyn,97,116,NaN,100,NaN,-120,NaN,110,NaN,-130
+2019-11-22,San Antonio,Philadelphia,104,115,NaN,281,NaN,-350,NaN,218,NaN,-265
+2019-11-22,Miami,Chicago,116,108,NaN,-180,NaN,155,NaN,-185,NaN,160
+2019-11-22,L.A. Lakers,Oklahoma City,130,127,NaN,-180,NaN,155,NaN,-215,NaN,180
+2019-11-22,Cleveland,Dallas,101,143,NaN,384,NaN,-500,NaN,447,NaN,-600
+2019-11-22,Boston,Denver,92,96,NaN,160,NaN,-185,NaN,170,NaN,-200
+2019-11-22,Golden State,Utah,109,113,NaN,1175,NaN,-2500,NaN,1124,NaN,-2300
+2019-11-22,Houston,L.A. Clippers,119,122,NaN,172,NaN,-205,NaN,175,NaN,-208
+2019-11-23,Phoenix,Minnesota,100,98,NaN,172,NaN,-205,NaN,163,NaN,-190
+2019-11-23,Chicago,Charlotte,116,115,NaN,-120,NaN,100,NaN,-130,NaN,109
+2019-11-23,Orlando,Indiana,106,111,NaN,215,NaN,-260,NaN,226,NaN,-275
+2019-11-23,Miami,Philadelphia,86,113,NaN,151,NaN,-175,NaN,199,NaN,-240
+2019-11-23,San Antonio,New York,111,104,NaN,-125,NaN,105,NaN,-140,NaN,120
+2019-11-23,Toronto,Atlanta,119,116,NaN,-275,NaN,226,NaN,-350,NaN,281
+2019-11-23,L.A. Lakers,Memphis,109,108,NaN,-310,NaN,252,NaN,-362,NaN,291
+2019-11-23,Portland,Cleveland,104,110,NaN,-180,NaN,155,NaN,-250,NaN,207
+2019-11-23,Detroit,Milwaukee,90,104,NaN,664,NaN,-1000,NaN,711,NaN,-1100
+2019-11-23,New Orleans,Utah,120,128,NaN,281,NaN,-350,NaN,203,NaN,-245
+2019-11-24,Dallas,Houston,137,123,NaN,172,NaN,-205,NaN,210,NaN,-254
+2019-11-24,Sacramento,Washington,113,106,NaN,130,NaN,-150,NaN,105,NaN,-125
+2019-11-24,Brooklyn,New York,103,101,NaN,-125,NaN,105,NaN,-135,NaN,115
+2019-11-24,Phoenix,Denver,104,116,NaN,428,NaN,-570,NaN,477,NaN,-650
+2019-11-24,New Orleans,L.A. Clippers,109,134,NaN,614,NaN,-900,NaN,699,NaN,-1075
+2019-11-25,Orlando,Detroit,88,103,NaN,155,NaN,-180,NaN,148,NaN,-170
+2019-11-25,Memphis,Indiana,114,126,NaN,351,NaN,-450,NaN,371,NaN,-480
+2019-11-25,Brooklyn,Cleveland,108,106,NaN,-110,NaN,-110,NaN,-103,NaN,-117
+2019-11-25,Philadelphia,Toronto,96,101,NaN,-110,NaN,-110,NaN,-130,NaN,109
+2019-11-25,Sacramento,Boston,102,103,NaN,237,NaN,-290,NaN,211,NaN,-255
+2019-11-25,Charlotte,Miami,100,117,NaN,462,NaN,-625,NaN,438,NaN,-585
+2019-11-25,Minnesota,Atlanta,125,113,NaN,-170,NaN,148,NaN,-199,NaN,169
+2019-11-25,Utah,Milwaukee,118,122,NaN,252,NaN,-310,NaN,317,NaN,-400
+2019-11-25,Portland,Chicago,117,94,NaN,-115,NaN,-105,NaN,-120,NaN,100
+2019-11-25,L.A. Lakers,San Antonio,114,104,NaN,-182,NaN,157,NaN,-195,NaN,166
+2019-11-25,Oklahoma City,Golden State,100,97,NaN,-255,NaN,211,NaN,-300,NaN,245
+2019-11-26,L.A. Clippers,Dallas,114,99,NaN,-125,NaN,105,NaN,-123,NaN,103
+2019-11-26,Washington,Denver,104,117,NaN,364,NaN,-470,NaN,444,NaN,-595
+2019-11-27,Utah,Indiana,102,121,NaN,100,NaN,-120,NaN,100,NaN,-120
+2019-11-27,Brooklyn,Boston,110,121,NaN,237,NaN,-290,NaN,317,NaN,-400
+2019-11-27,Sacramento,Philadelphia,91,97,NaN,400,NaN,-525,NaN,359,NaN,-462
+2019-11-27,Orlando,Cleveland,116,104,NaN,-115,NaN,-105,NaN,-110,NaN,-110
+2019-11-27,Detroit,Charlotte,101,102,NaN,-170,NaN,148,NaN,-178,NaN,154
+2019-11-27,New York,Toronto,98,126,NaN,477,NaN,-650,NaN,406,NaN,-533
+2019-11-27,Atlanta,Milwaukee,102,111,NaN,876,NaN,-1500,NaN,831,NaN,-1384
+2019-11-27,L.A. Clippers,Memphis,121,119,NaN,-330,NaN,267,NaN,-250,NaN,207
+2019-11-27,Miami,Houston,108,117,NaN,199,NaN,-240,NaN,264,NaN,-326
+2019-11-27,Minnesota,San Antonio,113,101,NaN,115,NaN,-135,NaN,140,NaN,-160
+2019-11-27,Washington,Phoenix,140,132,NaN,281,NaN,-350,NaN,218,NaN,-265
+2019-11-27,L.A. Lakers,New Orleans,114,110,NaN,-260,NaN,215,NaN,-320,NaN,260
+2019-11-27,Oklahoma City,Portland,119,136,NaN,130,NaN,-150,NaN,135,NaN,-155
+2019-11-27,Chicago,Golden State,90,104,NaN,-147,NaN,127,NaN,-130,NaN,110
+2019-11-29,Boston,Brooklyn,107,112,NaN,-160,NaN,140,NaN,-175,NaN,151
+2019-11-29,Charlotte,Detroit,110,107,NaN,256,NaN,-315,NaN,303,NaN,-380
+2019-11-29,Toronto,Orlando,90,83,NaN,-145,NaN,125,NaN,-155,NaN,135
+2019-11-29,Philadelphia,New York,101,95,NaN,-330,NaN,267,NaN,-253,NaN,210
+2019-11-29,Milwaukee,Cleveland,119,110,NaN,-650,NaN,477,NaN,-765,NaN,543
+2019-11-29,Atlanta,Indiana,104,105,NaN,477,NaN,-650,NaN,472,NaN,-641
+2019-11-29,Golden State,Miami,105,122,NaN,573,NaN,-820,NaN,534,NaN,-750
+2019-11-29,New Orleans,Oklahoma City,104,109,NaN,151,NaN,-175,NaN,176,NaN,-210
+2019-11-29,Utah,Memphis,103,94,NaN,-300,NaN,245,NaN,-312,NaN,254
+2019-11-29,L.A. Clippers,San Antonio,97,107,NaN,-235,NaN,195,NaN,-245,NaN,203
+2019-11-29,Dallas,Phoenix,120,113,NaN,-115,NaN,-105,NaN,-147,NaN,127
+2019-11-29,Chicago,Portland,103,107,NaN,260,NaN,-320,NaN,260,NaN,-320
+2019-11-29,Washington,L.A. Lakers,103,125,NaN,562,NaN,-800,NaN,506,NaN,-700
+2019-11-30,Denver,Sacramento,97,100,NaN,-175,NaN,151,NaN,-175,NaN,151
+2019-11-30,Indiana,Philadelphia,116,119,NaN,151,NaN,-175,NaN,215,NaN,-260
+2019-11-30,Charlotte,Milwaukee,96,137,NaN,912,NaN,-1600,NaN,828,NaN,-1377
+2019-11-30,Atlanta,Houston,111,158,NaN,837,NaN,-1400,NaN,876,NaN,-1500
+2019-12-01,Miami,Brooklyn,109,106,NaN,-156,NaN,135,NaN,-195,NaN,166
+2019-12-01,Boston,New York,113,104,NaN,-315,NaN,256,NaN,-315,NaN,256
+2019-12-01,Memphis,Minnesota,115,107,NaN,384,NaN,-500,NaN,614,NaN,-900
+2019-12-01,Dallas,L.A. Lakers,114,100,NaN,226,NaN,-275,NaN,218,NaN,-265
+2019-12-01,San Antonio,Detroit,98,132,NaN,151,NaN,-175,NaN,125,NaN,-145
+2019-12-01,Oklahoma City,New Orleans,107,104,NaN,110,NaN,-130,NaN,125,NaN,-145
+2019-12-01,Golden State,Orlando,96,100,NaN,317,NaN,-400,NaN,299,NaN,-374
+2019-12-01,Utah,Toronto,110,130,NaN,120,NaN,-140,NaN,105,NaN,-125
+2019-12-01,Washington,L.A. Clippers,125,150,NaN,664,NaN,-1000,NaN,664,NaN,-1000
+2019-12-02,Utah,Philadelphia,94,103,NaN,180,NaN,-215,NaN,166,NaN,-195
+2019-12-02,Phoenix,Charlotte,109,104,NaN,-170,NaN,148,NaN,-170,NaN,148
+2019-12-02,Golden State,Atlanta,79,104,NaN,192,NaN,-230,NaN,215,NaN,-260
+2019-12-02,Indiana,Memphis,117,104,NaN,-440,NaN,344,NaN,-470,NaN,364
+2019-12-02,New York,Milwaukee,88,132,NaN,1284,NaN,-3000,NaN,1264,NaN,-2900
+2019-12-02,Chicago,Sacramento,113,106,NaN,172,NaN,-205,NaN,160,NaN,-185
+2019-12-03,Detroit,Cleveland,127,94,NaN,-135,NaN,115,NaN,-150,NaN,130
+2019-12-03,Orlando,Washington,127,120,NaN,100,NaN,-120,NaN,-115,NaN,-105
+2019-12-03,Dallas,New Orleans,118,97,NaN,-155,NaN,135,NaN,-210,NaN,176
+2019-12-03,Miami,Toronto,121,110,NaN,163,NaN,-190,NaN,180,NaN,-215
+2019-12-03,Houston,San Antonio,133,135,NaN,-240,NaN,199,NaN,-313,NaN,255
+2019-12-03,L.A. Lakers,Denver,105,96,NaN,115,NaN,-135,NaN,127,NaN,-147
+2019-12-03,Portland,L.A. Clippers,97,117,NaN,358,NaN,-460,NaN,347,NaN,-445
+2019-12-04,Milwaukee,Detroit,127,103,NaN,-450,NaN,351,NaN,-543,NaN,412
+2019-12-04,Phoenix,Orlando,114,128,NaN,-115,NaN,-105,NaN,-125,NaN,105
+2019-12-04,Golden State,Charlotte,91,106,NaN,144,NaN,-165,NaN,125,NaN,-145
+2019-12-04,Brooklyn,Atlanta,130,118,NaN,-153,NaN,133,NaN,-145,NaN,125
+2019-12-04,Miami,Boston,93,112,NaN,192,NaN,-230,NaN,176,NaN,-210
+2019-12-04,Memphis,Chicago,99,106,NaN,199,NaN,-240,NaN,246,NaN,-302
+2019-12-04,Indiana,Oklahoma City,107,100,NaN,-110,NaN,-110,NaN,-115,NaN,-105
+2019-12-04,Minnesota,Dallas,114,121,NaN,130,NaN,-150,NaN,184,NaN,-220
+2019-12-04,L.A. Lakers,Utah,121,96,NaN,110,NaN,-130,NaN,105,NaN,-125
+2019-12-04,Sacramento,Portland,116,127,NaN,130,NaN,-150,NaN,188,NaN,-225
+2019-12-05,Philadelphia,Washington,113,119,NaN,-260,NaN,215,NaN,-345,NaN,278
+2019-12-05,Houston,Toronto,119,109,NaN,100,NaN,-120,NaN,105,NaN,-125
+2019-12-05,Denver,New York,129,92,NaN,-380,NaN,303,NaN,-380,NaN,303
+2019-12-05,Phoenix,New Orleans,139,132,NaN,125,NaN,-145,NaN,160,NaN,-185
+2019-12-06,Indiana,Detroit,101,108,NaN,-135,NaN,115,NaN,-115,NaN,-105
+2019-12-06,Orlando,Cleveland,93,87,NaN,-153,NaN,133,NaN,-210,NaN,176
+2019-12-06,Brooklyn,Charlotte,111,104,NaN,-145,NaN,125,NaN,-150,NaN,130
+2019-12-06,Minnesota,Oklahoma City,127,139,NaN,120,NaN,-140,NaN,144,NaN,-165
+2019-12-06,Washington,Miami,103,112,NaN,447,NaN,-600,NaN,394,NaN,-515
+2019-12-06,Golden State,Chicago,100,98,NaN,172,NaN,-205,NaN,160,NaN,-185
+2019-12-06,Denver,Boston,95,108,NaN,130,NaN,-150,NaN,140,NaN,-160
+2019-12-06,L.A. Clippers,Milwaukee,91,119,NaN,135,NaN,-155,NaN,163,NaN,-190
+2019-12-06,Sacramento,San Antonio,104,105,NaN,140,NaN,-160,NaN,170,NaN,-200
+2019-12-06,L.A. Lakers,Portland,136,113,NaN,-160,NaN,140,NaN,-200,NaN,170
+2019-12-07,New Orleans,Dallas,84,130,NaN,337,NaN,-430,NaN,341,NaN,-436
+2019-12-07,Cleveland,Philadelphia,94,141,NaN,614,NaN,-900,NaN,465,NaN,-630
+2019-12-07,Indiana,New York,104,103,NaN,-230,NaN,192,NaN,-220,NaN,184
+2019-12-07,Phoenix,Houston,109,115,NaN,384,NaN,-500,NaN,534,NaN,-750
+2019-12-07,Memphis,Utah,112,126,NaN,664,NaN,-1000,NaN,562,NaN,-800
+2019-12-08,Denver,Brooklyn,102,105,NaN,-145,NaN,125,NaN,-180,NaN,155
+2019-12-08,Atlanta,Charlotte,122,107,NaN,120,NaN,-140,NaN,105,NaN,-125
+2019-12-08,Toronto,Philadelphia,104,110,NaN,130,NaN,-150,NaN,130,NaN,-150
+2019-12-08,Chicago,Miami,105,110,NaN,237,NaN,-290,NaN,218,NaN,-265
+2019-12-08,L.A. Clippers,Washington,135,119,NaN,-300,NaN,245,NaN,-484,NaN,373
+2019-12-08,Sacramento,Dallas,110,106,NaN,263,NaN,-325,NaN,330,NaN,-420
+2019-12-08,Oklahoma City,Portland,108,96,NaN,151,NaN,-175,NaN,135,NaN,-155
+2019-12-08,Minnesota,L.A. Lakers,125,142,NaN,523,NaN,-730,NaN,422,NaN,-560
+2019-12-09,L.A. Clippers,Indiana,110,99,NaN,-115,NaN,-105,NaN,125,NaN,-145
+2019-12-09,Cleveland,Boston,88,110,NaN,755,NaN,-1200,NaN,770,NaN,-1235
+2019-12-09,Toronto,Chicago,93,92,NaN,-180,NaN,155,NaN,-245,NaN,203
+2019-12-09,Detroit,New Orleans,105,103,NaN,-105,NaN,-115,NaN,-117,NaN,-102
+2019-12-09,Sacramento,Houston,119,118,NaN,588,NaN,-850,NaN,614,NaN,-900
+2019-12-09,Orlando,Milwaukee,101,110,NaN,520,NaN,-725,NaN,711,NaN,-1100
+2019-12-09,Minnesota,Phoenix,109,125,NaN,155,NaN,-180,NaN,133,NaN,-153
+2019-12-09,Oklahoma City,Utah,104,90,NaN,281,NaN,-350,NaN,303,NaN,-380
+2019-12-09,Memphis,Golden State,110,102,NaN,140,NaN,-160,NaN,135,NaN,-155
+2019-12-10,Washington,Charlotte,107,114,NaN,-115,NaN,-105,NaN,-130,NaN,110
+2019-12-10,Denver,Philadelphia,92,97,NaN,151,NaN,-175,NaN,180,NaN,-215
+2019-12-10,Atlanta,Miami,121,135,NaN,317,NaN,-400,NaN,306,NaN,-385
+2019-12-10,New York,Portland,87,115,NaN,337,NaN,-430,NaN,351,NaN,-450
+2019-12-11,Boston,Indiana,117,122,NaN,100,NaN,-120,NaN,-105,NaN,-115
+2019-12-11,L.A. Clippers,Toronto,112,92,NaN,-145,NaN,125,NaN,-144,NaN,124
+2019-12-11,L.A. Lakers,Orlando,96,87,NaN,-280,NaN,230,NaN,-447,NaN,349
+2019-12-11,Houston,Cleveland,116,110,NaN,-700,NaN,506,NaN,-800,NaN,562
+2019-12-11,Charlotte,Brooklyn,113,108,NaN,397,NaN,-520,NaN,447,NaN,-600
+2019-12-11,Utah,Minnesota,127,116,NaN,-120,NaN,100,NaN,-105,NaN,-115
+2019-12-11,Atlanta,Chicago,102,136,NaN,172,NaN,-205,NaN,216,NaN,-262
+2019-12-11,Memphis,Phoenix,115,108,NaN,237,NaN,-290,NaN,237,NaN,-290
+2019-12-11,New Orleans,Milwaukee,112,127,NaN,755,NaN,-1200,NaN,364,NaN,-470
+2019-12-11,Oklahoma City,Sacramento,93,94,NaN,100,NaN,-120,NaN,100,NaN,-120
+2019-12-11,New York,Golden State,124,122,NaN,172,NaN,-205,NaN,176,NaN,-210
+2019-12-12,Philadelphia,Boston,115,109,NaN,100,NaN,-120,NaN,-105,NaN,-115
+2019-12-12,Cleveland,San Antonio,117,109,NaN,562,NaN,-800,NaN,534,NaN,-750
+2019-12-12,Dallas,Detroit,122,111,NaN,-200,NaN,170,NaN,-265,NaN,218
+2019-12-12,Portland,Denver,99,114,NaN,199,NaN,-240,NaN,263,NaN,-325
+2019-12-13,Houston,Orlando,130,107,NaN,-270,NaN,222,NaN,-275,NaN,226
+2019-12-13,New Orleans,Philadelphia,109,116,NaN,256,NaN,-315,NaN,247,NaN,-303
+2019-12-13,L.A. Lakers,Miami,113,110,NaN,-215,NaN,180,NaN,-250,NaN,207
+2019-12-13,Indiana,Atlanta,110,100,NaN,-245,NaN,203,NaN,-247,NaN,205
+2019-12-13,Milwaukee,Memphis,127,114,NaN,-520,NaN,397,NaN,-920,NaN,624
+2019-12-13,Charlotte,Chicago,83,73,NaN,203,NaN,-245,NaN,260,NaN,-320
+2019-12-13,Golden State,Utah,106,114,NaN,664,NaN,-1000,NaN,619,NaN,-910
+2019-12-13,L.A. Clippers,Minnesota,124,117,NaN,-245,NaN,204,NaN,-190,NaN,163
+2019-12-13,New York,Sacramento,103,101,NaN,289,NaN,-360,NaN,318,NaN,-401
+2019-12-14,San Antonio,Phoenix,121,119,NaN,-105,NaN,-115,NaN,-130,NaN,110
+2019-12-14,Brooklyn,Toronto,102,110,NaN,263,NaN,-325,NaN,237,NaN,-290
+2019-12-14,L.A. Clippers,Chicago,106,109,NaN,-195,NaN,166,NaN,-150,NaN,130
+2019-12-14,Washington,Memphis,111,128,NaN,-115,NaN,-105,NaN,110,NaN,-130
+2019-12-14,Miami,Dallas,122,118,NaN,237,NaN,-290,NaN,384,NaN,-500
+2019-12-14,Cleveland,Milwaukee,108,125,NaN,711,NaN,-1100,NaN,837,NaN,-1400
+2019-12-14,Detroit,Houston,115,107,NaN,241,NaN,-295,NaN,278,NaN,-345
+2019-12-14,Oklahoma City,Denver,102,110,NaN,237,NaN,-290,NaN,191,NaN,-229
+2019-12-15,Orlando,New Orleans,130,119,NaN,-105,NaN,-115,NaN,-110,NaN,-110
+2019-12-15,Charlotte,Indiana,85,107,NaN,588,NaN,-850,NaN,588,NaN,-850
+2019-12-15,Philadelphia,Brooklyn,89,109,NaN,-195,NaN,166,NaN,-170,NaN,148
+2019-12-15,L.A. Lakers,Atlanta,101,96,NaN,-950,NaN,639,NaN,-938,NaN,633
+2019-12-15,New York,Denver,105,111,NaN,506,NaN,-700,NaN,437,NaN,-584
+2019-12-15,Sacramento,Golden State,100,79,NaN,-145,NaN,125,NaN,-205,NaN,172
+2019-12-16,Washington,Detroit,133,119,NaN,160,NaN,-185,NaN,125,NaN,-145
+2019-12-16,Cleveland,Toronto,113,133,NaN,711,NaN,-1100,NaN,603,NaN,-879
+2019-12-16,Chicago,Oklahoma City,106,109,NaN,195,NaN,-235,NaN,180,NaN,-215
+2019-12-16,Miami,Memphis,111,118,NaN,-205,NaN,172,NaN,-150,NaN,130
+2019-12-16,San Antonio,Houston,107,109,NaN,447,NaN,-600,NaN,438,NaN,-586
+2019-12-16,Dallas,Milwaukee,120,116,NaN,551,NaN,-780,NaN,459,NaN,-620
+2019-12-16,Portland,Phoenix,111,110,NaN,-115,NaN,-105,NaN,-135,NaN,115
+2019-12-17,Sacramento,Charlotte,102,110,NaN,-190,NaN,163,NaN,-225,NaN,188
+2019-12-17,L.A. Lakers,Indiana,102,105,NaN,-162,NaN,141,NaN,-146,NaN,117
+2019-12-17,Atlanta,New York,120,143,NaN,100,NaN,-120,NaN,125,NaN,-145
+2019-12-17,Brooklyn,New Orleans,108,101,NaN,-110,NaN,-110,NaN,-135,NaN,115
+2019-12-17,Orlando,Utah,102,109,NaN,192,NaN,-230,NaN,241,NaN,-295
+2019-12-17,Phoenix,L.A. Clippers,99,120,NaN,664,NaN,-1000,NaN,556,NaN,-927
+2019-12-18,Chicago,Washington,110,109,NaN,-105,NaN,-115,NaN,-105,NaN,-115
+2019-12-18,Toronto,Detroit,112,99,NaN,-165,NaN,144,NaN,-135,NaN,115
+2019-12-18,Charlotte,Cleveland,98,100,NaN,135,NaN,-155,NaN,125,NaN,-145
+2019-12-18,Miami,Philadelphia,108,104,NaN,218,NaN,-265,NaN,320,NaN,-446
+2019-12-18,New Orleans,Minnesota,107,99,NaN,263,NaN,-325,NaN,140,NaN,-160
+2019-12-18,Memphis,Oklahoma City,122,126,NaN,218,NaN,-265,NaN,226,NaN,-275
+2019-12-18,Orlando,Denver,104,113,NaN,384,NaN,-500,NaN,351,NaN,-450
+2019-12-18,Boston,Dallas,109,103,NaN,-115,NaN,-105,NaN,119,NaN,-150
+2019-12-18,Golden State,Portland,112,122,NaN,384,NaN,-500,NaN,358,NaN,-460
+2019-12-19,Utah,Atlanta,111,106,NaN,-250,NaN,207,NaN,-285,NaN,234
+2019-12-19,L.A. Lakers,Milwaukee,104,111,NaN,151,NaN,-175,NaN,147,NaN,-186
+2019-12-19,Brooklyn,San Antonio,105,118,NaN,125,NaN,-145,NaN,160,NaN,-185
+2019-12-19,Houston,L.A. Clippers,122,117,NaN,172,NaN,-205,NaN,195,NaN,-235
+2019-12-20,Sacramento,Indiana,105,119,NaN,160,NaN,-185,NaN,192,NaN,-230
+2019-12-20,Memphis,Cleveland,107,114,NaN,-110,NaN,-110,NaN,-135,NaN,115
+2019-12-20,Washington,Toronto,118,122,NaN,203,NaN,-245,NaN,211,NaN,-255
+2019-12-20,Detroit,Boston,93,114,NaN,237,NaN,-290,NaN,347,NaN,-445
+2019-12-20,New York,Miami,114,129,NaN,477,NaN,-650,NaN,330,NaN,-420
+2019-12-20,Phoenix,Oklahoma City,108,126,NaN,151,NaN,-175,NaN,125,NaN,-145
+2019-12-20,Dallas,Philadelphia,117,98,NaN,281,NaN,-350,NaN,330,NaN,-420
+2019-12-20,Minnesota,Denver,100,109,NaN,506,NaN,-700,NaN,477,NaN,-650
+2019-12-20,Orlando,Portland,103,118,NaN,140,NaN,-160,NaN,140,NaN,-160
+2019-12-20,New Orleans,Golden State,102,106,NaN,-115,NaN,-105,NaN,-134,NaN,113
+2019-12-21,Utah,Charlotte,114,107,NaN,-235,NaN,195,NaN,-300,NaN,245
+2019-12-21,Atlanta,Brooklyn,112,122,NaN,260,NaN,-320,NaN,260,NaN,-320
+2019-12-21,Washington,Philadelphia,108,125,NaN,639,NaN,-950,NaN,786,NaN,-1274
+2019-12-21,Chicago,Detroit,119,107,NaN,130,NaN,-150,NaN,-120,NaN,100
+2019-12-21,Milwaukee,New York,123,102,NaN,-1000,NaN,664,NaN,-850,NaN,588
+2019-12-21,Sacramento,Memphis,115,119,NaN,-120,NaN,100,NaN,-130,NaN,110
+2019-12-21,L.A. Clippers,San Antonio,134,109,NaN,-210,NaN,176,NaN,-320,NaN,260
+2019-12-21,Houston,Phoenix,139,125,NaN,-235,NaN,195,NaN,-410,NaN,298
+2019-12-21,Minnesota,Portland,106,113,NaN,215,NaN,-260,NaN,249,NaN,-305
+2019-12-22,Dallas,Toronto,107,110,NaN,120,NaN,-140,NaN,140,NaN,-177
+2019-12-22,Charlotte,Boston,93,119,NaN,733,NaN,-1150,NaN,628,NaN,-927
+2019-12-22,Indiana,Milwaukee,89,117,NaN,252,NaN,-310,NaN,311,NaN,-391
+2019-12-22,L.A. Clippers,Oklahoma City,112,118,NaN,-120,NaN,100,NaN,101,NaN,-126
+2019-12-22,Denver,L.A. Lakers,128,104,NaN,263,NaN,-325,NaN,111,NaN,-131
+2019-12-23,Philadelphia,Detroit,125,109,NaN,-240,NaN,199,NaN,-265,NaN,219
+2019-12-23,Toronto,Indiana,115,120,NaN,218,NaN,-265,NaN,251,NaN,-335
+2019-12-23,Chicago,Orlando,95,103,NaN,155,NaN,-180,NaN,165,NaN,-193
+2019-12-23,Washington,New York,121,115,NaN,120,NaN,-140,NaN,144,NaN,-165
+2019-12-23,Atlanta,Cleveland,118,121,NaN,110,NaN,-130,NaN,-135,NaN,115
+2019-12-23,Utah,Miami,104,107,NaN,155,NaN,-180,NaN,163,NaN,-190
+2019-12-23,San Antonio,Memphis,145,115,NaN,-115,NaN,-105,NaN,-115,NaN,-105
+2019-12-23,Denver,Phoenix,113,111,NaN,-160,NaN,140,NaN,-159,NaN,139
+2019-12-23,Houston,Sacramento,113,104,NaN,-210,NaN,176,NaN,-269,NaN,222
+2019-12-23,New Orleans,Portland,102,94,NaN,218,NaN,-265,NaN,159,NaN,-203
+2019-12-23,Minnesota,Golden State,104,113,NaN,-130,NaN,110,NaN,-105,NaN,-115
+2019-12-25,Boston,Toronto,118,102,NaN,-135,NaN,115,NaN,-110,NaN,-108
+2019-12-25,Milwaukee,Philadelphia,109,121,NaN,-135,NaN,115,NaN,-144,NaN,123
+2019-12-25,Houston,Golden State,104,116,NaN,-700,NaN,506,NaN,-700,NaN,506
+2019-12-25,L.A. Clippers,L.A. Lakers,111,106,NaN,120,NaN,-140,NaN,106,NaN,-133
+2019-12-25,New Orleans,Denver,112,100,NaN,358,NaN,-460,NaN,364,NaN,-470
+2019-12-26,Washington,Detroit,102,132,NaN,203,NaN,-245,NaN,218,NaN,-265
+2019-12-26,New York,Brooklyn,94,82,NaN,237,NaN,-290,NaN,274,NaN,-340
+2019-12-26,Memphis,Oklahoma City,110,97,NaN,199,NaN,-240,NaN,207,NaN,-250
+2019-12-26,San Antonio,Dallas,98,102,NaN,215,NaN,-260,NaN,313,NaN,-434
+2019-12-26,Minnesota,Sacramento,105,104,NaN,172,NaN,-205,NaN,260,NaN,-320
+2019-12-26,Portland,Utah,115,121,NaN,192,NaN,-230,NaN,188,NaN,-225
+2019-12-27,Cleveland,Boston,117,129,NaN,711,NaN,-1100,NaN,980,NaN,-1800
+2019-12-27,Philadelphia,Orlando,97,98,NaN,-150,NaN,130,NaN,-234,NaN,182
+2019-12-27,Oklahoma City,Charlotte,104,102,NaN,-150,NaN,130,NaN,-110,NaN,-110
+2019-12-27,Milwaukee,Atlanta,112,86,NaN,-700,NaN,506,NaN,-300,NaN,245
+2019-12-27,Indiana,Miami,112,113,NaN,160,NaN,-185,NaN,171,NaN,-204
+2019-12-27,Phoenix,Golden State,96,105,NaN,-145,NaN,125,NaN,-165,NaN,144
+2019-12-28,Memphis,Denver,111,119,NaN,358,NaN,-460,NaN,352,NaN,-451
+2019-12-28,Indiana,New Orleans,98,120,NaN,-115,NaN,-105,NaN,110,NaN,-130
+2019-12-28,Toronto,Boston,113,97,NaN,207,NaN,-250,NaN,252,NaN,-310
+2019-12-28,Philadelphia,Miami,116,117,NaN,-105,NaN,-115,NaN,100,NaN,-120
+2019-12-28,New York,Washington,107,100,NaN,-120,NaN,100,NaN,-150,NaN,130
+2019-12-28,Cleveland,Minnesota,94,88,NaN,215,NaN,-260,NaN,227,NaN,-276
+2019-12-28,Brooklyn,Houston,98,108,NaN,384,NaN,-500,NaN,358,NaN,-460
+2019-12-28,Atlanta,Chicago,81,116,NaN,422,NaN,-560,NaN,397,NaN,-520
+2019-12-28,Orlando,Milwaukee,100,111,NaN,562,NaN,-800,NaN,219,NaN,-266
+2019-12-28,Dallas,Golden State,141,121,NaN,-700,NaN,506,NaN,-598,NaN,445
+2019-12-28,Detroit,San Antonio,109,136,NaN,155,NaN,-180,NaN,176,NaN,-210
+2019-12-28,Phoenix,Sacramento,112,110,NaN,110,NaN,-130,NaN,113,NaN,-142
+2019-12-28,L.A. Lakers,Portland,128,120,NaN,-160,NaN,140,NaN,-241,NaN,200
+2019-12-28,Utah,L.A. Clippers,120,107,NaN,317,NaN,-400,NaN,261,NaN,-321
+2019-12-29,Oklahoma City,Toronto,98,97,NaN,120,NaN,-140,NaN,188,NaN,-225
+2019-12-29,Houston,New Orleans,112,127,NaN,-185,NaN,160,NaN,180,NaN,-215
+2019-12-29,Charlotte,Memphis,104,117,NaN,130,NaN,-150,NaN,126,NaN,-145
+2019-12-29,Sacramento,Denver,115,120,NaN,435,NaN,-580,NaN,289,NaN,-360
+2019-12-29,Dallas,L.A. Lakers,95,108,NaN,144,NaN,-165,NaN,180,NaN,-215
+2019-12-30,Atlanta,Orlando,101,93,NaN,520,NaN,-725,NaN,477,NaN,-650
+2019-12-30,Miami,Washington,105,123,NaN,-390,NaN,310,NaN,-2457,NaN,962
+2019-12-30,Brooklyn,Minnesota,115,122,NaN,-133,NaN,113,NaN,-189,NaN,162
+2019-12-30,Milwaukee,Chicago,123,102,NaN,-260,NaN,215,NaN,-426,NaN,334
+2019-12-30,Detroit,Utah,81,104,NaN,358,NaN,-460,NaN,384,NaN,-500
+2019-12-30,Phoenix,Portland,122,116,NaN,151,NaN,-175,NaN,151,NaN,-175
+2019-12-31,Boston,Charlotte,109,92,NaN,-265,NaN,218,NaN,-380,NaN,303
+2019-12-31,Philadelphia,Indiana,97,115,NaN,-115,NaN,-105,NaN,134,NaN,-169
+2019-12-31,L.A. Clippers,Sacramento,105,87,NaN,-280,NaN,230,NaN,-250,NaN,194
+2019-12-31,Golden State,San Antonio,113,117,NaN,358,NaN,-460,NaN,540,NaN,-760
+2019-12-31,Cleveland,Toronto,97,117,NaN,410,NaN,-540,NaN,269,NaN,-363
+2019-12-31,Denver,Houston,104,130,NaN,110,NaN,-130,NaN,237,NaN,-290
+2019-12-31,Dallas,Oklahoma City,101,106,NaN,-120,NaN,100,NaN,-140,NaN,120
+2020-01-01,Orlando,Washington,122,101,NaN,-175,NaN,151,NaN,-174,NaN,138
+2020-01-01,Portland,New York,93,117,NaN,-170,NaN,148,NaN,-169,NaN,148
+2020-01-01,Minnesota,Milwaukee,104,106,NaN,1578,NaN,-5000,NaN,1694,NaN,-6262
+2020-01-01,Phoenix,L.A. Lakers,107,117,NaN,534,NaN,-750,NaN,558,NaN,-794
+2020-01-02,Charlotte,Cleveland,109,106,NaN,125,NaN,-145,NaN,105,NaN,-125
+2020-01-02,Denver,Indiana,124,116,NaN,105,NaN,-125,NaN,-111,NaN,-109
+2020-01-02,Toronto,Miami,76,84,NaN,195,NaN,-235,NaN,175,NaN,-224
+2020-01-02,Golden State,Minnesota,84,99,NaN,151,NaN,-175,NaN,130,NaN,-150
+2020-01-02,Utah,Chicago,102,98,NaN,-155,NaN,135,NaN,-160,NaN,140
+2020-01-02,Oklahoma City,San Antonio,109,103,NaN,110,NaN,-130,NaN,120,NaN,-140
+2020-01-02,Brooklyn,Dallas,111,123,NaN,317,NaN,-400,NaN,307,NaN,-386
+2020-01-02,Memphis,Sacramento,123,128,NaN,151,NaN,-175,NaN,160,NaN,-185
+2020-01-02,Detroit,L.A. Clippers,112,126,NaN,664,NaN,-1000,NaN,818,NaN,-1350
+2020-01-03,Miami,Orlando,85,105,NaN,-120,NaN,100,NaN,-108,NaN,-115
+2020-01-03,Atlanta,Boston,106,109,NaN,614,NaN,-900,NaN,373,NaN,-541
+2020-01-03,Portland,Washington,122,103,NaN,-215,NaN,180,NaN,-300,NaN,245
+2020-01-03,Philadelphia,Houston,108,118,NaN,151,NaN,-175,NaN,124,NaN,-155
+2020-01-03,New York,Phoenix,112,120,NaN,192,NaN,-230,NaN,237,NaN,-290
+2020-01-03,New Orleans,L.A. Lakers,113,123,NaN,506,NaN,-700,NaN,456,NaN,-615
+2020-01-04,Memphis,L.A. Clippers,140,114,NaN,477,NaN,-650,NaN,435,NaN,-580
+2020-01-04,Toronto,Brooklyn,121,102,NaN,-105,NaN,-115,NaN,110,NaN,-130
+2020-01-04,Utah,Orlando,109,96,NaN,-160,NaN,140,NaN,-160,NaN,140
+2020-01-04,Oklahoma City,Cleveland,121,106,NaN,-260,NaN,215,NaN,-265,NaN,218
+2020-01-04,Indiana,Atlanta,111,116,NaN,-280,NaN,230,NaN,-290,NaN,238
+2020-01-04,Boston,Chicago,111,104,NaN,-120,NaN,100,NaN,-105,NaN,-115
+2020-01-04,Denver,Washington,114,128,NaN,-800,NaN,562,NaN,-1000,NaN,664
+2020-01-04,Charlotte,Dallas,123,120,NaN,614,NaN,-900,NaN,562,NaN,-800
+2020-01-04,San Antonio,Milwaukee,118,127,NaN,588,NaN,-850,NaN,576,NaN,-827
+2020-01-04,Detroit,Golden State,111,104,NaN,-150,NaN,130,NaN,-150,NaN,130
+2020-01-04,New Orleans,Sacramento,117,115,NaN,125,NaN,-145,NaN,-146,NaN,117
+2020-01-05,New York,L.A. Clippers,132,135,NaN,317,NaN,-400,NaN,422,NaN,-560
+2020-01-05,Portland,Miami,111,122,NaN,199,NaN,-240,NaN,176,NaN,-210
+2020-01-05,Minnesota,Cleveland,118,103,NaN,-130,NaN,110,NaN,-253,NaN,210
+2020-01-05,Memphis,Phoenix,121,114,NaN,199,NaN,-240,NaN,234,NaN,-285
+2020-01-05,Detroit,L.A. Lakers,99,106,NaN,980,NaN,-1800,NaN,980,NaN,-1800
+2020-01-06,Brooklyn,Orlando,89,101,NaN,160,NaN,-185,NaN,140,NaN,-177
+2020-01-06,Indiana,Charlotte,115,104,NaN,-200,NaN,170,NaN,-257,NaN,212
+2020-01-06,Boston,Washington,94,99,NaN,-400,NaN,317,NaN,-450,NaN,351
+2020-01-06,Oklahoma City,Philadelphia,113,120,NaN,199,NaN,-240,NaN,274,NaN,-340
+2020-01-06,Denver,Atlanta,123,115,NaN,-400,NaN,317,NaN,-317,NaN,258
+2020-01-06,Utah,New Orleans,128,126,NaN,-125,NaN,105,NaN,-170,NaN,148
+2020-01-06,Milwaukee,San Antonio,104,126,NaN,-310,NaN,252,NaN,-407,NaN,322
+2020-01-06,Chicago,Dallas,110,118,NaN,400,NaN,-525,NaN,286,NaN,-357
+2020-01-06,Golden State,Sacramento,98,111,NaN,562,NaN,-800,NaN,447,NaN,-600
+2020-01-07,Detroit,Cleveland,115,113,NaN,-145,NaN,125,NaN,-185,NaN,160
+2020-01-07,Portland,Toronto,101,99,NaN,120,NaN,-140,NaN,115,NaN,-135
+2020-01-07,Oklahoma City,Brooklyn,111,103,NaN,-125,NaN,105,NaN,-106,NaN,-114
+2020-01-07,Minnesota,Memphis,112,119,NaN,130,NaN,-150,NaN,160,NaN,-185
+2020-01-07,Sacramento,Phoenix,114,103,NaN,199,NaN,-240,NaN,160,NaN,-204
+2020-01-07,New York,L.A. Lakers,87,117,NaN,755,NaN,-1200,NaN,912,NaN,-1600
+2020-01-08,Toronto,Charlotte,112,110,NaN,-160,NaN,140,NaN,-130,NaN,110
+2020-01-08,Miami,Indiana,122,108,NaN,-105,NaN,-115,NaN,-105,NaN,-115
+2020-01-08,Washington,Orlando,89,123,NaN,462,NaN,-625,NaN,403,NaN,-530
+2020-01-08,San Antonio,Boston,129,114,NaN,195,NaN,-235,NaN,281,NaN,-350
+2020-01-08,Denver,Dallas,107,106,NaN,130,NaN,-150,NaN,184,NaN,-220
+2020-01-08,Houston,Atlanta,122,115,NaN,-360,NaN,289,NaN,-350,NaN,281
+2020-01-08,Chicago,New Orleans,108,123,NaN,155,NaN,-180,NaN,150,NaN,-173
+2020-01-08,New York,Utah,104,128,NaN,755,NaN,-1200,NaN,797,NaN,-1300
+2020-01-08,Milwaukee,Golden State,107,98,NaN,-1500,NaN,876,NaN,-1200,NaN,755
+2020-01-09,Cleveland,Detroit,115,112,NaN,237,NaN,-290,NaN,274,NaN,-340
+2020-01-09,Boston,Philadelphia,98,109,NaN,120,NaN,-140,NaN,-121,NaN,101
+2020-01-09,Portland,Minnesota,102,116,NaN,-120,NaN,100,NaN,-113,NaN,-107
+2020-01-09,Houston,Oklahoma City,92,113,NaN,-155,NaN,135,NaN,-160,NaN,140
+2020-01-10,Atlanta,Washington,101,111,NaN,-102,NaN,-119,NaN,-116,NaN,-103
+2020-01-10,New Orleans,New York,123,111,NaN,-180,NaN,155,NaN,-190,NaN,163
+2020-01-10,Miami,Brooklyn,113,117,NaN,-150,NaN,130,NaN,-184,NaN,159
+2020-01-10,San Antonio,Memphis,121,134,NaN,-110,NaN,-110,NaN,-110,NaN,-110
+2020-01-10,Indiana,Chicago,116,105,NaN,-135,NaN,115,NaN,100,NaN,-120
+2020-01-10,Charlotte,Utah,92,109,NaN,755,NaN,-1200,NaN,622,NaN,-916
+2020-01-10,Orlando,Phoenix,94,98,NaN,103,NaN,-123,NaN,161,NaN,-186
+2020-01-10,L.A. Lakers,Dallas,129,114,NaN,110,NaN,-130,NaN,-134,NaN,107
+2020-01-10,Milwaukee,Sacramento,127,106,NaN,-420,NaN,330,NaN,-485,NaN,374
+2020-01-10,Golden State,L.A. Clippers,100,109,NaN,797,NaN,-1300,NaN,932,NaN,-1655
+2020-01-11,Minnesota,Houston,109,139,NaN,534,NaN,-750,NaN,426,NaN,-640
+2020-01-11,New Orleans,Boston,105,140,NaN,422,NaN,-560,NaN,563,NaN,-803
+2020-01-11,Chicago,Detroit,108,99,NaN,140,NaN,-160,NaN,151,NaN,-175
+2020-01-11,L.A. Lakers,Oklahoma City,125,110,NaN,-123,NaN,103,NaN,351,NaN,-450
+2020-01-11,Philadelphia,Dallas,91,109,NaN,110,NaN,-130,NaN,114,NaN,-143
+2020-01-11,Cleveland,Denver,111,103,NaN,797,NaN,-1300,NaN,727,NaN,-1135
+2020-01-11,Milwaukee,Portland,122,101,NaN,-255,NaN,211,NaN,-335,NaN,271
+2020-01-12,Miami,New York,121,124,NaN,-340,NaN,274,NaN,-315,NaN,256
+2020-01-12,Utah,Washington,127,116,NaN,-380,NaN,303,NaN,-255,NaN,211
+2020-01-12,Atlanta,Brooklyn,86,108,NaN,192,NaN,-230,NaN,358,NaN,-460
+2020-01-12,Golden State,Memphis,102,122,NaN,215,NaN,-260,NaN,215,NaN,-260
+2020-01-12,San Antonio,Toronto,105,104,NaN,140,NaN,-160,NaN,155,NaN,-180
+2020-01-12,L.A. Clippers,Denver,104,114,NaN,-105,NaN,-115,NaN,-108,NaN,-112
+2020-01-12,Charlotte,Phoenix,92,100,NaN,281,NaN,-350,NaN,303,NaN,-380
+2020-01-13,Philadelphia,Indiana,95,101,NaN,110,NaN,-130,NaN,144,NaN,-165
+2020-01-13,New Orleans,Detroit,117,110,NaN,-112,NaN,-108,NaN,161,NaN,-186
+2020-01-13,Chicago,Boston,101,113,NaN,384,NaN,-500,NaN,313,NaN,-435
+2020-01-13,Oklahoma City,Minnesota,117,104,NaN,-140,NaN,120,NaN,-125,NaN,105
+2020-01-13,Charlotte,Portland,112,115,NaN,400,NaN,-525,NaN,351,NaN,-450
+2020-01-13,Orlando,Sacramento,114,112,NaN,117,NaN,-137,NaN,102,NaN,-122
+2020-01-13,Cleveland,L.A. Lakers,99,128,NaN,912,NaN,-1600,NaN,824,NaN,-1366
+2020-01-14,Phoenix,Atlanta,110,123,NaN,-200,NaN,170,NaN,-116,NaN,-104
+2020-01-14,Utah,Brooklyn,118,107,NaN,-135,NaN,115,NaN,-158,NaN,137
+2020-01-14,Houston,Memphis,110,121,NaN,-185,NaN,160,NaN,-276,NaN,211
+2020-01-14,New York,Milwaukee,102,128,NaN,1150,NaN,-2400,NaN,1155,NaN,-2422
+2020-01-14,Cleveland,L.A. Clippers,103,128,NaN,912,NaN,-1600,NaN,1175,NaN,-2500
+2020-01-14,Dallas,Golden State,124,97,NaN,-340,NaN,274,NaN,-390,NaN,310
+2020-01-15,Brooklyn,Philadelphia,106,117,NaN,263,NaN,-325,NaN,154,NaN,-209
+2020-01-15,Detroit,Boston,116,103,NaN,384,NaN,-500,NaN,411,NaN,-543
+2020-01-15,San Antonio,Miami,100,106,NaN,192,NaN,-230,NaN,195,NaN,-235
+2020-01-15,Indiana,Minnesota,104,99,NaN,-132,NaN,112,NaN,-170,NaN,148
+2020-01-15,Toronto,Oklahoma City,130,121,NaN,110,NaN,-130,NaN,-105,NaN,-115
+2020-01-15,Washington,Chicago,106,115,NaN,151,NaN,-175,NaN,170,NaN,-200
+2020-01-15,Charlotte,Denver,86,100,NaN,506,NaN,-700,NaN,501,NaN,-688
+2020-01-15,Portland,Houston,117,107,NaN,303,NaN,-380,NaN,260,NaN,-382
+2020-01-15,Dallas,Sacramento,127,123,NaN,-170,NaN,148,NaN,-185,NaN,160
+2020-01-15,Orlando,L.A. Lakers,119,118,NaN,459,NaN,-620,NaN,389,NaN,-508
+2020-01-16,Phoenix,New York,121,98,NaN,-150,NaN,130,NaN,-129,NaN,109
+2020-01-16,Boston,Milwaukee,123,128,NaN,358,NaN,-460,NaN,510,NaN,-706
+2020-01-16,Utah,New Orleans,132,138,NaN,-200,NaN,170,NaN,-220,NaN,184
+2020-01-16,Orlando,L.A. Clippers,95,122,NaN,588,NaN,-850,NaN,367,NaN,-474
+2020-01-16,Denver,Golden State,134,131,NaN,-205,NaN,174,NaN,-150,NaN,130
+2020-01-17,Chicago,Philadelphia,89,100,NaN,267,NaN,-330,NaN,281,NaN,-350
+2020-01-17,Washington,Toronto,111,140,NaN,431,NaN,-575,NaN,425,NaN,-564
+2020-01-17,Minnesota,Indiana,114,116,NaN,317,NaN,-400,NaN,230,NaN,-280
+2020-01-17,Miami,Oklahoma City,115,108,NaN,-105,NaN,-115,NaN,-114,NaN,-106
+2020-01-17,Cleveland,Memphis,109,113,NaN,285,NaN,-355,NaN,371,NaN,-480
+2020-01-17,Atlanta,San Antonio,121,120,NaN,310,NaN,-390,NaN,324,NaN,-410
+2020-01-17,Portland,Dallas,112,120,NaN,263,NaN,-325,NaN,274,NaN,-340
+2020-01-18,L.A. Clippers,New Orleans,133,130,NaN,-255,NaN,211,NaN,-359,NaN,247
+2020-01-18,Milwaukee,Brooklyn,117,97,NaN,-345,NaN,278,NaN,-485,NaN,374
+2020-01-18,Phoenix,Boston,123,119,NaN,230,NaN,-280,NaN,160,NaN,-185
+2020-01-18,Detroit,Atlanta,136,103,NaN,-125,NaN,105,NaN,-120,NaN,100
+2020-01-18,Philadelphia,New York,90,87,NaN,-155,NaN,135,NaN,-175,NaN,151
+2020-01-18,Toronto,Minnesota,122,112,NaN,-205,NaN,172,NaN,-170,NaN,148
+2020-01-18,Cleveland,Chicago,116,118,NaN,218,NaN,-265,NaN,324,NaN,-410
+2020-01-18,L.A. Lakers,Houston,124,115,NaN,115,NaN,-135,NaN,144,NaN,-165
+2020-01-18,Orlando,Golden State,95,109,NaN,-180,NaN,155,NaN,-230,NaN,192
+2020-01-18,Portland,Oklahoma City,106,119,NaN,192,NaN,-230,NaN,219,NaN,-267
+2020-01-18,Sacramento,Utah,101,123,NaN,371,NaN,-480,NaN,374,NaN,-485
+2020-01-19,Miami,San Antonio,102,107,NaN,-115,NaN,-105,NaN,-120,NaN,100
+2020-01-19,Indiana,Denver,115,107,NaN,100,NaN,-120,NaN,-114,NaN,-106
+2020-01-20,Detroit,Washington,100,106,NaN,-105,NaN,-115,NaN,-114,NaN,-106
+2020-01-20,Toronto,Atlanta,122,117,NaN,-350,NaN,281,NaN,-400,NaN,317
+2020-01-20,Philadelphia,Brooklyn,117,111,NaN,-105,NaN,-115,NaN,-145,NaN,125
+2020-01-20,Sacramento,Miami,113,118,NaN,199,NaN,-240,NaN,144,NaN,-165
+2020-01-20,Chicago,Milwaukee,98,111,NaN,980,NaN,-1800,NaN,980,NaN,-1800
+2020-01-20,New York,Cleveland,106,86,NaN,-105,NaN,-115,NaN,-120,NaN,100
+2020-01-20,Orlando,Charlotte,106,83,NaN,-185,NaN,160,NaN,-170,NaN,148
+2020-01-20,New Orleans,Memphis,126,116,NaN,100,NaN,-120,NaN,117,NaN,-156
+2020-01-20,Oklahoma City,Houston,112,107,NaN,237,NaN,-290,NaN,263,NaN,-325
+2020-01-20,L.A. Lakers,Boston,107,139,NaN,-125,NaN,105,NaN,-140,NaN,120
+2020-01-20,Denver,Minnesota,107,100,NaN,120,NaN,-140,NaN,144,NaN,-165
+2020-01-20,Indiana,Utah,88,118,NaN,237,NaN,-290,NaN,245,NaN,-300
+2020-01-20,San Antonio,Phoenix,120,118,NaN,140,NaN,-160,NaN,163,NaN,-190
+2020-01-20,Golden State,Portland,124,129,NaN,215,NaN,-260,NaN,278,NaN,-345
+2020-01-21,L.A. Clippers,Dallas,110,107,NaN,100,NaN,-120,NaN,125,NaN,-145
+2020-01-22,Sacramento,Detroit,106,127,NaN,103,NaN,-123,NaN,-125,NaN,105
+2020-01-22,Oklahoma City,Orlando,120,114,NaN,100,NaN,-120,NaN,115,NaN,-135
+2020-01-22,Philadelphia,Toronto,95,107,NaN,203,NaN,-245,NaN,188,NaN,-261
+2020-01-22,Washington,Miami,129,134,NaN,447,NaN,-600,NaN,443,NaN,-593
+2020-01-22,L.A. Lakers,New York,100,92,NaN,-600,NaN,447,NaN,-700,NaN,506
+2020-01-22,L.A. Clippers,Atlanta,95,102,NaN,-185,NaN,160,NaN,-215,NaN,158
+2020-01-22,Memphis,Boston,95,119,NaN,230,NaN,-280,NaN,256,NaN,-315
+2020-01-22,Denver,Houston,105,121,NaN,289,NaN,-360,NaN,447,NaN,-600
+2020-01-22,Minnesota,Chicago,110,117,NaN,-115,NaN,-105,NaN,-115,NaN,-105
+2020-01-22,Indiana,Phoenix,112,87,NaN,-114,NaN,-106,NaN,-115,NaN,-105
+2020-01-22,San Antonio,New Orleans,121,117,NaN,148,NaN,-170,NaN,127,NaN,-170
+2020-01-22,Utah,Golden State,129,96,NaN,-360,NaN,289,NaN,-460,NaN,358
+2020-01-23,Washington,Cleveland,124,112,NaN,-105,NaN,-115,NaN,125,NaN,-145
+2020-01-23,L.A. Lakers,Brooklyn,128,113,NaN,-235,NaN,195,NaN,-187,NaN,154
+2020-01-23,Dallas,Portland,133,125,NaN,-175,NaN,151,NaN,-329,NaN,229
+2020-01-24,Milwaukee,Charlotte,116,103,NaN,-1400,NaN,837,NaN,-1400,NaN,837
+2020-01-24,Boston,Orlando,109,98,NaN,-110,NaN,-110,NaN,120,NaN,-140
+2020-01-24,Memphis,Detroit,125,112,NaN,100,NaN,-120,NaN,-120,NaN,100
+2020-01-24,Toronto,New York,118,112,NaN,-330,NaN,267,NaN,-460,NaN,358
+2020-01-24,Sacramento,Chicago,98,81,NaN,105,NaN,-125,NaN,108,NaN,-128
+2020-01-24,L.A. Clippers,Miami,122,117,NaN,-150,NaN,130,NaN,-139,NaN,119
+2020-01-24,Houston,Minnesota,131,124,NaN,-205,NaN,172,NaN,-245,NaN,203
+2020-01-24,Denver,New Orleans,113,106,NaN,130,NaN,-150,NaN,144,NaN,-165
+2020-01-24,Atlanta,Oklahoma City,111,140,NaN,495,NaN,-680,NaN,296,NaN,-370
+2020-01-24,Phoenix,San Antonio,103,99,NaN,155,NaN,-180,NaN,180,NaN,-215
+2020-01-24,Indiana,Golden State,129,118,NaN,-235,NaN,195,NaN,-265,NaN,218
+2020-01-25,Dallas,Utah,107,112,NaN,130,NaN,-150,NaN,171,NaN,-204
+2020-01-25,Brooklyn,Detroit,121,111,NaN,-125,NaN,105,NaN,-140,NaN,120
+2020-01-25,Chicago,Cleveland,118,106,NaN,-105,NaN,-115,NaN,-105,NaN,-115
+2020-01-25,Oklahoma City,Minnesota,113,104,NaN,-130,NaN,110,NaN,110,NaN,-130
+2020-01-25,L.A. Lakers,Philadelphia,91,108,NaN,-165,NaN,144,NaN,-200,NaN,170
+2020-01-26,Houston,Denver,110,117,NaN,110,NaN,-130,NaN,113,NaN,-133
+2020-01-26,Toronto,San Antonio,110,106,NaN,-135,NaN,115,NaN,-165,NaN,144
+2020-01-26,Boston,New Orleans,108,123,NaN,-110,NaN,-110,NaN,109,NaN,-129
+2020-01-26,Phoenix,Memphis,109,114,NaN,120,NaN,-140,NaN,112,NaN,-132
+2020-01-26,L.A. Clippers,Orlando,112,97,NaN,-175,NaN,151,NaN,-150,NaN,130
+2020-01-26,Brooklyn,New York,97,110,NaN,-105,NaN,-115,NaN,124,NaN,-143
+2020-01-26,Washington,Atlanta,133,152,NaN,100,NaN,-120,NaN,-105,NaN,-115
+2020-01-26,Indiana,Portland,129,139,NaN,110,NaN,-130,NaN,104,NaN,-139
+2020-01-27,Cleveland,Detroit,115,100,NaN,222,NaN,-270,NaN,245,NaN,-300
+2020-01-27,Orlando,Miami,92,113,NaN,166,NaN,-195,NaN,241,NaN,-295
+2020-01-27,Dallas,Oklahoma City,107,97,NaN,-116,NaN,-104,NaN,-230,NaN,192
+2020-01-27,Sacramento,Minnesota,133,129,NaN,130,NaN,-150,NaN,135,NaN,-155
+2020-01-27,San Antonio,Chicago,109,110,NaN,-125,NaN,105,NaN,100,NaN,-120
+2020-01-27,Houston,Utah,126,117,NaN,755,NaN,-1200,NaN,912,NaN,-1600
+2020-01-28,New York,Charlotte,92,97,NaN,105,NaN,-125,NaN,106,NaN,-126
+2020-01-28,Golden State,Philadelphia,104,115,NaN,664,NaN,-1000,NaN,837,NaN,-1400
+2020-01-28,New Orleans,Cleveland,125,111,NaN,-275,NaN,226,NaN,-395,NaN,314
+2020-01-28,Atlanta,Toronto,114,130,NaN,639,NaN,-950,NaN,837,NaN,-1400
+2020-01-28,Boston,Miami,109,101,NaN,110,NaN,-130,NaN,110,NaN,-130
+2020-01-28,Denver,Memphis,96,104,NaN,-110,NaN,-110,NaN,-109,NaN,-111
+2020-01-28,Washington,Milwaukee,131,151,NaN,1070,NaN,-2100,NaN,614,NaN,-900
+2020-01-28,Phoenix,Dallas,133,104,NaN,195,NaN,-235,NaN,252,NaN,-310
+2020-01-29,Chicago,Indiana,106,115,NaN,351,NaN,-450,NaN,317,NaN,-400
+2020-01-29,Detroit,Brooklyn,115,125,NaN,218,NaN,-265,NaN,260,NaN,-382
+2020-01-29,Memphis,New York,127,106,NaN,-125,NaN,105,NaN,-130,NaN,-101
+2020-01-29,Utah,San Antonio,120,127,NaN,-215,NaN,180,NaN,-225,NaN,188
+2020-01-29,Oklahoma City,Sacramento,120,100,NaN,-163,NaN,143,NaN,-125,NaN,105
+2020-01-29,Houston,Portland,112,125,NaN,-120,NaN,100,NaN,-225,NaN,188
+2020-01-30,Toronto,Cleveland,115,109,NaN,-550,NaN,416,NaN,-433,NaN,339
+2020-01-30,Charlotte,Washington,107,121,NaN,140,NaN,-160,NaN,148,NaN,-170
+2020-01-30,Philadelphia,Atlanta,117,127,NaN,-280,NaN,230,NaN,-270,NaN,222
+2020-01-30,Golden State,Boston,104,119,NaN,639,NaN,-950,NaN,672,NaN,-1580
+2020-01-30,Sacramento,L.A. Clippers,124,103,NaN,797,NaN,-1300,NaN,876,NaN,-1500
+2020-01-30,Utah,Denver,100,106,NaN,100,NaN,-120,NaN,-141,NaN,117
+2020-01-31,Toronto,Detroit,105,92,NaN,-180,NaN,155,NaN,-175,NaN,151
+2020-01-31,Chicago,Brooklyn,118,133,NaN,172,NaN,-205,NaN,146,NaN,-198
+2020-01-31,Dallas,Houston,121,128,NaN,400,NaN,-525,NaN,262,NaN,-323
+2020-01-31,Memphis,New Orleans,111,139,NaN,163,NaN,-190,NaN,281,NaN,-350
+2020-01-31,Oklahoma City,Phoenix,111,107,NaN,-115,NaN,-105,NaN,-119,NaN,-102
+2020-01-31,Denver,Milwaukee,127,115,NaN,400,NaN,-525,NaN,664,NaN,-1000
+2020-01-31,Portland,L.A. Lakers,127,119,NaN,664,NaN,-1000,NaN,639,NaN,-950
+2020-02-01,Minnesota,L.A. Clippers,106,118,NaN,403,NaN,-530,NaN,477,NaN,-650
+2020-02-01,Miami,Orlando,102,89,NaN,-120,NaN,100,NaN,-179,NaN,134
+2020-02-01,New York,Indiana,92,85,NaN,428,NaN,-570,NaN,506,NaN,-700
+2020-02-01,Brooklyn,Washington,107,113,NaN,-105,NaN,-115,NaN,-130,NaN,110
+2020-02-01,Golden State,Cleveland,131,112,NaN,100,NaN,-120,NaN,105,NaN,-125
+2020-02-01,Philadelphia,Boston,95,116,NaN,120,NaN,-140,NaN,108,NaN,-144
+2020-02-01,Atlanta,Dallas,100,123,NaN,184,NaN,-220,NaN,170,NaN,-200
+2020-02-01,Charlotte,San Antonio,90,114,NaN,330,NaN,-420,NaN,372,NaN,-482
+2020-02-01,L.A. Lakers,Sacramento,129,113,NaN,-225,NaN,188,NaN,-301,NaN,245
+2020-02-01,Utah,Portland,107,124,NaN,-200,NaN,170,NaN,-402,NaN,271
+2020-02-02,Denver,Detroit,123,128,NaN,-125,NaN,105,NaN,-135,NaN,115
+2020-02-02,New Orleans,Houston,109,117,NaN,192,NaN,-230,NaN,176,NaN,-210
+2020-02-02,Phoenix,Milwaukee,108,129,NaN,477,NaN,-650,NaN,664,NaN,-1000
+2020-02-02,Chicago,Toronto,102,129,NaN,477,NaN,-650,NaN,477,NaN,-650
+2020-02-03,New York,Cleveland,139,134,NaN,-114,NaN,-106,NaN,-135,NaN,115
+2020-02-03,Golden State,Washington,125,117,NaN,166,NaN,-195,NaN,218,NaN,-265
+2020-02-03,Dallas,Indiana,112,103,NaN,151,NaN,-175,NaN,176,NaN,-210
+2020-02-03,Orlando,Charlotte,112,100,NaN,-180,NaN,155,NaN,-220,NaN,184
+2020-02-03,Phoenix,Brooklyn,97,119,NaN,120,NaN,-140,NaN,115,NaN,-135
+2020-02-03,Philadelphia,Miami,106,137,NaN,140,NaN,-160,NaN,125,NaN,-145
+2020-02-03,Boston,Atlanta,123,115,NaN,-255,NaN,211,NaN,-250,NaN,207
+2020-02-03,Detroit,Memphis,82,96,NaN,267,NaN,-330,NaN,317,NaN,-400
+2020-02-03,Minnesota,Sacramento,109,113,NaN,100,NaN,-120,NaN,-115,NaN,-105
+2020-02-03,San Antonio,L.A. Clippers,105,108,NaN,431,NaN,-575,NaN,362,NaN,-467
+2020-02-04,Milwaukee,New Orleans,120,108,NaN,-235,NaN,195,NaN,-210,NaN,172
+2020-02-04,Charlotte,Houston,110,125,NaN,797,NaN,-1300,NaN,656,NaN,-984
+2020-02-04,Portland,Denver,99,127,NaN,160,NaN,-185,NaN,156,NaN,-181
+2020-02-04,San Antonio,L.A. Lakers,102,129,NaN,614,NaN,-900,NaN,354,NaN,-567
+2020-02-05,Phoenix,Detroit,108,116,NaN,-140,NaN,120,NaN,-135,NaN,115
+2020-02-05,Golden State,Brooklyn,88,129,NaN,241,NaN,-295,NaN,207,NaN,-250
+2020-02-05,Indiana,Toronto,118,119,NaN,192,NaN,-230,NaN,134,NaN,-179
+2020-02-05,Orlando,Boston,100,116,NaN,303,NaN,-380,NaN,109,NaN,-145
+2020-02-05,Atlanta,Minnesota,127,120,NaN,195,NaN,-235,NaN,160,NaN,-185
+2020-02-05,Cleveland,Oklahoma City,103,109,NaN,711,NaN,-1100,NaN,747,NaN,-1181
+2020-02-05,Memphis,Dallas,121,107,NaN,160,NaN,-185,NaN,151,NaN,-175
+2020-02-05,Denver,Utah,98,95,NaN,330,NaN,-420,NaN,384,NaN,-500
+2020-02-05,Miami,L.A. Clippers,111,128,NaN,226,NaN,-275,NaN,144,NaN,-195
+2020-02-06,Orlando,New York,103,105,NaN,-148,NaN,128,NaN,-160,NaN,140
+2020-02-06,New Orleans,Chicago,125,119,NaN,-155,NaN,135,NaN,-255,NaN,211
+2020-02-06,Philadelphia,Milwaukee,101,112,NaN,358,NaN,-460,NaN,397,NaN,-663
+2020-02-06,San Antonio,Portland,117,125,NaN,130,NaN,-150,NaN,133,NaN,-153
+2020-02-06,Houston,L.A. Lakers,121,111,NaN,237,NaN,-290,NaN,140,NaN,-188
+2020-02-07,Dallas,Washington,118,119,NaN,-145,NaN,125,NaN,-150,NaN,112
+2020-02-07,Memphis,Philadelphia,107,119,NaN,195,NaN,-235,NaN,322,NaN,-500
+2020-02-07,Atlanta,Boston,107,112,NaN,337,NaN,-430,NaN,588,NaN,-850
+2020-02-07,Detroit,Oklahoma City,101,108,NaN,711,NaN,-1100,NaN,711,NaN,-1100
+2020-02-07,Toronto,Indiana,115,106,NaN,-110,NaN,-110,NaN,-141,NaN,106
+2020-02-07,Houston,Phoenix,91,127,NaN,-130,NaN,110,NaN,-140,NaN,120
+2020-02-07,Miami,Sacramento,97,105,NaN,-120,NaN,100,NaN,-115,NaN,-105
+2020-02-07,Portland,Utah,114,117,NaN,330,NaN,-420,NaN,433,NaN,-577
+2020-02-08,Milwaukee,Orlando,112,95,NaN,-380,NaN,303,NaN,-733,NaN,426
+2020-02-08,New York,Detroit,95,92,NaN,-110,NaN,-110,NaN,-120,NaN,100
+2020-02-08,Dallas,Charlotte,116,100,NaN,-185,NaN,160,NaN,-160,NaN,140
+2020-02-08,New Orleans,Indiana,124,117,NaN,108,NaN,-128,NaN,170,NaN,-200
+2020-02-08,Brooklyn,Toronto,118,119,NaN,281,NaN,-350,NaN,226,NaN,-275
+2020-02-08,L.A. Clippers,Minnesota,115,142,NaN,-360,NaN,289,NaN,-550,NaN,416
+2020-02-08,L.A. Lakers,Golden State,125,120,NaN,-1700,NaN,947,NaN,-1300,NaN,797
+2020-02-08,Denver,Phoenix,117,108,NaN,-155,NaN,135,NaN,-165,NaN,144
+2020-02-08,San Antonio,Sacramento,102,122,NaN,-135,NaN,115,NaN,-140,NaN,120
+2020-02-10,Brooklyn,Indiana,106,105,NaN,241,NaN,-295,NaN,222,NaN,-270
+2020-02-10,Atlanta,Orlando,126,135,NaN,299,NaN,-375,NaN,317,NaN,-400
+2020-02-10,Charlotte,Detroit,87,76,NaN,120,NaN,-140,NaN,144,NaN,-165
+2020-02-10,Minnesota,Toronto,126,137,NaN,400,NaN,-525,NaN,285,NaN,-355
+2020-02-10,Sacramento,Milwaukee,111,123,NaN,947,NaN,-1700,NaN,326,NaN,-509
+2020-02-10,Utah,Dallas,123,119,NaN,-110,NaN,-110,NaN,101,NaN,-120
+2020-02-10,San Antonio,Denver,120,127,NaN,274,NaN,-340,NaN,234,NaN,-285
+2020-02-10,Miami,Golden State,113,101,NaN,-245,NaN,203,NaN,-290,NaN,237
+2020-02-10,Phoenix,L.A. Lakers,100,125,NaN,664,NaN,-1000,NaN,722,NaN,-1205
+2020-02-11,Chicago,Washington,114,126,NaN,120,NaN,-140,NaN,134,NaN,-154
+2020-02-11,L.A. Clippers,Philadelphia,103,110,NaN,-115,NaN,-105,NaN,100,NaN,-120
+2020-02-11,Portland,New Orleans,117,138,NaN,120,NaN,-140,NaN,135,NaN,-155
+2020-02-11,San Antonio,Oklahoma City,114,106,NaN,215,NaN,-260,NaN,267,NaN,-330
+2020-02-11,Boston,Houston,105,116,NaN,120,NaN,-140,NaN,117,NaN,-135
+2020-02-12,Detroit,Orlando,112,116,NaN,267,NaN,-330,NaN,226,NaN,-275
+2020-02-12,Atlanta,Cleveland,105,127,NaN,-115,NaN,-105,NaN,-157,NaN,136
+2020-02-12,Washington,New York,114,96,NaN,125,NaN,-145,NaN,130,NaN,-150
+2020-02-12,Toronto,Brooklyn,91,101,NaN,-165,NaN,144,NaN,-170,NaN,148
+2020-02-12,Milwaukee,Indiana,111,118,NaN,-128,NaN,108,NaN,108,NaN,-144
+2020-02-12,Charlotte,Minnesota,115,108,NaN,249,NaN,-305,NaN,199,NaN,-240
+2020-02-12,Portland,Memphis,104,111,NaN,160,NaN,-185,NaN,151,NaN,-175
+2020-02-12,Sacramento,Dallas,111,130,NaN,306,NaN,-385,NaN,299,NaN,-375
+2020-02-12,Golden State,Phoenix,106,112,NaN,267,NaN,-330,NaN,218,NaN,-265
+2020-02-12,Miami,Utah,101,116,NaN,160,NaN,-185,NaN,180,NaN,-215
+2020-02-12,L.A. Lakers,Denver,120,116,NaN,-140,NaN,120,NaN,-145,NaN,125
+2020-02-13,L.A. Clippers,Boston,133,141,NaN,100,NaN,-120,NaN,-152,NaN,114
+2020-02-13,Oklahoma City,New Orleans,123,118,NaN,110,NaN,-130,NaN,160,NaN,-185
+2020-02-20,Milwaukee,Detroit,126,106,NaN,-1100,NaN,711,NaN,-1400,NaN,837
+2020-02-20,Miami,Atlanta,124,129,NaN,-215,NaN,180,NaN,-245,NaN,203
+2020-02-20,Charlotte,Chicago,103,93,NaN,192,NaN,-230,NaN,157,NaN,-181
+2020-02-20,Brooklyn,Philadelphia,104,112,NaN,303,NaN,-380,NaN,274,NaN,-350
+2020-02-20,Memphis,Sacramento,125,129,NaN,100,NaN,-120,NaN,-105,NaN,-115
+2020-02-20,Houston,Golden State,135,105,NaN,-480,NaN,371,NaN,-518,NaN,396
+2020-02-21,Cleveland,Washington,113,108,NaN,199,NaN,-240,NaN,199,NaN,-240
+2020-02-21,Dallas,Orlando,122,106,NaN,-155,NaN,135,NaN,-185,NaN,160
+2020-02-21,Phoenix,Toronto,101,118,NaN,263,NaN,-325,NaN,297,NaN,-371
+2020-02-21,Indiana,New York,106,98,NaN,-225,NaN,188,NaN,-285,NaN,234
+2020-02-21,Boston,Minnesota,127,117,NaN,-275,NaN,226,NaN,-420,NaN,330
+2020-02-21,Denver,Oklahoma City,101,113,NaN,-110,NaN,-110,NaN,125,NaN,-150
+2020-02-21,San Antonio,Utah,113,104,NaN,237,NaN,-290,NaN,237,NaN,-290
+2020-02-21,New Orleans,Portland,128,115,NaN,-145,NaN,125,NaN,-216,NaN,181
+2020-02-21,Memphis,L.A. Lakers,105,117,NaN,562,NaN,-800,NaN,450,NaN,-604
+2020-02-22,Sacramento,L.A. Clippers,112,103,NaN,384,NaN,-500,NaN,189,NaN,-263
+2020-02-22,Brooklyn,Charlotte,115,86,NaN,-140,NaN,120,NaN,-190,NaN,163
+2020-02-22,Dallas,Atlanta,107,111,NaN,-245,NaN,203,NaN,110,NaN,-130
+2020-02-22,Cleveland,Miami,105,124,NaN,711,NaN,-1100,NaN,797,NaN,-1300
+2020-02-22,Phoenix,Chicago,112,104,NaN,-115,NaN,-105,NaN,-155,NaN,135
+2020-02-22,Philadelphia,Milwaukee,98,119,NaN,317,NaN,-400,NaN,367,NaN,-475
+2020-02-22,Houston,Utah,120,110,NaN,110,NaN,-130,NaN,110,NaN,-130
+2020-02-23,Boston,L.A. Lakers,112,114,NaN,234,NaN,-285,NaN,267,NaN,-330
+2020-02-23,Indiana,Toronto,81,127,NaN,172,NaN,-205,NaN,170,NaN,-200
+2020-02-23,Minnesota,Denver,116,128,NaN,664,NaN,-1000,NaN,1019,NaN,-1923
+2020-02-23,San Antonio,Oklahoma City,103,131,NaN,172,NaN,-205,NaN,176,NaN,-210
+2020-02-23,Washington,Chicago,117,126,NaN,-110,NaN,-110,NaN,-166,NaN,145
+2020-02-23,New Orleans,Golden State,115,101,NaN,-360,NaN,289,NaN,-627,NaN,463
+2020-02-23,Detroit,Portland,104,107,NaN,155,NaN,-180,NaN,187,NaN,-224
+2020-02-24,Milwaukee,Washington,137,134,NaN,-1100,NaN,711,NaN,-1256,NaN,779
+2020-02-24,Miami,Cleveland,119,125,NaN,-245,NaN,203,NaN,-277,NaN,228
+2020-02-24,Atlanta,Philadelphia,112,129,NaN,289,NaN,-360,NaN,336,NaN,-429
+2020-02-24,Orlando,Brooklyn,115,113,NaN,130,NaN,-150,NaN,140,NaN,-160
+2020-02-24,New York,Houston,112,123,NaN,876,NaN,-1500,NaN,692,NaN,-1681
+2020-02-24,Minnesota,Dallas,123,139,NaN,912,NaN,-1600,NaN,797,NaN,-1300
+2020-02-24,Phoenix,Utah,131,111,NaN,267,NaN,-330,NaN,292,NaN,-364
+2020-02-24,Memphis,L.A. Clippers,97,124,NaN,400,NaN,-525,NaN,477,NaN,-650
+2020-02-25,Charlotte,Indiana,80,119,NaN,477,NaN,-650,NaN,534,NaN,-750
+2020-02-25,Milwaukee,Toronto,108,97,NaN,-120,NaN,100,NaN,-105,NaN,-115
+2020-02-25,Oklahoma City,Chicago,124,122,NaN,-235,NaN,195,NaN,-1024,NaN,529
+2020-02-25,Detroit,Denver,98,115,NaN,619,NaN,-910,NaN,777,NaN,-1250
+2020-02-25,Boston,Portland,118,106,NaN,-200,NaN,170,NaN,-300,NaN,245
+2020-02-25,New Orleans,L.A. Lakers,109,118,NaN,281,NaN,-350,NaN,256,NaN,-315
+2020-02-25,Sacramento,Golden State,112,94,NaN,-235,NaN,195,NaN,-392,NaN,266
+2020-02-26,Philadelphia,Cleveland,94,108,NaN,-330,NaN,267,NaN,-337,NaN,272
+2020-02-26,New York,Charlotte,101,107,NaN,-116,NaN,-104,NaN,-133,NaN,113
+2020-02-26,Brooklyn,Washington,106,110,NaN,-120,NaN,100,NaN,-130,NaN,110
+2020-02-26,Orlando,Atlanta,130,120,NaN,-140,NaN,120,NaN,-135,NaN,115
+2020-02-26,Minnesota,Miami,129,126,NaN,416,NaN,-550,NaN,562,NaN,-800
+2020-02-26,Memphis,Houston,112,140,NaN,447,NaN,-600,NaN,595,NaN,-864
+2020-02-26,Dallas,San Antonio,109,103,NaN,-225,NaN,188,NaN,-170,NaN,148
+2020-02-26,L.A. Clippers,Phoenix,102,92,NaN,-225,NaN,188,NaN,-329,NaN,266
+2020-02-26,Boston,Utah,114,103,NaN,172,NaN,-205,NaN,184,NaN,-220
+2020-02-27,New York,Philadelphia,106,115,NaN,234,NaN,-285,NaN,274,NaN,-340
+2020-02-27,Sacramento,Oklahoma City,108,112,NaN,207,NaN,-250,NaN,245,NaN,-300
+2020-02-27,Portland,Indiana,100,106,NaN,394,NaN,-515,NaN,416,NaN,-550
+2020-02-27,L.A. Lakers,Golden State,116,86,NaN,-1200,NaN,755,NaN,-749,NaN,432
+2020-02-28,Minnesota,Orlando,125,136,NaN,271,NaN,-335,NaN,222,NaN,-270
+2020-02-28,Charlotte,Toronto,99,96,NaN,876,NaN,-1500,NaN,711,NaN,-1100
+2020-02-28,Brooklyn,Atlanta,118,141,NaN,-145,NaN,125,NaN,-130,NaN,110
+2020-02-28,Cleveland,New Orleans,104,116,NaN,664,NaN,-1000,NaN,614,NaN,-900
+2020-02-28,Sacramento,Memphis,104,101,NaN,151,NaN,-175,NaN,100,NaN,-120
+2020-02-28,Oklahoma City,Milwaukee,86,133,NaN,477,NaN,-650,NaN,447,NaN,-600
+2020-02-28,Dallas,Miami,118,126,NaN,120,NaN,-140,NaN,115,NaN,-135
+2020-02-28,Washington,Utah,119,129,NaN,477,NaN,-650,NaN,416,NaN,-550
+2020-02-28,Detroit,Phoenix,113,111,NaN,263,NaN,-325,NaN,289,NaN,-360
+2020-02-28,Denver,L.A. Clippers,103,132,NaN,195,NaN,-235,NaN,215,NaN,-260

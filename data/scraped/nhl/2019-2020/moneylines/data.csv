@@ -1,0 +1,996 @@
+2019-10-02,Ottawa,Toronto,3,5,NaN,245,NaN,-300,NaN,263,NaN,-325
+2019-10-02,Washington,St. Louis,3,2,NaN,115,NaN,-135,NaN,145,NaN,-166
+2019-10-02,Vancouver,Edmonton,2,3,NaN,105,NaN,-125,NaN,109,NaN,-129
+2019-10-02,San Jose,Vegas,1,4,NaN,151,NaN,-175,NaN,166,NaN,-195
+2019-10-03,Florida,Tampa Bay,2,5,NaN,160,NaN,-185,NaN,155,NaN,-180
+2019-10-03,Montreal,Carolina,3,4,NaN,135,NaN,-155,NaN,140,NaN,-160
+2019-10-03,Winnipeg,N.Y. Rangers,4,6,NaN,110,NaN,-130,NaN,-105,NaN,-115
+2019-10-03,Buffalo,Pittsburgh,3,1,NaN,148,NaN,-170,NaN,166,NaN,-195
+2019-10-03,Minnesota,Nashville,2,5,NaN,155,NaN,-180,NaN,151,NaN,-175
+2019-10-03,Boston,Dallas,2,1,NaN,-110,NaN,-110,NaN,-111,NaN,-109
+2019-10-03,Calgary,Colorado,3,5,NaN,115,NaN,-135,NaN,-105,NaN,-115
+2019-10-03,Arizona,Anaheim,1,2,NaN,100,NaN,-120,NaN,-104,NaN,-116
+2019-10-04,Chicago,Philadelphia,3,4,NaN,-105,NaN,-115,NaN,103,NaN,-123
+2019-10-04,Toronto,Columbus,4,1,NaN,-145,NaN,125,NaN,-155,NaN,135
+2019-10-04,Washington,N.Y. Islanders,2,1,NaN,110,NaN,-130,NaN,105,NaN,-125
+2019-10-04,Winnipeg,New Jersey,5,4,NaN,123,NaN,-143,NaN,125,NaN,-145
+2019-10-04,Vegas,San Jose,5,1,NaN,-123,NaN,103,NaN,-119,NaN,-101
+2019-10-05,N.Y. Rangers,Ottawa,4,1,NaN,-130,NaN,110,NaN,-133,NaN,113
+2019-10-05,New Jersey,Buffalo,2,7,NaN,113,NaN,-133,NaN,100,NaN,-120
+2019-10-05,Tampa Bay,Florida,3,4,NaN,-105,NaN,-115,NaN,-124,NaN,104
+2019-10-05,Carolina,Washington,3,2,NaN,110,NaN,-130,NaN,-101,NaN,-119
+2019-10-05,Montreal,Toronto,6,3,NaN,148,NaN,-170,NaN,125,NaN,-145
+2019-10-05,Columbus,Pittsburgh,2,7,NaN,170,NaN,-200,NaN,160,NaN,-185
+2019-10-05,Detroit,Nashville,5,3,NaN,184,NaN,-220,NaN,211,NaN,-255
+2019-10-05,Dallas,St. Louis,2,3,NaN,125,NaN,-145,NaN,121,NaN,-141
+2019-10-05,Minnesota,Colorado,2,4,NaN,160,NaN,-185,NaN,135,NaN,-155
+2019-10-05,Boston,Arizona,1,0,NaN,-133,NaN,113,NaN,-143,NaN,123
+2019-10-05,Los Angeles,Edmonton,5,6,NaN,133,NaN,-153,NaN,131,NaN,-151
+2019-10-05,San Jose,Anaheim,1,3,NaN,110,NaN,-130,NaN,-105,NaN,-115
+2019-10-05,Vancouver,Calgary,0,3,NaN,152,NaN,-177,NaN,172,NaN,-205
+2019-10-06,Tampa Bay,Carolina,3,4,NaN,-111,NaN,-109,NaN,-118,NaN,-102
+2019-10-06,Winnipeg,N.Y. Islanders,1,4,NaN,113,NaN,-133,NaN,130,NaN,-150
+2019-10-06,Dallas,Detroit,3,4,NaN,-133,NaN,113,NaN,-160,NaN,140
+2019-10-07,St. Louis,Toronto,3,2,NaN,125,NaN,-145,NaN,120,NaN,-140
+2019-10-07,Buffalo,Columbus,3,4,NaN,-110,NaN,-110,NaN,-104,NaN,-116
+2019-10-08,Winnipeg,Pittsburgh,4,1,NaN,130,NaN,-150,NaN,144,NaN,-165
+2019-10-08,Dallas,Washington,5,3,NaN,135,NaN,-155,NaN,122,NaN,-142
+2019-10-08,Edmonton,N.Y. Islanders,5,2,NaN,125,NaN,-145,NaN,145,NaN,-166
+2019-10-08,Carolina,Florida,6,3,NaN,100,NaN,-120,NaN,107,NaN,-127
+2019-10-08,Anaheim,Detroit,3,1,NaN,110,NaN,-130,NaN,-127,NaN,107
+2019-10-08,San Jose,Nashville,2,5,NaN,135,NaN,-155,NaN,151,NaN,-175
+2019-10-08,Los Angeles,Calgary,4,3,NaN,170,NaN,-200,NaN,207,NaN,-250
+2019-10-08,Boston,Vegas,4,3,NaN,130,NaN,-150,NaN,117,NaN,-137
+2019-10-09,Montreal,Buffalo,4,5,NaN,-105,NaN,-115,NaN,-108,NaN,-112
+2019-10-09,New Jersey,Philadelphia,0,4,NaN,107,NaN,-127,NaN,105,NaN,-125
+2019-10-09,Los Angeles,Vancouver,2,8,NaN,133,NaN,-153,NaN,140,NaN,-160
+2019-10-10,Detroit,Montreal,4,2,NaN,160,NaN,-185,NaN,171,NaN,-203
+2019-10-10,Edmonton,New Jersey,4,3,NaN,113,NaN,-133,NaN,103,NaN,-123
+2019-10-10,Tampa Bay,Toronto,7,3,NaN,-107,NaN,-113,NaN,-107,NaN,-113
+2019-10-10,Anaheim,Pittsburgh,1,2,NaN,130,NaN,-150,NaN,127,NaN,-147
+2019-10-10,St. Louis,Ottawa,6,4,NaN,-200,NaN,170,NaN,-195,NaN,166
+2019-10-10,Washington,Nashville,5,6,NaN,130,NaN,-150,NaN,120,NaN,-140
+2019-10-10,Minnesota,Winnipeg,2,5,NaN,113,NaN,-133,NaN,-105,NaN,-115
+2019-10-10,San Jose,Chicago,5,4,NaN,100,NaN,-120,NaN,-111,NaN,-109
+2019-10-10,Calgary,Dallas,3,2,NaN,-102,NaN,-118,NaN,-106,NaN,-114
+2019-10-10,Boston,Colorado,2,4,NaN,103,NaN,-123,NaN,-108,NaN,-112
+2019-10-10,Vegas,Arizona,1,4,NaN,-155,NaN,135,NaN,-122,NaN,102
+2019-10-11,Anaheim,Columbus,2,1,NaN,125,NaN,-145,NaN,125,NaN,-145
+2019-10-11,Florida,Buffalo,2,3,NaN,-111,NaN,-109,NaN,-140,NaN,120
+2019-10-11,N.Y. Islanders,Carolina,2,5,NaN,133,NaN,-153,NaN,152,NaN,-177
+2019-10-12,Edmonton,N.Y. Rangers,4,1,NaN,102,NaN,-122,NaN,105,NaN,-125
+2019-10-12,Tampa Bay,Ottawa,2,4,NaN,-275,NaN,226,NaN,-260,NaN,215
+2019-10-12,Nashville,Los Angeles,4,7,NaN,-155,NaN,135,NaN,-163,NaN,143
+2019-10-12,New Jersey,Boston,0,3,NaN,151,NaN,-175,NaN,184,NaN,-220
+2019-10-12,St. Louis,Montreal,3,6,NaN,-125,NaN,105,NaN,-122,NaN,102
+2019-10-12,Toronto,Detroit,5,2,NaN,-195,NaN,166,NaN,-191,NaN,164
+2019-10-12,Florida,N.Y. Islanders,2,3,NaN,-110,NaN,-110,NaN,-104,NaN,-116
+2019-10-12,Columbus,Carolina,3,2,NaN,163,NaN,-190,NaN,180,NaN,-215
+2019-10-12,Winnipeg,Chicago,3,2,NaN,-107,NaN,-113,NaN,111,NaN,-131
+2019-10-12,Washington,Dallas,4,1,NaN,-107,NaN,-113,NaN,-103,NaN,-117
+2019-10-12,Pittsburgh,Minnesota,7,4,NaN,100,NaN,-120,NaN,109,NaN,-129
+2019-10-12,Arizona,Colorado,2,3,NaN,146,NaN,-168,NaN,132,NaN,-152
+2019-10-12,Philadelphia,Vancouver,2,3,NaN,105,NaN,-125,NaN,-108,NaN,-112
+2019-10-12,Calgary,Vegas,2,6,NaN,115,NaN,-135,NaN,130,NaN,-150
+2019-10-13,Pittsburgh,Winnipeg,7,2,NaN,108,NaN,-128,NaN,104,NaN,-124
+2019-10-13,Calgary,San Jose,1,3,NaN,-105,NaN,-115,NaN,112,NaN,-132
+2019-10-13,Vegas,Los Angeles,5,2,NaN,-140,NaN,120,NaN,-160,NaN,140
+2019-10-14,Florida,New Jersey,6,4,NaN,-110,NaN,-110,NaN,-110,NaN,-110
+2019-10-14,St. Louis,N.Y. Islanders,2,3,NaN,-118,NaN,-102,NaN,-145,NaN,125
+2019-10-14,Minnesota,Ottawa,2,0,NaN,-135,NaN,115,NaN,-135,NaN,115
+2019-10-14,Anaheim,Boston,2,4,NaN,163,NaN,-190,NaN,192,NaN,-230
+2019-10-14,Dallas,Buffalo,0,4,NaN,-105,NaN,-115,NaN,-116,NaN,-104
+2019-10-14,Colorado,Washington,6,3,NaN,107,NaN,-127,NaN,119,NaN,-139
+2019-10-14,Edmonton,Chicago,1,3,NaN,-110,NaN,-110,NaN,-104,NaN,-116
+2019-10-15,Minnesota,Toronto,2,4,NaN,176,NaN,-210,NaN,203,NaN,-245
+2019-10-15,Tampa Bay,Montreal,3,1,NaN,-140,NaN,120,NaN,-131,NaN,111
+2019-10-15,Arizona,Winnipeg,4,2,NaN,120,NaN,-140,NaN,106,NaN,-126
+2019-10-15,Philadelphia,Calgary,1,3,NaN,151,NaN,-175,NaN,123,NaN,-143
+2019-10-15,Nashville,Vegas,5,2,NaN,130,NaN,-150,NaN,112,NaN,-132
+2019-10-15,Detroit,Vancouver,1,5,NaN,140,NaN,-160,NaN,130,NaN,-150
+2019-10-15,Carolina,Los Angeles,2,0,NaN,-155,NaN,135,NaN,-160,NaN,140
+2019-10-16,Toronto,Washington,3,4,NaN,-107,NaN,-113,NaN,105,NaN,-125
+2019-10-16,Colorado,Pittsburgh,2,3,NaN,-110,NaN,-110,NaN,-113,NaN,-107
+2019-10-16,Dallas,Columbus,2,3,NaN,100,NaN,-120,NaN,-115,NaN,-104
+2019-10-16,Philadelphia,Edmonton,3,6,NaN,108,NaN,-128,NaN,108,NaN,-128
+2019-10-16,Buffalo,Anaheim,2,5,NaN,110,NaN,-130,NaN,120,NaN,-140
+2019-10-16,Carolina,San Jose,2,5,NaN,109,NaN,-131,NaN,120,NaN,-140
+2019-10-17,N.Y. Rangers,New Jersey,2,5,NaN,105,NaN,-125,NaN,110,NaN,-130
+2019-10-17,Tampa Bay,Boston,4,3,NaN,100,NaN,-120,NaN,-103,NaN,-117
+2019-10-17,Minnesota,Montreal,0,4,NaN,140,NaN,-160,NaN,145,NaN,-167
+2019-10-17,N.Y. Islanders,Winnipeg,3,1,NaN,105,NaN,-125,NaN,109,NaN,-129
+2019-10-17,Vancouver,St. Louis,4,3,NaN,148,NaN,-170,NaN,180,NaN,-215
+2019-10-17,Detroit,Calgary,1,5,NaN,192,NaN,-230,NaN,203,NaN,-245
+2019-10-17,Ottawa,Vegas,2,3,NaN,230,NaN,-280,NaN,271,NaN,-335
+2019-10-17,Nashville,Arizona,2,5,NaN,-123,NaN,103,NaN,-117,NaN,-103
+2019-10-17,Buffalo,Los Angeles,3,0,NaN,-102,NaN,-118,NaN,110,NaN,-130
+2019-10-18,Colorado,Florida,5,4,NaN,-105,NaN,-115,NaN,115,NaN,-137
+2019-10-18,Dallas,Pittsburgh,2,4,NaN,125,NaN,-145,NaN,124,NaN,-144
+2019-10-18,N.Y. Rangers,Washington,2,5,NaN,144,NaN,-165,NaN,192,NaN,-230
+2019-10-18,Columbus,Chicago,2,3,NaN,123,NaN,-143,NaN,120,NaN,-140
+2019-10-18,Detroit,Edmonton,1,2,NaN,188,NaN,-225,NaN,170,NaN,-200
+2019-10-18,Carolina,Anaheim,2,4,NaN,-123,NaN,103,NaN,-121,NaN,101
+2019-10-19,Vancouver,New Jersey,0,1,NaN,100,NaN,-120,NaN,112,NaN,-132
+2019-10-19,Montreal,St. Louis,5,2,NaN,140,NaN,-160,NaN,127,NaN,-147
+2019-10-19,Dallas,Philadelphia,4,1,NaN,125,NaN,-145,NaN,135,NaN,-155
+2019-10-19,Colorado,Tampa Bay,6,2,NaN,155,NaN,-180,NaN,172,NaN,-205
+2019-10-19,Vegas,Pittsburgh,3,0,NaN,-110,NaN,-110,NaN,-134,NaN,114
+2019-10-19,Ottawa,Arizona,2,5,NaN,170,NaN,-200,NaN,192,NaN,-230
+2019-10-19,Boston,Toronto,3,4,NaN,-110,NaN,-110,NaN,-105,NaN,-115
+2019-10-19,N.Y. Islanders,Columbus,3,2,NaN,-105,NaN,-115,NaN,-108,NaN,-112
+2019-10-19,Florida,Nashville,3,2,NaN,135,NaN,-155,NaN,146,NaN,-167
+2019-10-19,Calgary,Los Angeles,1,4,NaN,-143,NaN,123,NaN,-155,NaN,135
+2019-10-19,Buffalo,San Jose,4,3,NaN,144,NaN,-165,NaN,150,NaN,-173
+2019-10-20,Vancouver,N.Y. Rangers,3,2,NaN,113,NaN,-133,NaN,-105,NaN,-115
+2019-10-20,Montreal,Minnesota,3,4,NaN,-115,NaN,-105,NaN,113,NaN,-133
+2019-10-20,Edmonton,Winnipeg,0,1,NaN,103,NaN,-123,NaN,119,NaN,-139
+2019-10-20,Washington,Chicago,5,3,NaN,-118,NaN,-102,NaN,-134,NaN,114
+2019-10-20,Calgary,Anaheim,2,1,NaN,-103,NaN,-117,NaN,123,NaN,-143
+2019-10-21,Vegas,Philadelphia,2,6,NaN,-123,NaN,103,NaN,-118,NaN,-102
+2019-10-21,Columbus,Toronto,4,3,NaN,166,NaN,-195,NaN,164,NaN,-193
+2019-10-21,Colorado,St. Louis,1,3,NaN,113,NaN,-133,NaN,120,NaN,-140
+2019-10-21,Ottawa,Dallas,1,2,NaN,188,NaN,-225,NaN,180,NaN,-215
+2019-10-22,Toronto,Boston,2,4,NaN,144,NaN,-165,NaN,166,NaN,-195
+2019-10-22,San Jose,Buffalo,3,4,NaN,-101,NaN,-119,NaN,-110,NaN,-110
+2019-10-22,Pittsburgh,Florida,2,4,NaN,120,NaN,-140,NaN,117,NaN,-137
+2019-10-22,Arizona,N.Y. Rangers,3,2,NaN,100,NaN,-120,NaN,-124,NaN,104
+2019-10-22,Vancouver,Detroit,5,2,NaN,-125,NaN,105,NaN,-117,NaN,-103
+2019-10-22,Edmonton,Minnesota,0,3,NaN,-110,NaN,-110,NaN,105,NaN,-125
+2019-10-22,Los Angeles,Winnipeg,3,2,NaN,163,NaN,-190,NaN,129,NaN,-149
+2019-10-22,Anaheim,Nashville,1,6,NaN,148,NaN,-170,NaN,133,NaN,-153
+2019-10-22,Vegas,Chicago,2,1,NaN,-140,NaN,120,NaN,-121,NaN,101
+2019-10-22,Washington,Calgary,5,3,NaN,110,NaN,-130,NaN,-102,NaN,-118
+2019-10-23,Detroit,Ottawa,2,5,NaN,100,NaN,-120,NaN,114,NaN,-134
+2019-10-23,Pittsburgh,Tampa Bay,2,3,NaN,180,NaN,-215,NaN,199,NaN,-240
+2019-10-24,Buffalo,N.Y. Rangers,2,6,NaN,-123,NaN,103,NaN,-121,NaN,101
+2019-10-24,San Jose,Montreal,4,2,NaN,103,NaN,-123,NaN,117,NaN,-137
+2019-10-24,Arizona,N.Y. Islanders,2,4,NaN,103,NaN,-123,NaN,-103,NaN,-117
+2019-10-24,Carolina,Columbus,3,4,NaN,-120,NaN,100,NaN,-130,NaN,110
+2019-10-24,Minnesota,Nashville,0,4,NaN,158,NaN,-183,NaN,155,NaN,-180
+2019-10-24,Los Angeles,St. Louis,2,5,NaN,177,NaN,-212,NaN,155,NaN,-180
+2019-10-24,Anaheim,Dallas,1,2,NaN,120,NaN,-140,NaN,137,NaN,-157
+2019-10-24,Philadelphia,Chicago,4,1,NaN,-103,NaN,-117,NaN,-110,NaN,-110
+2019-10-24,Washington,Edmonton,3,4,NaN,-120,NaN,100,NaN,-129,NaN,109
+2019-10-24,Florida,Calgary,5,6,NaN,128,NaN,-148,NaN,120,NaN,-140
+2019-10-25,Colorado,Vegas,6,1,NaN,120,NaN,-140,NaN,144,NaN,-165
+2019-10-25,San Jose,Toronto,1,4,NaN,143,NaN,-163,NaN,160,NaN,-185
+2019-10-25,Arizona,New Jersey,5,3,NaN,110,NaN,-130,NaN,101,NaN,-121
+2019-10-25,Buffalo,Detroit,2,0,NaN,-125,NaN,105,NaN,-113,NaN,-107
+2019-10-25,N.Y. Islanders,Ottawa,4,2,NaN,-135,NaN,115,NaN,-125,NaN,105
+2019-10-25,Washington,Vancouver,6,5,NaN,-115,NaN,-105,NaN,-105,NaN,-115
+2019-10-26,Chicago,Carolina,0,4,NaN,157,NaN,-182,NaN,170,NaN,-200
+2019-10-26,St. Louis,Boston,0,3,NaN,140,NaN,-160,NaN,148,NaN,-170
+2019-10-26,Nashville,Tampa Bay,3,2,NaN,136,NaN,-156,NaN,146,NaN,-167
+2019-10-26,Columbus,Philadelphia,4,7,NaN,130,NaN,-150,NaN,134,NaN,-154
+2019-10-26,Toronto,Montreal,2,5,NaN,105,NaN,-125,NaN,113,NaN,-133
+2019-10-26,Pittsburgh,Dallas,3,0,NaN,120,NaN,-140,NaN,105,NaN,-125
+2019-10-26,Los Angeles,Minnesota,1,5,NaN,110,NaN,-130,NaN,128,NaN,-148
+2019-10-26,Anaheim,Colorado,5,2,NaN,138,NaN,-158,NaN,135,NaN,-155
+2019-10-26,Calgary,Winnipeg,1,2,NaN,-120,NaN,100,NaN,-135,NaN,115
+2019-10-27,Florida,Edmonton,6,2,NaN,-102,NaN,-118,NaN,-116,NaN,-104
+2019-10-27,St. Louis,Detroit,5,4,NaN,-160,NaN,140,NaN,-140,NaN,120
+2019-10-27,Boston,N.Y. Rangers,7,4,NaN,-140,NaN,120,NaN,-161,NaN,141
+2019-10-27,Philadelphia,N.Y. Islanders,3,5,NaN,123,NaN,-143,NaN,-105,NaN,-115
+2019-10-27,Los Angeles,Chicago,1,5,NaN,115,NaN,-135,NaN,116,NaN,-136
+2019-10-27,San Jose,Ottawa,2,5,NaN,-160,NaN,140,NaN,-162,NaN,142
+2019-10-27,Anaheim,Vegas,2,5,NaN,180,NaN,-215,NaN,203,NaN,-245
+2019-10-28,Arizona,Buffalo,3,2,NaN,110,NaN,-130,NaN,105,NaN,-125
+2019-10-28,Florida,Vancouver,2,7,NaN,110,NaN,-130,NaN,120,NaN,-140
+2019-10-29,Philadelphia,Pittsburgh,1,7,NaN,130,NaN,-150,NaN,125,NaN,-145
+2019-10-29,San Jose,Boston,1,5,NaN,170,NaN,-200,NaN,180,NaN,-215
+2019-10-29,Calgary,Carolina,1,2,NaN,125,NaN,-145,NaN,130,NaN,-150
+2019-10-29,Washington,Toronto,4,3,NaN,100,NaN,-120,NaN,115,NaN,-135
+2019-10-29,Tampa Bay,N.Y. Rangers,1,4,NaN,-180,NaN,155,NaN,-220,NaN,184
+2019-10-29,Edmonton,Detroit,1,3,NaN,-135,NaN,115,NaN,-113,NaN,-107
+2019-10-29,Chicago,Nashville,0,3,NaN,170,NaN,-200,NaN,172,NaN,-205
+2019-10-29,Minnesota,Dallas,3,6,NaN,135,NaN,-155,NaN,127,NaN,-147
+2019-10-29,Winnipeg,Anaheim,4,7,NaN,110,NaN,-130,NaN,-116,NaN,-104
+2019-10-30,Tampa Bay,New Jersey,7,6,NaN,-145,NaN,125,NaN,-130,NaN,110
+2019-10-30,Edmonton,Columbus,4,1,NaN,110,NaN,-130,NaN,130,NaN,-150
+2019-10-30,Minnesota,St. Louis,1,2,NaN,149,NaN,-172,NaN,155,NaN,-180
+2019-10-30,Montreal,Arizona,4,1,NaN,107,NaN,-127,NaN,105,NaN,-125
+2019-10-30,Florida,Colorado,4,3,NaN,120,NaN,-140,NaN,115,NaN,-135
+2019-10-30,Vancouver,Los Angeles,5,3,NaN,-140,NaN,120,NaN,-123,NaN,103
+2019-10-31,Calgary,Nashville,6,5,NaN,133,NaN,-153,NaN,142,NaN,-163
+2019-10-31,Montreal,Vegas,5,4,NaN,163,NaN,-190,NaN,211,NaN,-255
+2019-11-01,Philadelphia,New Jersey,4,3,NaN,102,NaN,-122,NaN,-103,NaN,-117
+2019-11-01,Buffalo,Washington,1,6,NaN,152,NaN,-177,NaN,163,NaN,-190
+2019-11-01,Tampa Bay,N.Y. Islanders,2,5,NaN,-127,NaN,107,NaN,-127,NaN,107
+2019-11-01,Detroit,Carolina,3,7,NaN,215,NaN,-260,NaN,226,NaN,-275
+2019-11-01,Columbus,St. Louis,3,4,NaN,149,NaN,-172,NaN,148,NaN,-170
+2019-11-01,Dallas,Colorado,2,1,NaN,123,NaN,-143,NaN,122,NaN,-142
+2019-11-01,Vancouver,Anaheim,1,2,NaN,-102,NaN,-118,NaN,-114,NaN,-106
+2019-11-01,Winnipeg,San Jose,3,2,NaN,135,NaN,-155,NaN,127,NaN,-147
+2019-11-02,Edmonton,Pittsburgh,2,1,NaN,148,NaN,-170,NaN,176,NaN,-210
+2019-11-02,N.Y. Rangers,Nashville,2,1,NaN,180,NaN,-215,NaN,215,NaN,-260
+2019-11-02,Ottawa,Boston,2,5,NaN,289,NaN,-360,NaN,320,NaN,-405
+2019-11-02,Toronto,Philadelphia,4,3,NaN,-130,NaN,110,NaN,-140,NaN,120
+2019-11-02,Detroit,Florida,0,4,NaN,207,NaN,-250,NaN,226,NaN,-275
+2019-11-02,New Jersey,Carolina,5,3,NaN,155,NaN,-180,NaN,171,NaN,-203
+2019-11-02,Calgary,Columbus,3,0,NaN,-120,NaN,100,NaN,-135,NaN,115
+2019-11-02,N.Y. Islanders,Buffalo,1,0,NaN,-105,NaN,-115,NaN,104,NaN,-124
+2019-11-02,Montreal,Dallas,1,4,NaN,102,NaN,-122,NaN,100,NaN,-120
+2019-11-02,St. Louis,Minnesota,4,3,NaN,-108,NaN,-112,NaN,117,NaN,-137
+2019-11-02,Colorado,Arizona,0,3,NaN,110,NaN,-130,NaN,127,NaN,-147
+2019-11-02,Vancouver,San Jose,5,2,NaN,115,NaN,-135,NaN,126,NaN,-146
+2019-11-02,Winnipeg,Vegas,4,3,NaN,184,NaN,-220,NaN,199,NaN,-240
+2019-11-02,Chicago,Los Angeles,3,4,NaN,102,NaN,-122,NaN,117,NaN,-137
+2019-11-03,Calgary,Washington,2,4,NaN,155,NaN,-180,NaN,144,NaN,-165
+2019-11-03,Chicago,Anaheim,3,2,NaN,138,NaN,-158,NaN,123,NaN,-143
+2019-11-04,Ottawa,N.Y. Rangers,6,2,NaN,166,NaN,-195,NaN,142,NaN,-162
+2019-11-04,Pittsburgh,Boston,4,6,NaN,140,NaN,-160,NaN,144,NaN,-165
+2019-11-04,Nashville,Detroit,6,1,NaN,-185,NaN,160,NaN,-225,NaN,188
+2019-11-04,Arizona,Edmonton,3,2,NaN,100,NaN,-120,NaN,-115,NaN,-105
+2019-11-05,Carolina,Philadelphia,1,4,NaN,-120,NaN,100,NaN,-110,NaN,-110
+2019-11-05,Ottawa,N.Y. Islanders,1,4,NaN,230,NaN,-280,NaN,218,NaN,-265
+2019-11-05,Vegas,Columbus,2,1,NaN,-140,NaN,120,NaN,-142,NaN,122
+2019-11-05,Los Angeles,Toronto,1,3,NaN,203,NaN,-245,NaN,199,NaN,-240
+2019-11-05,Boston,Montreal,4,5,NaN,-120,NaN,100,NaN,-113,NaN,-107
+2019-11-05,New Jersey,Winnipeg,2,1,NaN,130,NaN,-150,NaN,113,NaN,-133
+2019-11-05,Colorado,Dallas,1,4,NaN,115,NaN,-135,NaN,115,NaN,-135
+2019-11-05,Arizona,Calgary,3,4,NaN,135,NaN,-155,NaN,144,NaN,-165
+2019-11-05,Chicago,San Jose,2,4,NaN,144,NaN,-165,NaN,135,NaN,-155
+2019-11-05,St. Louis,Vancouver,2,1,NaN,110,NaN,-130,NaN,110,NaN,-130
+2019-11-05,Minnesota,Anaheim,4,2,NaN,130,NaN,-150,NaN,112,NaN,-132
+2019-11-06,Detroit,N.Y. Rangers,1,5,NaN,133,NaN,-153,NaN,141,NaN,-161
+2019-11-06,St. Louis,Edmonton,5,2,NaN,123,NaN,-143,NaN,125,NaN,-145
+2019-11-07,Montreal,Philadelphia,2,3,NaN,105,NaN,-125,NaN,-101,NaN,-123
+2019-11-07,Vegas,Toronto,1,2,NaN,107,NaN,-127,NaN,128,NaN,-164
+2019-11-07,Pittsburgh,N.Y. Islanders,4,3,NaN,117,NaN,-137,NaN,157,NaN,-203
+2019-11-07,N.Y. Rangers,Carolina,4,2,NaN,222,NaN,-270,NaN,218,NaN,-292
+2019-11-07,Washington,Florida,5,4,NaN,103,NaN,-123,NaN,104,NaN,-124
+2019-11-07,Los Angeles,Ottawa,2,3,NaN,-107,NaN,-113,NaN,-125,NaN,105
+2019-11-07,Vancouver,Chicago,2,5,NaN,-115,NaN,-105,NaN,-138,NaN,118
+2019-11-07,Nashville,Colorado,4,9,NaN,-120,NaN,100,NaN,-138,NaN,118
+2019-11-07,New Jersey,Calgary,2,5,NaN,151,NaN,-175,NaN,130,NaN,-150
+2019-11-07,Columbus,Arizona,3,2,NaN,143,NaN,-163,NaN,125,NaN,-145
+2019-11-07,Minnesota,San Jose,5,6,NaN,144,NaN,-165,NaN,125,NaN,-145
+2019-11-08,Tampa Bay,Buffalo,3,2,NaN,-165,NaN,144,NaN,-174,NaN,150
+2019-11-08,Boston,Detroit,2,4,NaN,-245,NaN,203,NaN,-245,NaN,203
+2019-11-08,Vancouver,Winnipeg,1,4,NaN,107,NaN,-127,NaN,-102,NaN,-118
+2019-11-08,New Jersey,Edmonton,0,4,NaN,127,NaN,-147,NaN,144,NaN,-165
+2019-11-09,Buffalo,Tampa Bay,3,5,NaN,151,NaN,-175,NaN,145,NaN,-166
+2019-11-09,Florida,N.Y. Islanders,1,2,NaN,102,NaN,-122,NaN,-110,NaN,-110
+2019-11-09,Philadelphia,Toronto,3,2,NaN,158,NaN,-183,NaN,146,NaN,-168
+2019-11-09,Carolina,Ottawa,1,4,NaN,-205,NaN,172,NaN,-170,NaN,148
+2019-11-09,Los Angeles,Montreal,2,3,NaN,163,NaN,-190,NaN,170,NaN,-200
+2019-11-09,Chicago,Pittsburgh,2,3,NaN,180,NaN,-215,NaN,183,NaN,-218
+2019-11-09,Vegas,Washington,2,5,NaN,118,NaN,-138,NaN,100,NaN,-120
+2019-11-09,Minnesota,Arizona,4,3,NaN,128,NaN,-148,NaN,122,NaN,-142
+2019-11-09,Columbus,Colorado,2,4,NaN,144,NaN,-165,NaN,117,NaN,-137
+2019-11-09,St. Louis,Calgary,3,2,NaN,113,NaN,-133,NaN,126,NaN,-146
+2019-11-09,Nashville,San Jose,1,2,NaN,-115,NaN,-105,NaN,-115,NaN,-105
+2019-11-10,Florida,N.Y. Rangers,6,5,NaN,-110,NaN,-110,NaN,-115,NaN,-103
+2019-11-10,Dallas,Winnipeg,2,3,NaN,103,NaN,-123,NaN,104,NaN,-124
+2019-11-10,New Jersey,Vancouver,2,1,NaN,140,NaN,-160,NaN,144,NaN,-165
+2019-11-10,Vegas,Detroit,2,3,NaN,-175,NaN,151,NaN,-155,NaN,135
+2019-11-10,Toronto,Chicago,4,5,NaN,-130,NaN,110,NaN,-115,NaN,-105
+2019-11-10,Philadelphia,Boston,3,2,NaN,176,NaN,-210,NaN,170,NaN,-200
+2019-11-10,Edmonton,Anaheim,6,2,NaN,-102,NaN,-118,NaN,110,NaN,-130
+2019-11-11,Arizona,Washington,4,3,NaN,151,NaN,-175,NaN,158,NaN,-183
+2019-11-11,Ottawa,Carolina,2,8,NaN,203,NaN,-245,NaN,203,NaN,-244
+2019-11-12,Florida,Boston,5,4,NaN,151,NaN,-175,NaN,144,NaN,-165
+2019-11-12,Columbus,Montreal,2,3,NaN,156,NaN,-180,NaN,161,NaN,-187
+2019-11-12,Pittsburgh,N.Y. Rangers,2,3,NaN,-134,NaN,112,NaN,-145,NaN,125
+2019-11-12,Colorado,Winnipeg,4,0,NaN,101,NaN,-121,NaN,-108,NaN,-112
+2019-11-12,Arizona,St. Louis,3,2,NaN,144,NaN,-165,NaN,142,NaN,-162
+2019-11-12,Detroit,Anaheim,4,3,NaN,144,NaN,-165,NaN,148,NaN,-170
+2019-11-12,Nashville,Vancouver,3,5,NaN,-110,NaN,-110,NaN,-127,NaN,107
+2019-11-12,Edmonton,San Jose,3,6,NaN,115,NaN,-135,NaN,115,NaN,-135
+2019-11-12,Minnesota,Los Angeles,1,3,NaN,-110,NaN,-110,NaN,-118,NaN,-102
+2019-11-13,Ottawa,New Jersey,4,2,NaN,155,NaN,-180,NaN,160,NaN,-185
+2019-11-13,Toronto,N.Y. Islanders,4,5,NaN,105,NaN,-125,NaN,-108,NaN,-112
+2019-11-13,Washington,Philadelphia,2,1,NaN,-120,NaN,100,NaN,-119,NaN,-101
+2019-11-13,Dallas,Calgary,3,1,NaN,130,NaN,-150,NaN,119,NaN,-139
+2019-11-13,Chicago,Vegas,5,3,NaN,192,NaN,-230,NaN,182,NaN,-239
+2019-11-14,Carolina,Buffalo,5,4,NaN,-133,NaN,113,NaN,-137,NaN,117
+2019-11-14,N.Y. Rangers,Tampa Bay,3,9,NaN,215,NaN,-260,NaN,226,NaN,-275
+2019-11-14,Winnipeg,Florida,4,3,NaN,134,NaN,-154,NaN,155,NaN,-180
+2019-11-14,Arizona,Minnesota,2,3,NaN,102,NaN,-122,NaN,-105,NaN,-115
+2019-11-14,Colorado,Edmonton,2,6,NaN,118,NaN,-138,NaN,112,NaN,-132
+2019-11-14,Dallas,Vancouver,4,2,NaN,123,NaN,-143,NaN,132,NaN,-152
+2019-11-14,San Jose,Anaheim,5,3,NaN,-112,NaN,-108,NaN,-117,NaN,-103
+2019-11-14,Detroit,Los Angeles,2,3,NaN,130,NaN,-150,NaN,130,NaN,-150
+2019-11-15,Montreal,Washington,5,2,NaN,148,NaN,-170,NaN,128,NaN,-148
+2019-11-15,St. Louis,Columbus,2,3,NaN,-135,NaN,115,NaN,-111,NaN,-109
+2019-11-15,Boston,Toronto,4,2,NaN,100,NaN,-120,NaN,-105,NaN,-115
+2019-11-15,Pittsburgh,New Jersey,1,2,NaN,-116,NaN,-104,NaN,-113,NaN,-107
+2019-11-15,Philadelphia,Ottawa,1,2,NaN,-145,NaN,125,NaN,-135,NaN,115
+2019-11-16,Carolina,Minnesota,4,3,NaN,-120,NaN,100,NaN,-118,NaN,-102
+2019-11-16,Dallas,Edmonton,5,4,NaN,110,NaN,-130,NaN,103,NaN,-123
+2019-11-16,Vegas,Los Angeles,3,4,NaN,-165,NaN,144,NaN,-144,NaN,124
+2019-11-16,Calgary,Arizona,0,3,NaN,110,NaN,-130,NaN,-103,NaN,-117
+2019-11-16,Winnipeg,Tampa Bay,4,3,NaN,176,NaN,-210,NaN,195,NaN,-234
+2019-11-16,N.Y. Rangers,Florida,3,4,NaN,195,NaN,-235,NaN,172,NaN,-205
+2019-11-16,Ottawa,Buffalo,2,4,NaN,160,NaN,-185,NaN,170,NaN,-200
+2019-11-16,New Jersey,Montreal,4,3,NaN,135,NaN,-155,NaN,130,NaN,-150
+2019-11-16,Washington,Boston,3,2,NaN,120,NaN,-140,NaN,-101,NaN,-119
+2019-11-16,N.Y. Islanders,Philadelphia,4,3,NaN,100,NaN,-120,NaN,-113,NaN,-107
+2019-11-16,Toronto,Pittsburgh,1,6,NaN,113,NaN,-133,NaN,115,NaN,-135
+2019-11-16,Chicago,Nashville,7,2,NaN,170,NaN,-200,NaN,166,NaN,-195
+2019-11-16,Anaheim,St. Louis,4,1,NaN,148,NaN,-170,NaN,146,NaN,-167
+2019-11-16,Colorado,Vancouver,5,4,NaN,125,NaN,-145,NaN,135,NaN,-155
+2019-11-16,Detroit,San Jose,3,4,NaN,188,NaN,-225,NaN,192,NaN,-230
+2019-11-17,Calgary,Vegas,0,6,NaN,108,NaN,-128,NaN,144,NaN,-165
+2019-11-17,Buffalo,Chicago,1,4,NaN,113,NaN,-133,NaN,111,NaN,-131
+2019-11-18,Anaheim,Washington,2,5,NaN,170,NaN,-200,NaN,199,NaN,-240
+2019-11-18,Los Angeles,Arizona,0,3,NaN,151,NaN,-175,NaN,146,NaN,-167
+2019-11-19,Minnesota,Buffalo,4,1,NaN,120,NaN,-140,NaN,-110,NaN,-110
+2019-11-19,Philadelphia,Florida,2,5,NaN,125,NaN,-145,NaN,120,NaN,-140
+2019-11-19,Montreal,Columbus,2,5,NaN,-120,NaN,100,NaN,-111,NaN,-109
+2019-11-19,N.Y. Islanders,Pittsburgh,5,4,NaN,110,NaN,-130,NaN,107,NaN,-127
+2019-11-19,Boston,New Jersey,5,1,NaN,-140,NaN,120,NaN,-137,NaN,117
+2019-11-19,Ottawa,Detroit,4,3,NaN,110,NaN,-130,NaN,-106,NaN,-114
+2019-11-19,Winnipeg,Nashville,2,1,NaN,140,NaN,-160,NaN,155,NaN,-180
+2019-11-19,Tampa Bay,St. Louis,1,3,NaN,-115,NaN,-105,NaN,-119,NaN,-101
+2019-11-19,Carolina,Chicago,4,2,NaN,-120,NaN,100,NaN,-130,NaN,110
+2019-11-19,Vancouver,Dallas,1,6,NaN,110,NaN,-130,NaN,120,NaN,-140
+2019-11-19,Colorado,Calgary,3,2,NaN,125,NaN,-145,NaN,103,NaN,-123
+2019-11-19,Toronto,Vegas,2,4,NaN,125,NaN,-145,NaN,138,NaN,-158
+2019-11-19,Edmonton,San Jose,5,2,NaN,115,NaN,-135,NaN,109,NaN,-139
+2019-11-20,Ottawa,Montreal,2,1,NaN,176,NaN,-210,NaN,166,NaN,-195
+2019-11-20,Washington,N.Y. Rangers,1,4,NaN,-162,NaN,142,NaN,-164,NaN,143
+2019-11-21,Buffalo,Boston,2,3,NaN,192,NaN,-230,NaN,215,NaN,-260
+2019-11-21,Pittsburgh,N.Y. Islanders,3,4,NaN,118,NaN,-138,NaN,110,NaN,-129
+2019-11-21,Detroit,Columbus,4,5,NaN,155,NaN,-180,NaN,160,NaN,-185
+2019-11-21,Anaheim,Florida,4,5,NaN,166,NaN,-195,NaN,150,NaN,-174
+2019-11-21,Philadelphia,Carolina,5,3,NaN,148,NaN,-170,NaN,128,NaN,-148
+2019-11-21,Vancouver,Nashville,6,3,NaN,160,NaN,-185,NaN,141,NaN,-162
+2019-11-21,Calgary,St. Louis,0,5,NaN,138,NaN,-158,NaN,117,NaN,-137
+2019-11-21,Colorado,Minnesota,2,3,NaN,-130,NaN,110,NaN,102,NaN,-122
+2019-11-21,Winnipeg,Dallas,3,5,NaN,128,NaN,-148,NaN,137,NaN,-157
+2019-11-21,Tampa Bay,Chicago,4,2,NaN,-150,NaN,130,NaN,-135,NaN,115
+2019-11-21,Toronto,Arizona,3,1,NaN,110,NaN,-130,NaN,-108,NaN,-112
+2019-11-21,San Jose,Vegas,2,1,NaN,155,NaN,-180,NaN,162,NaN,-189
+2019-11-21,Edmonton,Los Angeles,1,5,NaN,-137,NaN,117,NaN,-134,NaN,114
+2019-11-22,New Jersey,Pittsburgh,1,4,NaN,130,NaN,-150,NaN,115,NaN,-135
+2019-11-22,N.Y. Rangers,Ottawa,1,4,NaN,-108,NaN,-112,NaN,-108,NaN,-112
+2019-11-23,Vancouver,Washington,2,1,NaN,160,NaN,-185,NaN,155,NaN,-180
+2019-11-23,Calgary,Philadelphia,3,2,NaN,-102,NaN,-118,NaN,105,NaN,-125
+2019-11-23,Arizona,Los Angeles,3,2,NaN,-115,NaN,-105,NaN,-126,NaN,106
+2019-11-23,Toronto,Colorado,5,3,NaN,103,NaN,-123,NaN,-120,NaN,100
+2019-11-23,Detroit,New Jersey,1,5,NaN,140,NaN,-160,NaN,142,NaN,-162
+2019-11-23,N.Y. Rangers,Montreal,6,5,NaN,163,NaN,-190,NaN,188,NaN,-225
+2019-11-23,Minnesota,Boston,4,5,NaN,176,NaN,-210,NaN,188,NaN,-225
+2019-11-23,Florida,Carolina,2,4,NaN,120,NaN,-140,NaN,128,NaN,-148
+2019-11-23,Anaheim,Tampa Bay,2,6,NaN,172,NaN,-205,NaN,192,NaN,-230
+2019-11-23,Columbus,Winnipeg,3,4,NaN,135,NaN,-155,NaN,105,NaN,-125
+2019-11-23,Nashville,St. Louis,4,2,NaN,107,NaN,-127,NaN,-102,NaN,-118
+2019-11-23,Chicago,Dallas,1,2,NaN,155,NaN,-180,NaN,152,NaN,-176
+2019-11-23,Edmonton,Vegas,4,2,NaN,148,NaN,-170,NaN,166,NaN,-195
+2019-11-23,N.Y. Islanders,San Jose,1,2,NaN,-107,NaN,-113,NaN,-115,NaN,-105
+2019-11-24,Buffalo,Florida,5,2,NaN,130,NaN,-150,NaN,119,NaN,-139
+2019-11-24,Carolina,Detroit,2,0,NaN,-180,NaN,155,NaN,-186,NaN,160
+2019-11-24,Edmonton,Arizona,4,3,NaN,103,NaN,-123,NaN,105,NaN,-125
+2019-11-25,Buffalo,Tampa Bay,2,5,NaN,207,NaN,-250,NaN,192,NaN,-230
+2019-11-25,Ottawa,Columbus,0,1,NaN,138,NaN,-158,NaN,146,NaN,-168
+2019-11-25,Vancouver,Philadelphia,1,2,NaN,105,NaN,-125,NaN,115,NaN,-135
+2019-11-25,Calgary,Pittsburgh,2,3,NaN,120,NaN,-140,NaN,130,NaN,-150
+2019-11-25,Minnesota,N.Y. Rangers,2,3,NaN,-107,NaN,-113,NaN,-125,NaN,105
+2019-11-25,St. Louis,Nashville,2,3,NaN,115,NaN,-135,NaN,130,NaN,-150
+2019-11-25,Vegas,Dallas,2,4,NaN,103,NaN,-123,NaN,127,NaN,-147
+2019-11-25,N.Y. Islanders,Anaheim,0,3,NaN,-130,NaN,110,NaN,-122,NaN,101
+2019-11-25,San Jose,Los Angeles,4,3,NaN,-143,NaN,123,NaN,-117,NaN,-103
+2019-11-26,Minnesota,New Jersey,3,2,NaN,120,NaN,-140,NaN,120,NaN,-140
+2019-11-26,Boston,Montreal,8,1,NaN,-125,NaN,105,NaN,-115,NaN,-105
+2019-11-26,Dallas,Chicago,0,3,NaN,-120,NaN,100,NaN,-113,NaN,-107
+2019-11-27,Philadelphia,Columbus,3,2,NaN,-108,NaN,-112,NaN,-107,NaN,-113
+2019-11-27,St. Louis,Tampa Bay,4,3,NaN,144,NaN,-165,NaN,134,NaN,-154
+2019-11-27,Florida,Washington,3,4,NaN,127,NaN,-147,NaN,151,NaN,-175
+2019-11-27,Toronto,Detroit,6,0,NaN,-215,NaN,180,NaN,-235,NaN,195
+2019-11-27,Boston,Ottawa,2,1,NaN,-170,NaN,148,NaN,-154,NaN,134
+2019-11-27,Calgary,Buffalo,3,2,NaN,-110,NaN,-110,NaN,-125,NaN,105
+2019-11-27,Carolina,N.Y. Rangers,2,3,NaN,-160,NaN,140,NaN,-156,NaN,136
+2019-11-27,Vancouver,Pittsburgh,6,8,NaN,135,NaN,-155,NaN,143,NaN,-163
+2019-11-27,Vegas,Nashville,4,3,NaN,115,NaN,-135,NaN,123,NaN,-143
+2019-11-27,Anaheim,Arizona,3,4,NaN,133,NaN,-153,NaN,125,NaN,-145
+2019-11-27,Edmonton,Colorado,1,4,NaN,120,NaN,-140,NaN,111,NaN,-131
+2019-11-27,Winnipeg,San Jose,5,1,NaN,133,NaN,-153,NaN,121,NaN,-141
+2019-11-27,N.Y. Islanders,Los Angeles,1,4,NaN,-133,NaN,113,NaN,-140,NaN,120
+2019-11-28,New Jersey,Montreal,6,4,NaN,133,NaN,-153,NaN,145,NaN,-166
+2019-11-29,N.Y. Rangers,Boston,2,3,NaN,207,NaN,-250,NaN,176,NaN,-210
+2019-11-29,Toronto,Buffalo,4,6,NaN,-155,NaN,135,NaN,-151,NaN,131
+2019-11-29,Detroit,Philadelphia,1,6,NaN,207,NaN,-250,NaN,234,NaN,-285
+2019-11-29,Colorado,Chicago,5,2,NaN,-108,NaN,-112,NaN,101,NaN,-121
+2019-11-29,Winnipeg,Anaheim,3,0,NaN,-110,NaN,-110,NaN,105,NaN,-125
+2019-11-29,Los Angeles,San Jose,1,4,NaN,152,NaN,-177,NaN,141,NaN,-161
+2019-11-29,Ottawa,Minnesota,2,7,NaN,152,NaN,-177,NaN,148,NaN,-170
+2019-11-29,Tampa Bay,Washington,3,4,NaN,103,NaN,-123,NaN,106,NaN,-126
+2019-11-29,Arizona,Vegas,1,2,NaN,125,NaN,-145,NaN,130,NaN,-150
+2019-11-29,Pittsburgh,Columbus,2,5,NaN,-127,NaN,107,NaN,-118,NaN,-102
+2019-11-29,Nashville,Carolina,3,0,NaN,113,NaN,-133,NaN,118,NaN,-138
+2019-11-29,St. Louis,Dallas,3,1,NaN,115,NaN,-135,NaN,136,NaN,-156
+2019-11-30,N.Y. Rangers,New Jersey,4,0,NaN,128,NaN,-148,NaN,128,NaN,-148
+2019-11-30,Philadelphia,Montreal,4,3,NaN,120,NaN,-140,NaN,108,NaN,-128
+2019-11-30,Buffalo,Toronto,1,2,NaN,207,NaN,-250,NaN,211,NaN,-255
+2019-11-30,Carolina,Tampa Bay,3,2,NaN,137,NaN,-157,NaN,123,NaN,-143
+2019-11-30,Washington,Detroit,5,2,NaN,-220,NaN,184,NaN,-230,NaN,192
+2019-11-30,Nashville,Florida,0,3,NaN,105,NaN,-125,NaN,-102,NaN,-118
+2019-11-30,Columbus,N.Y. Islanders,0,2,NaN,143,NaN,-163,NaN,172,NaN,-205
+2019-11-30,Ottawa,Calgary,1,3,NaN,184,NaN,-220,NaN,203,NaN,-245
+2019-11-30,San Jose,Arizona,4,2,NaN,103,NaN,-123,NaN,105,NaN,-125
+2019-11-30,Pittsburgh,St. Louis,2,5,NaN,105,NaN,-125,NaN,-106,NaN,-114
+2019-11-30,Chicago,Colorado,3,7,NaN,143,NaN,-163,NaN,143,NaN,-163
+2019-11-30,Vancouver,Edmonton,5,2,NaN,118,NaN,-138,NaN,105,NaN,-125
+2019-11-30,Winnipeg,Los Angeles,1,2,NaN,-110,NaN,-110,NaN,105,NaN,-125
+2019-12-01,Dallas,Minnesota,2,3,NaN,-108,NaN,-112,NaN,-112,NaN,-108
+2019-12-01,Montreal,Boston,1,3,NaN,163,NaN,-190,NaN,160,NaN,-185
+2019-12-01,Edmonton,Vancouver,3,2,NaN,103,NaN,-123,NaN,111,NaN,-131
+2019-12-02,New Jersey,Buffalo,1,7,NaN,113,NaN,-133,NaN,100,NaN,-120
+2019-12-02,Vegas,N.Y. Rangers,4,1,NaN,-126,NaN,106,NaN,-257,NaN,194
+2019-12-02,N.Y. Islanders,Detroit,4,1,NaN,-205,NaN,172,NaN,-225,NaN,188
+2019-12-02,St. Louis,Chicago,4,0,NaN,-132,NaN,112,NaN,-132,NaN,112
+2019-12-02,Los Angeles,Anaheim,2,4,NaN,115,NaN,-135,NaN,119,NaN,-152
+2019-12-03,Arizona,Columbus,4,2,NaN,-101,NaN,-119,NaN,-110,NaN,-110
+2019-12-03,Minnesota,Florida,4,2,NaN,140,NaN,-160,NaN,113,NaN,-133
+2019-12-03,Vegas,New Jersey,4,3,NaN,-130,NaN,110,NaN,-129,NaN,109
+2019-12-03,Toronto,Philadelphia,1,6,NaN,-110,NaN,-110,NaN,-117,NaN,-103
+2019-12-03,N.Y. Islanders,Montreal,2,4,NaN,-105,NaN,-115,NaN,110,NaN,-130
+2019-12-03,Carolina,Boston,0,2,NaN,135,NaN,-155,NaN,130,NaN,-150
+2019-12-03,Tampa Bay,Nashville,3,2,NaN,101,NaN,-121,NaN,-115,NaN,-105
+2019-12-03,Dallas,Winnipeg,1,5,NaN,-105,NaN,-115,NaN,-110,NaN,-110
+2019-12-03,Ottawa,Vancouver,2,5,NaN,160,NaN,-185,NaN,144,NaN,-165
+2019-12-03,Washington,San Jose,5,2,NaN,-120,NaN,100,NaN,-118,NaN,-107
+2019-12-04,Colorado,Toronto,3,1,NaN,113,NaN,-133,NaN,110,NaN,-130
+2019-12-04,St. Louis,Pittsburgh,0,3,NaN,113,NaN,-133,NaN,-110,NaN,-110
+2019-12-04,Ottawa,Edmonton,5,2,NaN,180,NaN,-215,NaN,176,NaN,-210
+2019-12-04,Washington,Los Angeles,3,1,NaN,-150,NaN,130,NaN,-150,NaN,130
+2019-12-05,Arizona,Philadelphia,3,1,NaN,130,NaN,-150,NaN,125,NaN,-145
+2019-12-05,Chicago,Boston,4,3,NaN,203,NaN,-245,NaN,195,NaN,-235
+2019-12-05,Vegas,N.Y. Islanders,2,3,NaN,-105,NaN,-115,NaN,106,NaN,-126
+2019-12-05,Colorado,Montreal,3,2,NaN,-102,NaN,-118,NaN,-110,NaN,-110
+2019-12-05,N.Y. Rangers,Columbus,3,2,NaN,108,NaN,-128,NaN,122,NaN,-142
+2019-12-05,Minnesota,Tampa Bay,5,4,NaN,176,NaN,-210,NaN,184,NaN,-220
+2019-12-05,San Jose,Carolina,2,3,NaN,140,NaN,-160,NaN,140,NaN,-160
+2019-12-05,Winnipeg,Dallas,2,3,NaN,140,NaN,-160,NaN,127,NaN,-147
+2019-12-05,Buffalo,Calgary,3,4,NaN,142,NaN,-162,NaN,144,NaN,-165
+2019-12-06,Chicago,New Jersey,2,1,NaN,120,NaN,-140,NaN,112,NaN,-132
+2019-12-06,Arizona,Pittsburgh,0,2,NaN,146,NaN,-168,NaN,149,NaN,-172
+2019-12-06,Montreal,N.Y. Rangers,2,1,NaN,-115,NaN,-105,NaN,-118,NaN,-102
+2019-12-06,Los Angeles,Edmonton,1,2,NaN,146,NaN,-168,NaN,140,NaN,-160
+2019-12-06,Washington,Anaheim,3,2,NaN,-145,NaN,125,NaN,-155,NaN,135
+2019-12-07,Ottawa,Philadelphia,3,4,NaN,176,NaN,-210,NaN,174,NaN,-208
+2019-12-07,Buffalo,Vancouver,5,6,NaN,128,NaN,-148,NaN,135,NaN,-155
+2019-12-07,Colorado,Boston,4,1,NaN,125,NaN,-145,NaN,119,NaN,-152
+2019-12-07,Minnesota,Carolina,2,6,NaN,138,NaN,-158,NaN,129,NaN,-166
+2019-12-07,San Jose,Tampa Bay,1,7,NaN,166,NaN,-195,NaN,266,NaN,-369
+2019-12-07,Columbus,Florida,1,4,NaN,149,NaN,-172,NaN,142,NaN,-162
+2019-12-07,Pittsburgh,Detroit,5,3,NaN,-215,NaN,180,NaN,-173,NaN,150
+2019-12-07,Toronto,St. Louis,5,2,NaN,108,NaN,-128,NaN,-103,NaN,-117
+2019-12-07,New Jersey,Nashville,4,6,NaN,172,NaN,-205,NaN,211,NaN,-255
+2019-12-07,N.Y. Islanders,Dallas,1,3,NaN,120,NaN,-140,NaN,118,NaN,-151
+2019-12-07,Los Angeles,Calgary,3,4,NaN,172,NaN,-205,NaN,180,NaN,-215
+2019-12-08,Anaheim,Winnipeg,2,3,NaN,140,NaN,-160,NaN,135,NaN,-155
+2019-12-08,San Jose,Florida,1,5,NaN,130,NaN,-150,NaN,123,NaN,-143
+2019-12-08,Arizona,Chicago,4,3,NaN,-110,NaN,-110,NaN,-102,NaN,-123
+2019-12-08,N.Y. Rangers,Vegas,5,0,NaN,184,NaN,-220,NaN,163,NaN,-212
+2019-12-08,Buffalo,Edmonton,3,2,NaN,140,NaN,-160,NaN,155,NaN,-180
+2019-12-09,Columbus,Washington,5,2,NaN,192,NaN,-230,NaN,182,NaN,-240
+2019-12-09,N.Y. Islanders,Tampa Bay,5,1,NaN,151,NaN,-175,NaN,141,NaN,-182
+2019-12-09,Boston,Ottawa,2,5,NaN,-190,NaN,163,NaN,-194,NaN,150
+2019-12-09,Calgary,Colorado,5,4,NaN,140,NaN,-160,NaN,115,NaN,-147
+2019-12-10,Montreal,Pittsburgh,4,1,NaN,150,NaN,-173,NaN,126,NaN,-161
+2019-12-10,Tampa Bay,Florida,2,1,NaN,-107,NaN,-113,NaN,-112,NaN,-112
+2019-12-10,St. Louis,Buffalo,2,5,NaN,-143,NaN,123,NaN,-130,NaN,110
+2019-12-10,Detroit,Winnipeg,1,5,NaN,207,NaN,-250,NaN,207,NaN,-250
+2019-12-10,San Jose,Nashville,1,3,NaN,148,NaN,-170,NaN,151,NaN,-196
+2019-12-10,Anaheim,Minnesota,3,2,NaN,138,NaN,-158,NaN,130,NaN,-150
+2019-12-10,New Jersey,Dallas,0,2,NaN,170,NaN,-200,NaN,170,NaN,-200
+2019-12-10,Carolina,Edmonton,6,3,NaN,-130,NaN,110,NaN,-118,NaN,-107
+2019-12-10,Calgary,Arizona,5,2,NaN,120,NaN,-140,NaN,107,NaN,-137
+2019-12-10,Chicago,Vegas,1,5,NaN,172,NaN,-205,NaN,195,NaN,-235
+2019-12-10,Toronto,Vancouver,4,1,NaN,-113,NaN,-107,NaN,-115,NaN,-105
+2019-12-10,N.Y. Rangers,Los Angeles,1,3,NaN,-110,NaN,-110,NaN,115,NaN,-135
+2019-12-11,Boston,Washington,2,3,NaN,-104,NaN,-116,NaN,108,NaN,-128
+2019-12-11,Ottawa,Montreal,2,3,NaN,160,NaN,-185,NaN,130,NaN,-150
+2019-12-11,Philadelphia,Colorado,1,3,NaN,140,NaN,-160,NaN,140,NaN,-160
+2019-12-12,N.Y. Islanders,Florida,3,1,NaN,109,NaN,-129,NaN,109,NaN,-129
+2019-12-12,Boston,Tampa Bay,2,3,NaN,122,NaN,-142,NaN,121,NaN,-141
+2019-12-12,Columbus,Pittsburgh,0,1,NaN,150,NaN,-173,NaN,130,NaN,-150
+2019-12-12,Nashville,Buffalo,3,4,NaN,-125,NaN,105,NaN,-145,NaN,125
+2019-12-12,Winnipeg,Detroit,2,5,NaN,-190,NaN,163,NaN,-220,NaN,184
+2019-12-12,Edmonton,Minnesota,5,6,NaN,120,NaN,-140,NaN,-105,NaN,-115
+2019-12-12,Vegas,St. Louis,2,4,NaN,100,NaN,-120,NaN,-109,NaN,-111
+2019-12-12,Chicago,Arizona,2,5,NaN,120,NaN,-140,NaN,139,NaN,-159
+2019-12-12,Toronto,Calgary,2,4,NaN,-110,NaN,-110,NaN,-128,NaN,108
+2019-12-12,Carolina,Vancouver,0,1,NaN,-128,NaN,108,NaN,-114,NaN,-106
+2019-12-12,Los Angeles,Anaheim,2,1,NaN,113,NaN,-133,NaN,128,NaN,-148
+2019-12-12,N.Y. Rangers,San Jose,6,3,NaN,135,NaN,-155,NaN,142,NaN,-162
+2019-12-13,Vegas,Dallas,3,2,NaN,125,NaN,-145,NaN,148,NaN,-170
+2019-12-13,New Jersey,Colorado,1,3,NaN,195,NaN,-235,NaN,193,NaN,-232
+2019-12-14,Buffalo,N.Y. Islanders,2,3,NaN,155,NaN,-180,NaN,140,NaN,-160
+2019-12-14,Columbus,Ottawa,3,4,NaN,-109,NaN,-111,NaN,-110,NaN,-110
+2019-12-14,Carolina,Calgary,4,0,NaN,-107,NaN,-113,NaN,-112,NaN,-108
+2019-12-14,N.Y. Rangers,Anaheim,3,4,NaN,120,NaN,-140,NaN,124,NaN,-144
+2019-12-14,Dallas,Nashville,4,1,NaN,125,NaN,-145,NaN,132,NaN,-152
+2019-12-14,Los Angeles,Pittsburgh,4,5,NaN,176,NaN,-210,NaN,166,NaN,-195
+2019-12-14,Philadelphia,Minnesota,1,4,NaN,107,NaN,-127,NaN,103,NaN,-123
+2019-12-14,Toronto,Edmonton,4,1,NaN,-125,NaN,105,NaN,-141,NaN,121
+2019-12-14,Boston,Florida,4,2,NaN,-117,NaN,-103,NaN,-117,NaN,-103
+2019-12-14,Washington,Tampa Bay,5,2,NaN,108,NaN,-128,NaN,127,NaN,-147
+2019-12-14,Detroit,Montreal,2,1,NaN,199,NaN,-240,NaN,205,NaN,-248
+2019-12-14,Chicago,St. Louis,3,4,NaN,172,NaN,-205,NaN,170,NaN,-200
+2019-12-14,New Jersey,Arizona,2,1,NaN,176,NaN,-210,NaN,192,NaN,-230
+2019-12-14,Vancouver,San Jose,2,4,NaN,-107,NaN,-113,NaN,108,NaN,-128
+2019-12-15,Philadelphia,Winnipeg,3,7,NaN,130,NaN,-150,NaN,140,NaN,-160
+2019-12-15,Los Angeles,Detroit,4,2,NaN,-125,NaN,105,NaN,-129,NaN,109
+2019-12-15,Minnesota,Chicago,3,5,NaN,-108,NaN,-112,NaN,-108,NaN,-112
+2019-12-15,Vancouver,Vegas,3,6,NaN,160,NaN,-185,NaN,166,NaN,-195
+2019-12-16,Ottawa,Florida,1,6,NaN,170,NaN,-200,NaN,172,NaN,-205
+2019-12-16,Nashville,N.Y. Rangers,5,2,NaN,-145,NaN,125,NaN,-128,NaN,108
+2019-12-16,Washington,Columbus,0,3,NaN,-163,NaN,143,NaN,-165,NaN,144
+2019-12-16,Colorado,St. Louis,2,5,NaN,-113,NaN,-107,NaN,100,NaN,-120
+2019-12-16,Edmonton,Dallas,2,1,NaN,140,NaN,-160,NaN,155,NaN,-180
+2019-12-17,Anaheim,Philadelphia,1,4,NaN,135,NaN,-155,NaN,115,NaN,-135
+2019-12-17,Los Angeles,Boston,4,3,NaN,195,NaN,-235,NaN,226,NaN,-275
+2019-12-17,Nashville,N.Y. Islanders,8,3,NaN,125,NaN,-145,NaN,126,NaN,-146
+2019-12-17,Buffalo,Toronto,3,5,NaN,163,NaN,-190,NaN,176,NaN,-210
+2019-12-17,Ottawa,Tampa Bay,3,4,NaN,317,NaN,-400,NaN,351,NaN,-450
+2019-12-17,Columbus,Detroit,5,3,NaN,-140,NaN,120,NaN,-143,NaN,123
+2019-12-17,Carolina,Winnipeg,6,3,NaN,-110,NaN,-110,NaN,-117,NaN,-107
+2019-12-17,Pittsburgh,Calgary,4,1,NaN,105,NaN,-125,NaN,-107,NaN,-117
+2019-12-17,Montreal,Vancouver,3,1,NaN,110,NaN,-130,NaN,-102,NaN,-123
+2019-12-17,Minnesota,Vegas,2,3,NaN,163,NaN,-190,NaN,166,NaN,-217
+2019-12-17,Arizona,San Jose,3,2,NaN,105,NaN,-125,NaN,-113,NaN,-107
+2019-12-18,Anaheim,New Jersey,1,3,NaN,107,NaN,-127,NaN,-101,NaN,-119
+2019-12-18,Colorado,Chicago,4,1,NaN,-145,NaN,125,NaN,-155,NaN,135
+2019-12-18,Edmonton,St. Louis,1,2,NaN,145,NaN,-166,NaN,139,NaN,-159
+2019-12-19,Dallas,Tampa Bay,4,3,NaN,153,NaN,-178,NaN,138,NaN,-177
+2019-12-19,Los Angeles,Columbus,2,3,NaN,120,NaN,-140,NaN,127,NaN,-147
+2019-12-19,Buffalo,Philadelphia,1,6,NaN,133,NaN,-153,NaN,130,NaN,-150
+2019-12-19,N.Y. Islanders,Boston,3,2,NaN,149,NaN,-172,NaN,163,NaN,-190
+2019-12-19,Nashville,Ottawa,4,5,NaN,-170,NaN,148,NaN,-159,NaN,124
+2019-12-19,Chicago,Winnipeg,4,1,NaN,160,NaN,-185,NaN,143,NaN,-164
+2019-12-19,Carolina,Colorado,3,1,NaN,115,NaN,-135,NaN,105,NaN,-125
+2019-12-19,Montreal,Calgary,4,3,NaN,110,NaN,-130,NaN,112,NaN,-132
+2019-12-19,Minnesota,Arizona,8,5,NaN,125,NaN,-145,NaN,145,NaN,-187
+2019-12-19,Vegas,Vancouver,4,5,NaN,-133,NaN,113,NaN,-146,NaN,115
+2019-12-20,Dallas,Florida,4,7,NaN,117,NaN,-137,NaN,101,NaN,-129
+2019-12-20,Toronto,N.Y. Rangers,6,3,NaN,-170,NaN,148,NaN,-160,NaN,125
+2019-12-20,Washington,New Jersey,6,3,NaN,-165,NaN,144,NaN,-218,NaN,167
+2019-12-20,Pittsburgh,Edmonton,5,2,NaN,-127,NaN,107,NaN,-130,NaN,110
+2019-12-21,Anaheim,N.Y. Islanders,6,5,NaN,163,NaN,-190,NaN,146,NaN,-167
+2019-12-21,Los Angeles,Buffalo,2,3,NaN,125,NaN,-145,NaN,120,NaN,-140
+2019-12-21,Winnipeg,Minnesota,6,0,NaN,108,NaN,-128,NaN,107,NaN,-127
+2019-12-21,Florida,Carolina,4,2,NaN,160,NaN,-185,NaN,160,NaN,-185
+2019-12-21,Tampa Bay,Washington,1,3,NaN,-110,NaN,-110,NaN,-101,NaN,-119
+2019-12-21,Detroit,Toronto,1,4,NaN,226,NaN,-275,NaN,215,NaN,-260
+2019-12-21,Montreal,Edmonton,3,4,NaN,-130,NaN,110,NaN,-123,NaN,103
+2019-12-21,Philadelphia,Ottawa,5,4,NaN,-127,NaN,107,NaN,-140,NaN,120
+2019-12-21,New Jersey,Columbus,1,5,NaN,161,NaN,-187,NaN,163,NaN,-191
+2019-12-21,Nashville,Boston,4,3,NaN,150,NaN,-173,NaN,137,NaN,-157
+2019-12-21,Chicago,Colorado,5,3,NaN,195,NaN,-235,NaN,175,NaN,-210
+2019-12-21,Pittsburgh,Vancouver,1,4,NaN,105,NaN,-125,NaN,-103,NaN,-117
+2019-12-21,St. Louis,San Jose,5,2,NaN,-135,NaN,115,NaN,-117,NaN,-103
+2019-12-22,Anaheim,N.Y. Rangers,1,5,NaN,124,NaN,-144,NaN,153,NaN,-198
+2019-12-22,Arizona,Detroit,5,2,NaN,-210,NaN,176,NaN,-220,NaN,184
+2019-12-22,Calgary,Dallas,5,1,NaN,130,NaN,-150,NaN,125,NaN,-145
+2019-12-22,Vegas,San Jose,3,1,NaN,-138,NaN,118,NaN,-130,NaN,110
+2019-12-23,Carolina,Toronto,6,8,NaN,110,NaN,-130,NaN,115,NaN,-135
+2019-12-23,Calgary,Minnesota,0,3,NaN,-105,NaN,-115,NaN,120,NaN,-140
+2019-12-23,Florida,Tampa Bay,1,6,NaN,155,NaN,-180,NaN,155,NaN,-180
+2019-12-23,Washington,Boston,3,7,NaN,110,NaN,-130,NaN,104,NaN,-124
+2019-12-23,Columbus,N.Y. Islanders,3,2,NaN,148,NaN,-170,NaN,125,NaN,-160
+2019-12-23,N.Y. Rangers,Philadelphia,1,5,NaN,170,NaN,-200,NaN,151,NaN,-175
+2019-12-23,Buffalo,Ottawa,1,3,NaN,-119,NaN,-101,NaN,-115,NaN,-105
+2019-12-23,Montreal,Winnipeg,6,2,NaN,102,NaN,-122,NaN,-103,NaN,-123
+2019-12-23,Arizona,Nashville,2,3,NaN,130,NaN,-150,NaN,124,NaN,-159
+2019-12-23,New Jersey,Chicago,7,1,NaN,140,NaN,-160,NaN,135,NaN,-155
+2019-12-23,Colorado,Vegas,7,3,NaN,107,NaN,-127,NaN,115,NaN,-135
+2019-12-23,St. Louis,Los Angeles,4,1,NaN,-150,NaN,130,NaN,-150,NaN,130
+2019-12-23,Edmonton,Vancouver,2,4,NaN,110,NaN,-130,NaN,115,NaN,-146
+2019-12-27,Columbus,Washington,1,2,NaN,180,NaN,-215,NaN,173,NaN,-226
+2019-12-27,Carolina,N.Y. Rangers,3,5,NaN,-180,NaN,155,NaN,-159,NaN,124
+2019-12-27,Toronto,New Jersey,5,4,NaN,-200,NaN,170,NaN,-186,NaN,144
+2019-12-27,Boston,Buffalo,3,0,NaN,-165,NaN,144,NaN,-152,NaN,119
+2019-12-27,Pittsburgh,Nashville,5,2,NaN,113,NaN,-133,NaN,119,NaN,-153
+2019-12-27,St. Louis,Winnipeg,5,4,NaN,-117,NaN,-103,NaN,-130,NaN,110
+2019-12-27,Minnesota,Colorado,6,4,NaN,155,NaN,-180,NaN,176,NaN,-210
+2019-12-27,N.Y. Islanders,Chicago,2,5,NaN,-133,NaN,113,NaN,-140,NaN,120
+2019-12-27,Calgary,Edmonton,5,1,NaN,-122,NaN,102,NaN,-115,NaN,-105
+2019-12-27,Los Angeles,San Jose,3,2,NaN,125,NaN,-145,NaN,123,NaN,-158
+2019-12-27,Vegas,Anaheim,3,4,NaN,-175,NaN,151,NaN,-173,NaN,134
+2019-12-28,Nashville,Pittsburgh,4,6,NaN,107,NaN,-127,NaN,104,NaN,-124
+2019-12-28,N.Y. Rangers,Toronto,5,4,NaN,184,NaN,-220,NaN,202,NaN,-243
+2019-12-28,Montreal,Tampa Bay,4,5,NaN,148,NaN,-170,NaN,166,NaN,-195
+2019-12-28,Detroit,Florida,4,5,NaN,245,NaN,-300,NaN,253,NaN,-311
+2019-12-28,Colorado,Dallas,2,3,NaN,-102,NaN,-118,NaN,-102,NaN,-118
+2019-12-28,Washington,Carolina,4,6,NaN,-102,NaN,-118,NaN,104,NaN,-124
+2019-12-28,Los Angeles,Vancouver,2,3,NaN,155,NaN,-180,NaN,155,NaN,-180
+2019-12-28,Arizona,Vegas,1,4,NaN,113,NaN,-133,NaN,120,NaN,-140
+2019-12-28,Philadelphia,San Jose,1,6,NaN,-130,NaN,110,NaN,-135,NaN,106
+2019-12-29,Winnipeg,St. Louis,1,4,NaN,155,NaN,-180,NaN,152,NaN,-197
+2019-12-29,Chicago,Columbus,3,2,NaN,125,NaN,-145,NaN,130,NaN,-167
+2019-12-29,New Jersey,Ottawa,4,3,NaN,115,NaN,-135,NaN,110,NaN,-141
+2019-12-29,N.Y. Islanders,Minnesota,3,1,NaN,-105,NaN,-115,NaN,-105,NaN,-115
+2019-12-29,Montreal,Florida,5,6,NaN,103,NaN,-123,NaN,109,NaN,-129
+2019-12-29,Buffalo,Boston,2,3,NaN,195,NaN,-235,NaN,192,NaN,-230
+2019-12-29,Detroit,Tampa Bay,1,2,NaN,310,NaN,-390,NaN,330,NaN,-420
+2019-12-29,Dallas,Arizona,4,2,NaN,100,NaN,-120,NaN,-101,NaN,-119
+2019-12-29,Philadelphia,Anaheim,2,1,NaN,-120,NaN,100,NaN,-108,NaN,-112
+2019-12-29,Vancouver,Calgary,5,2,NaN,130,NaN,-150,NaN,167,NaN,-218
+2019-12-30,Ottawa,Pittsburgh,2,5,NaN,199,NaN,-240,NaN,241,NaN,-295
+2019-12-31,N.Y. Islanders,Washington,4,3,NaN,155,NaN,-180,NaN,143,NaN,-185
+2019-12-31,Boston,New Jersey,2,3,NaN,-185,NaN,160,NaN,-191,NaN,148
+2019-12-31,Anaheim,Vegas,2,5,NaN,180,NaN,-215,NaN,199,NaN,-240
+2019-12-31,Toronto,Minnesota,4,1,NaN,-135,NaN,115,NaN,-135,NaN,106
+2019-12-31,Montreal,Carolina,1,3,NaN,148,NaN,-170,NaN,150,NaN,-194
+2019-12-31,Tampa Bay,Buffalo,6,4,NaN,-152,NaN,132,NaN,-179,NaN,139
+2019-12-31,Florida,Columbus,1,4,NaN,-113,NaN,-107,NaN,-115,NaN,-105
+2019-12-31,San Jose,Detroit,0,2,NaN,-160,NaN,140,NaN,-175,NaN,151
+2019-12-31,Winnipeg,Colorado,7,4,NaN,-125,NaN,105,NaN,172,NaN,-205
+2019-12-31,St. Louis,Arizona,1,3,NaN,-125,NaN,105,NaN,-126,NaN,106
+2019-12-31,Chicago,Calgary,5,3,NaN,160,NaN,-185,NaN,160,NaN,-185
+2019-12-31,Philadelphia,Los Angeles,3,5,NaN,-130,NaN,110,NaN,-120,NaN,100
+2019-12-31,N.Y. Rangers,Edmonton,5,7,NaN,130,NaN,-150,NaN,115,NaN,-135
+2020-01-01,Nashville,Dallas,2,4,NaN,110,NaN,-130,NaN,-107,NaN,-118
+2020-01-02,San Jose,Pittsburgh,3,2,NaN,163,NaN,-190,NaN,153,NaN,-199
+2020-01-02,Edmonton,Buffalo,2,3,NaN,105,NaN,-125,NaN,101,NaN,-129
+2020-01-02,New Jersey,N.Y. Islanders,2,1,NaN,184,NaN,-220,NaN,181,NaN,-217
+2020-01-02,Columbus,Boston,2,1,NaN,188,NaN,-225,NaN,192,NaN,-230
+2020-01-02,Tampa Bay,Montreal,2,1,NaN,-135,NaN,115,NaN,-145,NaN,125
+2020-01-02,Florida,Ottawa,6,3,NaN,-135,NaN,115,NaN,-143,NaN,123
+2020-01-02,Toronto,Winnipeg,6,3,NaN,-130,NaN,110,NaN,-135,NaN,115
+2020-01-02,N.Y. Rangers,Calgary,3,4,NaN,148,NaN,-170,NaN,139,NaN,-180
+2020-01-02,Anaheim,Arizona,2,4,NaN,151,NaN,-175,NaN,155,NaN,-180
+2020-01-02,St. Louis,Colorado,3,7,NaN,115,NaN,-135,NaN,116,NaN,-136
+2020-01-02,Chicago,Vancouver,5,7,NaN,135,NaN,-155,NaN,134,NaN,-154
+2020-01-02,Philadelphia,Vegas,4,5,NaN,140,NaN,-160,NaN,145,NaN,-187
+2020-01-03,Washington,Carolina,4,3,NaN,105,NaN,-125,NaN,-105,NaN,-115
+2020-01-03,Detroit,Dallas,1,4,NaN,245,NaN,-300,NaN,263,NaN,-325
+2020-01-04,San Jose,Columbus,3,2,NaN,120,NaN,-140,NaN,117,NaN,-137
+2020-01-04,Edmonton,Boston,4,1,NaN,176,NaN,-210,NaN,192,NaN,-230
+2020-01-04,Florida,Buffalo,2,3,NaN,-110,NaN,-110,NaN,-130,NaN,110
+2020-01-04,Winnipeg,Minnesota,2,3,NaN,113,NaN,-133,NaN,116,NaN,-136
+2020-01-04,St. Louis,Vegas,4,5,NaN,118,NaN,-138,NaN,116,NaN,-136
+2020-01-04,Colorado,New Jersey,5,2,NaN,-177,NaN,152,NaN,-210,NaN,176
+2020-01-04,Tampa Bay,Ottawa,5,3,NaN,-210,NaN,176,NaN,-205,NaN,172
+2020-01-04,N.Y. Islanders,Toronto,0,3,NaN,138,NaN,-158,NaN,128,NaN,-148
+2020-01-04,Pittsburgh,Montreal,3,2,NaN,-112,NaN,-108,NaN,103,NaN,-123
+2020-01-04,Philadelphia,Arizona,2,6,NaN,110,NaN,-130,NaN,111,NaN,-131
+2020-01-04,N.Y. Rangers,Vancouver,1,2,NaN,148,NaN,-170,NaN,130,NaN,-150
+2020-01-04,Nashville,Los Angeles,4,1,NaN,-138,NaN,118,NaN,-124,NaN,104
+2020-01-05,San Jose,Washington,4,5,NaN,192,NaN,-230,NaN,200,NaN,-266
+2020-01-05,Florida,Pittsburgh,4,1,NaN,138,NaN,-158,NaN,138,NaN,-158
+2020-01-05,Tampa Bay,Carolina,3,1,NaN,105,NaN,-125,NaN,105,NaN,-124
+2020-01-05,Calgary,Minnesota,5,4,NaN,103,NaN,-123,NaN,-123,NaN,103
+2020-01-05,Detroit,Chicago,2,4,NaN,170,NaN,-200,NaN,176,NaN,-210
+2020-01-05,Nashville,Anaheim,4,5,NaN,-140,NaN,120,NaN,-130,NaN,111
+2020-01-06,Edmonton,Toronto,6,4,NaN,166,NaN,-195,NaN,187,NaN,-224
+2020-01-06,Colorado,N.Y. Islanders,0,1,NaN,-115,NaN,-105,NaN,-126,NaN,106
+2020-01-06,Winnipeg,Montreal,3,2,NaN,108,NaN,-128,NaN,122,NaN,-142
+2020-01-06,Columbus,Los Angeles,4,2,NaN,-107,NaN,-113,NaN,-102,NaN,-118
+2020-01-07,Vancouver,Tampa Bay,2,9,NaN,170,NaN,-200,NaN,173,NaN,-226
+2020-01-07,Arizona,Florida,5,2,NaN,125,NaN,-145,NaN,114,NaN,-146
+2020-01-07,Ottawa,Washington,1,6,NaN,292,NaN,-365,NaN,219,NaN,-295
+2020-01-07,Philadelphia,Carolina,4,5,NaN,148,NaN,-170,NaN,-122,NaN,-103
+2020-01-07,N.Y. Islanders,New Jersey,4,3,NaN,-140,NaN,120,NaN,-236,NaN,180
+2020-01-07,Montreal,Detroit,3,4,NaN,-165,NaN,144,NaN,-155,NaN,135
+2020-01-07,Colorado,N.Y. Rangers,3,5,NaN,-165,NaN,144,NaN,-153,NaN,119
+2020-01-07,Boston,Nashville,6,2,NaN,-115,NaN,-105,NaN,-118,NaN,-102
+2020-01-07,San Jose,St. Louis,2,3,NaN,166,NaN,-195,NaN,166,NaN,-195
+2020-01-07,Calgary,Chicago,2,1,NaN,-125,NaN,105,NaN,-135,NaN,115
+2020-01-07,Pittsburgh,Vegas,4,3,NaN,125,NaN,-145,NaN,144,NaN,-186
+2020-01-07,Columbus,Anaheim,4,3,NaN,115,NaN,-135,NaN,101,NaN,-129
+2020-01-08,Washington,Philadelphia,2,3,NaN,-129,NaN,109,NaN,-129,NaN,109
+2020-01-08,Winnipeg,Toronto,4,3,NaN,148,NaN,-170,NaN,170,NaN,-200
+2020-01-08,Dallas,Los Angeles,2,1,NaN,-136,NaN,116,NaN,-142,NaN,122
+2020-01-09,Arizona,Tampa Bay,0,4,NaN,166,NaN,-195,NaN,179,NaN,-235
+2020-01-09,Vancouver,Florida,2,5,NaN,122,NaN,-142,NaN,135,NaN,-155
+2020-01-09,Edmonton,Montreal,4,2,NaN,100,NaN,-120,NaN,107,NaN,-127
+2020-01-09,Winnipeg,Boston,4,5,NaN,188,NaN,-225,NaN,211,NaN,-255
+2020-01-09,New Jersey,N.Y. Rangers,3,6,NaN,122,NaN,-142,NaN,129,NaN,-165
+2020-01-09,Buffalo,St. Louis,1,5,NaN,172,NaN,-205,NaN,176,NaN,-210
+2020-01-09,Nashville,Chicago,5,2,NaN,-133,NaN,113,NaN,-138,NaN,118
+2020-01-09,Minnesota,Calgary,1,2,NaN,127,NaN,-147,NaN,130,NaN,-150
+2020-01-09,Los Angeles,Vegas,5,2,NaN,230,NaN,-280,NaN,207,NaN,-250
+2020-01-09,Dallas,Anaheim,3,0,NaN,-133,NaN,113,NaN,-128,NaN,108
+2020-01-09,Columbus,San Jose,1,3,NaN,100,NaN,-120,NaN,108,NaN,-128
+2020-01-10,Arizona,Carolina,0,3,NaN,166,NaN,-195,NaN,142,NaN,-184
+2020-01-10,Ottawa,Detroit,2,3,NaN,-112,NaN,-108,NaN,-123,NaN,-102
+2020-01-10,Pittsburgh,Colorado,4,3,NaN,135,NaN,-155,NaN,133,NaN,-171
+2020-01-11,Vancouver,Buffalo,6,3,NaN,-115,NaN,-105,NaN,-107,NaN,-117
+2020-01-11,Los Angeles,Carolina,0,2,NaN,184,NaN,-220,NaN,172,NaN,-205
+2020-01-11,Boston,N.Y. Islanders,3,2,NaN,-130,NaN,110,NaN,-131,NaN,111
+2020-01-11,Montreal,Ottawa,2,1,NaN,-145,NaN,125,NaN,-145,NaN,125
+2020-01-11,New Jersey,Washington,5,1,NaN,203,NaN,-245,NaN,256,NaN,-315
+2020-01-11,Tampa Bay,Philadelphia,1,0,NaN,-147,NaN,127,NaN,-137,NaN,117
+2020-01-11,N.Y. Rangers,St. Louis,2,5,NaN,172,NaN,-205,NaN,172,NaN,-205
+2020-01-11,Anaheim,Chicago,2,4,NaN,113,NaN,-133,NaN,110,NaN,-130
+2020-01-11,Edmonton,Calgary,3,4,NaN,130,NaN,-150,NaN,122,NaN,-142
+2020-01-11,Columbus,Vegas,3,0,NaN,180,NaN,-215,NaN,176,NaN,-210
+2020-01-11,Dallas,San Jose,1,2,NaN,-125,NaN,105,NaN,-249,NaN,189
+2020-01-12,Nashville,Winnipeg,1,0,NaN,-125,NaN,105,NaN,-117,NaN,-107
+2020-01-12,Vancouver,Minnesota,4,1,NaN,125,NaN,-145,NaN,138,NaN,-177
+2020-01-12,Buffalo,Detroit,5,1,NaN,-140,NaN,120,NaN,-277,NaN,207
+2020-01-12,Pittsburgh,Arizona,4,3,NaN,-115,NaN,-105,NaN,-115,NaN,-105
+2020-01-12,Toronto,Florida,4,8,NaN,-118,NaN,-102,NaN,-124,NaN,104
+2020-01-12,Tampa Bay,New Jersey,1,3,NaN,-235,NaN,195,NaN,-215,NaN,180
+2020-01-13,Carolina,Washington,0,2,NaN,113,NaN,-133,NaN,118,NaN,-138
+2020-01-13,Boston,Philadelphia,5,6,NaN,-130,NaN,110,NaN,-125,NaN,105
+2020-01-13,N.Y. Islanders,N.Y. Rangers,2,6,NaN,-123,NaN,103,NaN,-130,NaN,110
+2020-01-13,Calgary,Montreal,0,2,NaN,-105,NaN,-115,NaN,-110,NaN,-110
+2020-01-13,Anaheim,St. Louis,1,4,NaN,180,NaN,-215,NaN,180,NaN,-215
+2020-01-14,Vegas,Buffalo,2,4,NaN,-140,NaN,120,NaN,-170,NaN,148
+2020-01-14,Minnesota,Pittsburgh,3,7,NaN,160,NaN,-185,NaN,144,NaN,-165
+2020-01-14,Los Angeles,Tampa Bay,3,4,NaN,245,NaN,-300,NaN,230,NaN,-280
+2020-01-14,New Jersey,Toronto,4,7,NaN,215,NaN,-260,NaN,234,NaN,-285
+2020-01-14,Boston,Columbus,0,3,NaN,-150,NaN,130,NaN,-141,NaN,121
+2020-01-14,Detroit,N.Y. Islanders,2,8,NaN,226,NaN,-275,NaN,203,NaN,-245
+2020-01-14,Chicago,Ottawa,3,2,NaN,100,NaN,-120,NaN,-110,NaN,-110
+2020-01-14,Vancouver,Winnipeg,0,4,NaN,110,NaN,-130,NaN,110,NaN,-130
+2020-01-14,Nashville,Edmonton,2,4,NaN,-115,NaN,-105,NaN,-130,NaN,110
+2020-01-14,San Jose,Arizona,3,6,NaN,120,NaN,-140,NaN,112,NaN,-132
+2020-01-14,Dallas,Colorado,3,2,NaN,120,NaN,-140,NaN,125,NaN,-145
+2020-01-15,Chicago,Montreal,4,1,NaN,144,NaN,-165,NaN,148,NaN,-169
+2020-01-15,Philadelphia,St. Louis,4,3,NaN,148,NaN,-170,NaN,166,NaN,-195
+2020-01-16,New Jersey,Washington,2,5,NaN,263,NaN,-325,NaN,267,NaN,-330
+2020-01-16,N.Y. Rangers,N.Y. Islanders,3,2,NaN,155,NaN,-180,NaN,135,NaN,-155
+2020-01-16,Pittsburgh,Boston,1,4,NaN,120,NaN,-140,NaN,117,NaN,-137
+2020-01-16,Montreal,Philadelphia,4,1,NaN,117,NaN,-137,NaN,110,NaN,-130
+2020-01-16,Carolina,Columbus,2,3,NaN,-130,NaN,110,NaN,-135,NaN,115
+2020-01-16,Los Angeles,Florida,3,4,NaN,163,NaN,-190,NaN,152,NaN,-176
+2020-01-16,Calgary,Toronto,2,1,NaN,152,NaN,-177,NaN,122,NaN,-142
+2020-01-16,Vegas,Ottawa,4,2,NaN,-185,NaN,160,NaN,-167,NaN,146
+2020-01-16,Anaheim,Nashville,4,2,NaN,176,NaN,-210,NaN,163,NaN,-190
+2020-01-16,Tampa Bay,Minnesota,2,3,NaN,-173,NaN,150,NaN,-157,NaN,137
+2020-01-16,Buffalo,Dallas,4,1,NaN,176,NaN,-210,NaN,176,NaN,-210
+2020-01-16,San Jose,Colorado,0,4,NaN,176,NaN,-210,NaN,195,NaN,-235
+2020-01-16,Arizona,Vancouver,1,3,NaN,125,NaN,-145,NaN,-110,NaN,-110
+2020-01-17,Anaheim,Carolina,2,1,NaN,203,NaN,-245,NaN,171,NaN,-223
+2020-01-17,Pittsburgh,Detroit,2,1,NaN,-230,NaN,192,NaN,-255,NaN,211
+2020-01-17,Tampa Bay,Winnipeg,7,1,NaN,-140,NaN,120,NaN,-142,NaN,122
+2020-01-18,Washington,N.Y. Islanders,6,4,NaN,-122,NaN,102,NaN,-140,NaN,110
+2020-01-18,Arizona,Edmonton,3,7,NaN,113,NaN,-133,NaN,169,NaN,-221
+2020-01-18,St. Louis,Colorado,3,5,NaN,120,NaN,-140,NaN,115,NaN,-135
+2020-01-18,Calgary,Ottawa,2,5,NaN,-155,NaN,135,NaN,-167,NaN,146
+2020-01-18,Los Angeles,Philadelphia,1,4,NaN,158,NaN,-183,NaN,125,NaN,-145
+2020-01-18,Vegas,Montreal,4,5,NaN,-135,NaN,115,NaN,-122,NaN,102
+2020-01-18,Chicago,Toronto,6,2,NaN,176,NaN,-210,NaN,170,NaN,-200
+2020-01-18,Florida,Detroit,4,1,NaN,-205,NaN,172,NaN,-235,NaN,195
+2020-01-18,New Jersey,Columbus,0,5,NaN,166,NaN,-195,NaN,166,NaN,-195
+2020-01-18,Buffalo,Nashville,1,2,NaN,162,NaN,-188,NaN,160,NaN,-185
+2020-01-18,Dallas,Minnesota,0,7,NaN,-115,NaN,-105,NaN,-110,NaN,-110
+2020-01-18,San Jose,Vancouver,1,4,NaN,144,NaN,-165,NaN,115,NaN,-135
+2020-01-19,Boston,Pittsburgh,3,4,NaN,105,NaN,-125,NaN,100,NaN,-120
+2020-01-19,N.Y. Islanders,Carolina,1,2,NaN,151,NaN,-175,NaN,160,NaN,-185
+2020-01-19,Winnipeg,Chicago,2,5,NaN,-108,NaN,-112,NaN,-109,NaN,-111
+2020-01-19,Columbus,N.Y. Rangers,2,1,NaN,-105,NaN,-115,NaN,118,NaN,-138
+2020-01-20,Detroit,Colorado,3,6,NaN,281,NaN,-350,NaN,289,NaN,-464
+2020-01-20,Florida,Minnesota,5,4,NaN,-105,NaN,-115,NaN,-110,NaN,-110
+2020-01-21,Winnipeg,Carolina,1,4,NaN,155,NaN,-180,NaN,145,NaN,-166
+2020-01-21,N.Y. Islanders,N.Y. Rangers,4,2,NaN,-125,NaN,105,NaN,-110,NaN,-110
+2020-01-21,Vegas,Boston,2,3,NaN,115,NaN,-135,NaN,135,NaN,-155
+2020-01-21,Pittsburgh,Philadelphia,0,3,NaN,-130,NaN,110,NaN,-135,NaN,115
+2020-01-21,Florida,Chicago,4,3,NaN,105,NaN,-125,NaN,-112,NaN,-108
+2020-01-22,Winnipeg,Columbus,3,4,NaN,140,NaN,-160,NaN,170,NaN,-200
+2020-01-22,Detroit,Minnesota,2,4,NaN,215,NaN,-260,NaN,237,NaN,-290
+2020-01-27,Washington,Montreal,4,2,NaN,-128,NaN,108,NaN,-125,NaN,105
+2020-01-27,New Jersey,Ottawa,4,3,NaN,110,NaN,-130,NaN,101,NaN,-121
+2020-01-27,Toronto,Nashville,5,2,NaN,-105,NaN,-115,NaN,-105,NaN,-115
+2020-01-27,Tampa Bay,Dallas,2,3,NaN,-130,NaN,110,NaN,-134,NaN,114
+2020-01-27,St. Louis,Vancouver,1,3,NaN,-110,NaN,-110,NaN,-135,NaN,115
+2020-01-27,Anaheim,San Jose,2,4,NaN,125,NaN,-145,NaN,135,NaN,-155
+2020-01-28,Ottawa,Buffalo,5,2,NaN,148,NaN,-170,NaN,172,NaN,-205
+2020-01-28,St. Louis,Calgary,5,4,NaN,100,NaN,-120,NaN,-103,NaN,-117
+2020-01-29,Toronto,Dallas,5,3,NaN,-105,NaN,-115,NaN,-110,NaN,-110
+2020-01-29,Nashville,Washington,5,4,NaN,148,NaN,-170,NaN,135,NaN,-155
+2020-01-29,Calgary,Edmonton,4,3,NaN,102,NaN,-122,NaN,100,NaN,-120
+2020-01-29,Arizona,Anaheim,2,4,NaN,-125,NaN,105,NaN,-120,NaN,100
+2020-01-29,Tampa Bay,Los Angeles,4,2,NaN,-190,NaN,163,NaN,-250,NaN,207
+2020-01-29,Vancouver,San Jose,5,2,NaN,-110,NaN,-110,NaN,-101,NaN,-119
+2020-01-30,Montreal,Buffalo,3,1,NaN,-113,NaN,-107,NaN,-114,NaN,-106
+2020-01-30,Nashville,New Jersey,6,5,NaN,-138,NaN,118,NaN,-145,NaN,125
+2020-01-30,Los Angeles,Arizona,3,2,NaN,150,NaN,-173,NaN,144,NaN,-165
+2020-01-31,Philadelphia,Pittsburgh,3,4,NaN,146,NaN,-168,NaN,164,NaN,-192
+2020-01-31,Detroit,N.Y. Rangers,2,4,NaN,172,NaN,-205,NaN,211,NaN,-255
+2020-01-31,Washington,Ottawa,5,3,NaN,-200,NaN,170,NaN,-207,NaN,173
+2020-01-31,Vegas,Carolina,4,3,NaN,135,NaN,-155,NaN,120,NaN,-140
+2020-01-31,Boston,Winnipeg,2,1,NaN,-147,NaN,127,NaN,-185,NaN,160
+2020-01-31,St. Louis,Edmonton,2,4,NaN,-130,NaN,110,NaN,-119,NaN,-101
+2020-01-31,Tampa Bay,Anaheim,4,3,NaN,-205,NaN,172,NaN,-203,NaN,171
+2020-02-01,Vancouver,N.Y. Islanders,4,3,NaN,120,NaN,-140,NaN,113,NaN,-133
+2020-02-01,Columbus,Buffalo,1,2,NaN,-135,NaN,115,NaN,-122,NaN,102
+2020-02-01,Florida,Montreal,0,4,NaN,-105,NaN,-115,NaN,100,NaN,-120
+2020-02-01,St. Louis,Winnipeg,2,5,NaN,-130,NaN,110,NaN,-145,NaN,125
+2020-02-01,Ottawa,Toronto,1,2,NaN,281,NaN,-350,NaN,234,NaN,-285
+2020-02-01,N.Y. Rangers,Detroit,1,0,NaN,-148,NaN,128,NaN,-175,NaN,151
+2020-02-01,Colorado,Philadelphia,3,6,NaN,-150,NaN,130,NaN,-152,NaN,132
+2020-02-01,Dallas,New Jersey,3,2,NaN,-145,NaN,125,NaN,-160,NaN,140
+2020-02-01,Vegas,Nashville,3,0,NaN,105,NaN,-125,NaN,105,NaN,-125
+2020-02-01,Boston,Minnesota,6,1,NaN,-145,NaN,125,NaN,-122,NaN,102
+2020-02-01,Chicago,Arizona,3,2,NaN,120,NaN,-140,NaN,120,NaN,-140
+2020-02-01,Edmonton,Calgary,8,3,NaN,140,NaN,-160,NaN,142,NaN,-162
+2020-02-01,Anaheim,Los Angeles,3,1,NaN,-103,NaN,-117,NaN,110,NaN,-130
+2020-02-01,Tampa Bay,San Jose,3,0,NaN,-173,NaN,150,NaN,-162,NaN,142
+2020-02-02,Pittsburgh,Washington,4,3,NaN,113,NaN,-133,NaN,128,NaN,-148
+2020-02-02,Columbus,Montreal,4,3,NaN,115,NaN,-135,NaN,117,NaN,-137
+2020-02-02,Vancouver,Carolina,3,4,NaN,151,NaN,-175,NaN,155,NaN,-180
+2020-02-03,Dallas,N.Y. Rangers,5,3,NaN,-137,NaN,117,NaN,-135,NaN,115
+2020-02-03,Florida,Toronto,5,3,NaN,148,NaN,-170,NaN,147,NaN,-169
+2020-02-03,Philadelphia,Detroit,3,0,NaN,-230,NaN,192,NaN,-206,NaN,173
+2020-02-04,Montreal,New Jersey,5,4,NaN,-125,NaN,105,NaN,-128,NaN,108
+2020-02-04,Florida,Columbus,0,1,NaN,115,NaN,-135,NaN,108,NaN,-128
+2020-02-04,Dallas,N.Y. Islanders,3,4,NaN,105,NaN,-125,NaN,107,NaN,-127
+2020-02-04,Vegas,Tampa Bay,2,4,NaN,148,NaN,-170,NaN,150,NaN,-174
+2020-02-04,Vancouver,Boston,0,4,NaN,155,NaN,-180,NaN,172,NaN,-205
+2020-02-04,Colorado,Buffalo,6,1,NaN,-150,NaN,130,NaN,-175,NaN,151
+2020-02-04,Los Angeles,Washington,2,4,NaN,215,NaN,-260,NaN,207,NaN,-250
+2020-02-04,Anaheim,Ottawa,3,2,NaN,100,NaN,-120,NaN,-108,NaN,-112
+2020-02-04,Nashville,Winnipeg,2,1,NaN,-110,NaN,-110,NaN,-125,NaN,105
+2020-02-04,Carolina,St. Louis,3,6,NaN,115,NaN,-135,NaN,113,NaN,-133
+2020-02-04,Chicago,Minnesota,2,3,NaN,100,NaN,-120,NaN,108,NaN,-128
+2020-02-04,San Jose,Calgary,3,1,NaN,160,NaN,-185,NaN,160,NaN,-185
+2020-02-04,Edmonton,Arizona,0,3,NaN,100,NaN,-120,NaN,-103,NaN,-117
+2020-02-05,Toronto,N.Y. Rangers,3,5,NaN,-140,NaN,120,NaN,-145,NaN,125
+2020-02-05,Boston,Chicago,2,1,NaN,-160,NaN,140,NaN,-155,NaN,135
+2020-02-06,Pittsburgh,Tampa Bay,2,4,NaN,144,NaN,-165,NaN,136,NaN,-156
+2020-02-06,New Jersey,Philadelphia,5,0,NaN,195,NaN,-235,NaN,192,NaN,-230
+2020-02-06,Detroit,Buffalo,4,3,NaN,184,NaN,-220,NaN,192,NaN,-230
+2020-02-06,Los Angeles,N.Y. Islanders,3,5,NaN,172,NaN,-205,NaN,153,NaN,-178
+2020-02-06,Anaheim,Montreal,2,3,NaN,149,NaN,-172,NaN,134,NaN,-154
+2020-02-06,Vegas,Florida,7,2,NaN,-115,NaN,-105,NaN,-125,NaN,105
+2020-02-06,Colorado,Ottawa,4,1,NaN,-220,NaN,184,NaN,-215,NaN,180
+2020-02-06,Vancouver,Minnesota,2,4,NaN,100,NaN,-120,NaN,115,NaN,-135
+2020-02-06,Winnipeg,St. Louis,4,2,NaN,170,NaN,-200,NaN,170,NaN,-200
+2020-02-06,Carolina,Arizona,5,3,NaN,-130,NaN,110,NaN,-110,NaN,-110
+2020-02-06,Nashville,Calgary,3,2,NaN,-105,NaN,-115,NaN,-117,NaN,-103
+2020-02-06,San Jose,Edmonton,6,3,NaN,146,NaN,-168,NaN,144,NaN,-165
+2020-02-07,Anaheim,Toronto,4,5,NaN,203,NaN,-245,NaN,211,NaN,-255
+2020-02-07,Buffalo,N.Y. Rangers,3,2,NaN,148,NaN,-170,NaN,143,NaN,-163
+2020-02-07,Detroit,Columbus,0,2,NaN,245,NaN,-300,NaN,289,NaN,-360
+2020-02-07,Minnesota,Dallas,3,2,NaN,151,NaN,-175,NaN,163,NaN,-190
+2020-02-08,Ottawa,Winnipeg,2,5,NaN,152,NaN,-177,NaN,135,NaN,-155
+2020-02-08,Arizona,Boston,2,4,NaN,180,NaN,-215,NaN,199,NaN,-240
+2020-02-08,Los Angeles,New Jersey,0,3,NaN,118,NaN,-138,NaN,101,NaN,-110
+2020-02-08,Nashville,Edmonton,2,3,NaN,-122,NaN,102,NaN,-110,NaN,-110
+2020-02-08,Colorado,Columbus,2,1,NaN,-145,NaN,125,NaN,-143,NaN,123
+2020-02-08,Toronto,Montreal,1,2,NaN,-130,NaN,110,NaN,-115,NaN,-119
+2020-02-08,Pittsburgh,Florida,3,2,NaN,-120,NaN,100,NaN,-117,NaN,-103
+2020-02-08,Philadelphia,Washington,7,2,NaN,163,NaN,-190,NaN,152,NaN,-177
+2020-02-08,N.Y. Islanders,Tampa Bay,1,3,NaN,188,NaN,-225,NaN,172,NaN,-205
+2020-02-08,Dallas,St. Louis,3,2,NaN,140,NaN,-160,NaN,152,NaN,-177
+2020-02-08,Calgary,Vancouver,6,2,NaN,113,NaN,-133,NaN,113,NaN,-133
+2020-02-08,Carolina,Vegas,6,5,NaN,100,NaN,-120,NaN,122,NaN,-142
+2020-02-09,Boston,Detroit,1,3,NaN,-280,NaN,230,NaN,-350,NaN,281
+2020-02-09,Anaheim,Buffalo,3,2,NaN,100,NaN,-120,NaN,102,NaN,-122
+2020-02-09,Los Angeles,N.Y. Rangers,1,4,NaN,157,NaN,-182,NaN,146,NaN,-206
+2020-02-09,Chicago,Winnipeg,2,5,NaN,105,NaN,-125,NaN,102,NaN,-122
+2020-02-09,Colorado,Minnesota,3,2,NaN,-117,NaN,-103,NaN,-138,NaN,118
+2020-02-10,Arizona,Montreal,3,2,NaN,120,NaN,-140,NaN,125,NaN,-145
+2020-02-10,Florida,Philadelphia,1,4,NaN,113,NaN,-133,NaN,115,NaN,-135
+2020-02-10,N.Y. Islanders,Washington,5,3,NaN,155,NaN,-180,NaN,155,NaN,-180
+2020-02-10,Tampa Bay,Columbus,2,1,NaN,-150,NaN,130,NaN,-155,NaN,135
+2020-02-10,Nashville,Vancouver,2,6,NaN,-105,NaN,-115,NaN,-114,NaN,-106
+2020-02-10,Calgary,San Jose,6,2,NaN,-110,NaN,-110,NaN,-122,NaN,102
+2020-02-11,Arizona,Toronto,2,3,NaN,170,NaN,-200,NaN,170,NaN,-200
+2020-02-11,Detroit,Buffalo,2,3,NaN,180,NaN,-215,NaN,170,NaN,-200
+2020-02-11,Tampa Bay,Pittsburgh,2,1,NaN,-105,NaN,-115,NaN,110,NaN,-130
+2020-02-11,Florida,New Jersey,5,3,NaN,-125,NaN,105,NaN,-122,NaN,102
+2020-02-11,Philadelphia,N.Y. Islanders,3,5,NaN,115,NaN,-135,NaN,107,NaN,-127
+2020-02-11,N.Y. Rangers,Winnipeg,4,1,NaN,120,NaN,-140,NaN,107,NaN,-127
+2020-02-11,Vegas,Minnesota,0,4,NaN,-125,NaN,105,NaN,-150,NaN,130
+2020-02-11,Carolina,Dallas,1,4,NaN,105,NaN,-125,NaN,-108,NaN,-112
+2020-02-11,Ottawa,Colorado,0,3,NaN,256,NaN,-315,NaN,260,NaN,-320
+2020-02-11,Chicago,Edmonton,3,5,NaN,105,NaN,-125,NaN,-105,NaN,-115
+2020-02-12,Montreal,Boston,1,4,NaN,172,NaN,-205,NaN,188,NaN,-225
+2020-02-12,Calgary,Los Angeles,3,5,NaN,-145,NaN,125,NaN,-130,NaN,110
+2020-02-12,Chicago,Vancouver,0,3,NaN,135,NaN,-155,NaN,130,NaN,-150
+2020-02-13,Philadelphia,Florida,3,2,NaN,115,NaN,-135,NaN,107,NaN,-127
+2020-02-13,Dallas,Toronto,1,4,NaN,120,NaN,-140,NaN,122,NaN,-142
+2020-02-13,Detroit,New Jersey,3,4,NaN,155,NaN,-180,NaN,155,NaN,-180
+2020-02-13,Columbus,Buffalo,1,3,NaN,-105,NaN,-115,NaN,-110,NaN,-110
+2020-02-13,Edmonton,Tampa Bay,2,3,NaN,192,NaN,-230,NaN,163,NaN,-190
+2020-02-13,Arizona,Ottawa,0,5,NaN,-145,NaN,125,NaN,-130,NaN,110
+2020-02-13,N.Y. Islanders,Nashville,4,3,NaN,120,NaN,-140,NaN,120,NaN,-140
+2020-02-13,N.Y. Rangers,Minnesota,3,2,NaN,110,NaN,-130,NaN,112,NaN,-132
+2020-02-13,Washington,Colorado,5,6,NaN,110,NaN,-130,NaN,118,NaN,-138
+2020-02-13,St. Louis,Vegas,6,0,NaN,120,NaN,-140,NaN,110,NaN,-130
+2020-02-14,San Jose,Winnipeg,3,2,NaN,140,NaN,-160,NaN,124,NaN,-173
+2020-02-14,N.Y. Rangers,Columbus,3,1,NaN,130,NaN,-150,NaN,128,NaN,-148
+2020-02-14,New Jersey,Carolina,2,5,NaN,192,NaN,-230,NaN,234,NaN,-285
+2020-02-14,Montreal,Pittsburgh,1,4,NaN,170,NaN,-200,NaN,155,NaN,-180
+2020-02-15,Detroit,Boston,1,4,NaN,351,NaN,-450,NaN,462,NaN,-625
+2020-02-15,Nashville,St. Louis,4,3,NaN,110,NaN,-130,NaN,118,NaN,-138
+2020-02-15,Edmonton,Florida,4,1,NaN,143,NaN,-163,NaN,130,NaN,-150
+2020-02-15,Philadelphia,Tampa Bay,3,5,NaN,151,NaN,-175,NaN,170,NaN,-200
+2020-02-15,San Jose,Minnesota,2,0,NaN,138,NaN,-158,NaN,183,NaN,-219
+2020-02-15,Dallas,Montreal,4,3,NaN,-135,NaN,115,NaN,-125,NaN,105
+2020-02-15,Toronto,Ottawa,4,2,NaN,-205,NaN,172,NaN,-167,NaN,146
+2020-02-15,Los Angeles,Colorado,3,1,NaN,184,NaN,-220,NaN,245,NaN,-300
+2020-02-15,Chicago,Calgary,8,4,NaN,128,NaN,-148,NaN,115,NaN,-135
+2020-02-15,Washington,Arizona,1,3,NaN,-138,NaN,118,NaN,-134,NaN,114
+2020-02-15,N.Y. Islanders,Vegas,0,1,NaN,152,NaN,-177,NaN,155,NaN,-180
+2020-02-16,Detroit,Pittsburgh,1,5,NaN,317,NaN,-400,NaN,431,NaN,-575
+2020-02-16,Boston,N.Y. Rangers,3,1,NaN,-153,NaN,133,NaN,-161,NaN,141
+2020-02-16,Edmonton,Carolina,4,3,NaN,180,NaN,-215,NaN,180,NaN,-215
+2020-02-16,Anaheim,Vancouver,5,1,NaN,160,NaN,-185,NaN,114,NaN,-159
+2020-02-16,Dallas,Ottawa,3,4,NaN,-180,NaN,155,NaN,-160,NaN,140
+2020-02-16,Columbus,New Jersey,3,4,NaN,-148,NaN,128,NaN,-130,NaN,110
+2020-02-16,St. Louis,Nashville,1,2,NaN,103,NaN,-123,NaN,-107,NaN,-113
+2020-02-16,Toronto,Buffalo,2,5,NaN,-163,NaN,143,NaN,-147,NaN,126
+2020-02-16,Chicago,Winnipeg,2,3,NaN,120,NaN,-140,NaN,115,NaN,-159
+2020-02-17,Florida,San Jose,5,3,NaN,-127,NaN,107,NaN,-150,NaN,130
+2020-02-17,N.Y. Islanders,Arizona,1,2,NaN,115,NaN,-135,NaN,104,NaN,-124
+2020-02-17,Anaheim,Calgary,4,6,NaN,163,NaN,-190,NaN,160,NaN,-185
+2020-02-17,Washington,Vegas,2,3,NaN,108,NaN,-128,NaN,115,NaN,-135
+2020-02-17,Tampa Bay,Colorado,4,3,NaN,-113,NaN,-107,NaN,-119,NaN,-101
+2020-02-18,Columbus,Philadelphia,1,5,NaN,125,NaN,-145,NaN,132,NaN,-152
+2020-02-18,Toronto,Pittsburgh,2,5,NaN,115,NaN,-135,NaN,122,NaN,-142
+2020-02-18,Montreal,Detroit,3,4,NaN,-185,NaN,160,NaN,-200,NaN,170
+2020-02-18,Buffalo,Ottawa,4,7,NaN,-115,NaN,-105,NaN,-120,NaN,100
+2020-02-18,Carolina,Nashville,4,1,NaN,110,NaN,-130,NaN,103,NaN,-123
+2020-02-18,New Jersey,St. Louis,0,3,NaN,180,NaN,-215,NaN,237,NaN,-290
+2020-02-18,Los Angeles,Winnipeg,3,6,NaN,135,NaN,-155,NaN,144,NaN,-165
+2020-02-19,N.Y. Rangers,Chicago,6,3,NaN,100,NaN,-120,NaN,118,NaN,-139
+2020-02-19,Boston,Edmonton,2,1,NaN,-170,NaN,148,NaN,-185,NaN,160
+2020-02-19,Arizona,Dallas,2,3,NaN,144,NaN,-165,NaN,147,NaN,-169
+2020-02-19,N.Y. Islanders,Colorado,1,3,NaN,144,NaN,-165,NaN,130,NaN,-150
+2020-02-19,Florida,Anaheim,4,1,NaN,-130,NaN,110,NaN,-130,NaN,110
+2020-02-19,Minnesota,Vancouver,4,3,NaN,118,NaN,-138,NaN,120,NaN,-140
+2020-02-20,San Jose,New Jersey,1,2,NaN,110,NaN,-130,NaN,120,NaN,-140
+2020-02-20,Philadelphia,Columbus,4,3,NaN,-101,NaN,-119,NaN,-104,NaN,-116
+2020-02-20,Montreal,Washington,4,3,NaN,163,NaN,-190,NaN,160,NaN,-185
+2020-02-20,Pittsburgh,Toronto,0,4,NaN,-115,NaN,-105,NaN,-110,NaN,-110
+2020-02-20,Winnipeg,Ottawa,5,1,NaN,-140,NaN,120,NaN,-123,NaN,103
+2020-02-20,Arizona,St. Louis,0,1,NaN,163,NaN,-190,NaN,151,NaN,-175
+2020-02-20,Tampa Bay,Vegas,3,5,NaN,-110,NaN,-110,NaN,-112,NaN,-108
+2020-02-20,Florida,Los Angeles,4,5,NaN,-135,NaN,115,NaN,-147,NaN,127
+2020-02-21,N.Y. Rangers,Carolina,5,2,NaN,160,NaN,-185,NaN,142,NaN,-162
+2020-02-21,Detroit,N.Y. Islanders,1,4,NaN,289,NaN,-360,NaN,256,NaN,-315
+2020-02-21,Nashville,Chicago,1,2,NaN,-137,NaN,117,NaN,-127,NaN,107
+2020-02-21,St. Louis,Dallas,5,1,NaN,115,NaN,-135,NaN,132,NaN,-184
+2020-02-21,Boston,Calgary,4,3,NaN,-147,NaN,127,NaN,117,NaN,-163
+2020-02-21,Minnesota,Edmonton,5,3,NaN,-107,NaN,-113,NaN,-105,NaN,-115
+2020-02-21,Colorado,Anaheim,1,0,NaN,-155,NaN,135,NaN,-172,NaN,149
+2020-02-22,Washington,New Jersey,2,3,NaN,-190,NaN,163,NaN,-215,NaN,180
+2020-02-22,Winnipeg,Philadelphia,2,4,NaN,125,NaN,-145,NaN,132,NaN,-152
+2020-02-22,Buffalo,Pittsburgh,5,2,NaN,192,NaN,-230,NaN,195,NaN,-235
+2020-02-22,Carolina,Toronto,6,3,NaN,115,NaN,-135,NaN,146,NaN,-168
+2020-02-22,Montreal,Ottawa,3,0,NaN,-123,NaN,103,NaN,-151,NaN,131
+2020-02-22,San Jose,N.Y. Rangers,2,3,NaN,155,NaN,-180,NaN,136,NaN,-156
+2020-02-22,Tampa Bay,Arizona,3,7,NaN,-175,NaN,151,NaN,-167,NaN,145
+2020-02-22,Columbus,Nashville,3,4,NaN,143,NaN,-163,NaN,142,NaN,-162
+2020-02-22,Florida,Vegas,3,5,NaN,152,NaN,-177,NaN,170,NaN,-201
+2020-02-22,Boston,Vancouver,3,9,NaN,-143,NaN,123,NaN,-140,NaN,120
+2020-02-22,Colorado,Los Angeles,2,1,NaN,-158,NaN,138,NaN,-152,NaN,132
+2020-02-23,Pittsburgh,Washington,3,5,NaN,113,NaN,-133,NaN,113,NaN,-133
+2020-02-23,Winnipeg,Buffalo,1,2,NaN,-115,NaN,-105,NaN,-112,NaN,-108
+2020-02-23,Chicago,Dallas,1,2,NaN,166,NaN,-195,NaN,166,NaN,-195
+2020-02-23,San Jose,N.Y. Islanders,1,4,NaN,184,NaN,-220,NaN,192,NaN,-230
+2020-02-23,Calgary,Detroit,4,2,NaN,-220,NaN,184,NaN,-230,NaN,192
+2020-02-23,St. Louis,Minnesota,4,1,NaN,-115,NaN,-105,NaN,-121,NaN,101
+2020-02-23,Edmonton,Los Angeles,4,2,NaN,-140,NaN,120,NaN,-147,NaN,127
+2020-02-23,Vegas,Anaheim,6,5,NaN,-170,NaN,148,NaN,-164,NaN,143
+2020-02-24,Ottawa,Columbus,3,4,NaN,180,NaN,-215,NaN,205,NaN,-247
+2020-02-25,Calgary,Boston,5,2,NaN,184,NaN,-220,NaN,170,NaN,-200
+2020-02-25,Vancouver,Montreal,4,3,NaN,120,NaN,-140,NaN,118,NaN,-138
+2020-02-25,San Jose,Philadelphia,2,4,NaN,184,NaN,-220,NaN,207,NaN,-250
+2020-02-25,Dallas,Carolina,4,1,NaN,-120,NaN,100,NaN,105,NaN,-125
+2020-02-25,Toronto,Tampa Bay,4,3,NaN,166,NaN,-195,NaN,157,NaN,-182
+2020-02-25,N.Y. Rangers,N.Y. Islanders,4,3,NaN,115,NaN,-135,NaN,120,NaN,-140
+2020-02-25,Winnipeg,Washington,3,4,NaN,166,NaN,-195,NaN,185,NaN,-222
+2020-02-25,New Jersey,Detroit,4,1,NaN,-130,NaN,110,NaN,-120,NaN,100
+2020-02-25,Ottawa,Nashville,2,3,NaN,226,NaN,-275,NaN,293,NaN,-367
+2020-02-25,Chicago,St. Louis,5,6,NaN,172,NaN,-205,NaN,172,NaN,-205
+2020-02-25,Columbus,Minnesota,4,5,NaN,130,NaN,-150,NaN,137,NaN,-157
+2020-02-25,Florida,Arizona,2,1,NaN,108,NaN,-128,NaN,114,NaN,-134
+2020-02-25,Edmonton,Anaheim,3,4,NaN,-150,NaN,130,NaN,-147,NaN,127
+2020-02-26,Buffalo,Colorado,2,3,NaN,180,NaN,-215,NaN,180,NaN,-215
+2020-02-26,Pittsburgh,Los Angeles,1,2,NaN,-175,NaN,151,NaN,-220,NaN,184
+2020-02-26,Edmonton,Vegas,0,3,NaN,170,NaN,-200,NaN,188,NaN,-225
+2020-02-27,Chicago,Tampa Bay,5,2,NaN,180,NaN,-215,NaN,195,NaN,-235
+2020-02-27,Toronto,Florida,5,3,NaN,-115,NaN,-105,NaN,-119,NaN,-101
+2020-02-27,N.Y. Rangers,Montreal,5,2,NaN,110,NaN,-130,NaN,110,NaN,-130
+2020-02-27,Dallas,Boston,3,4,NaN,151,NaN,-175,NaN,149,NaN,-173
+2020-02-27,Vancouver,Ottawa,2,5,NaN,-165,NaN,144,NaN,-170,NaN,148
+2020-02-27,Minnesota,Detroit,7,1,NaN,-205,NaN,172,NaN,-240,NaN,199
+2020-02-27,Calgary,Nashville,3,4,NaN,113,NaN,-133,NaN,105,NaN,-125
+2020-02-27,Washington,Winnipeg,0,3,NaN,-147,NaN,127,NaN,-146,NaN,126
+2020-02-27,N.Y. Islanders,St. Louis,2,3,NaN,146,NaN,-168,NaN,144,NaN,-165
+2020-02-27,New Jersey,San Jose,2,3,NaN,133,NaN,-153,NaN,124,NaN,-144
+2020-02-28,Minnesota,Columbus,5,0,NaN,113,NaN,-133,NaN,105,NaN,-125
+2020-02-28,N.Y. Rangers,Philadelphia,2,5,NaN,146,NaN,-167,NaN,151,NaN,-175
+2020-02-28,Colorado,Carolina,3,2,NaN,-117,NaN,-103,NaN,-114,NaN,-106
+2020-02-28,Pittsburgh,Anaheim,2,3,NaN,-167,NaN,146,NaN,-225,NaN,188
+2020-02-28,Buffalo,Vegas,2,4,NaN,226,NaN,-275,NaN,234,NaN,-285

@@ -1,0 +1,72 @@
+<!doctype html>
+
+<head>
+    <title>Don't Quit Your Day Job</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+    <link rel="stylesheet" href="css/jquery-ui.min.css" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="js/highcharts.js"></script>
+</head>
+
+<body>
+    <img id="background" src="images/rivers.jpg">
+    
+    <div id="intro">
+        <div id="caption"></div>
+    </div>
+
+    <footer>
+        <a id="next" href="#">&#x27A1;</a>
+    </footer>
+    
+    <nav>
+        <div>
+            <div class="label">LEAGUE</div>
+            <select id="league"></select>
+        </div>
+        <div>
+            <div class="label">SEASON</div>
+            <select id="season"></select>
+        </div>
+        <div>
+            <div class="label">BET TYPE</div>
+            <select id="type"></select>
+        </div>
+        <div>
+            <div class="label">BETTING WINDOW</div>
+            <select id="window">
+                <option value="full">FULL SEASON</option>
+                <option value="half">BOTTOM ½ SEASON</option>
+            </select>
+        </div>
+        <div>
+            <div class="label">DOGS FILTER</div>
+            <select id="dogs">
+                <option value="off">OFF (FAVES + DOGS)</option>
+                <option value="on">ON (FAVES ONLY)</option>
+            </select>
+        </div>
+        <div>
+            <div class="label">PRICE</div>
+            <select id="threshold">
+                <option value="1">> 0% OFF</option>
+                <option value="0.9">> 10% OFF</option>
+                <option value="0.8">> 20% OFF</option>
+                <option value="0.7">> 30% OFF</option>
+                <option value="0.6">> 40% OFF</option>
+                <option value="0.5">> 50% OFF</option>
+            </select>
+        </div>
+        <div>
+            <button id="simulate">SIMULATE</button>
+        </div>
+    </nav>
+
+    <main id="chart"></main>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
